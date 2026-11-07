@@ -1,0 +1,65 @@
+section,metric,value,notes
+Dataset,Total drug records,1701,
+Dataset,Total interaction templates,86,
+Dataset,Total interaction label records,190238,
+Dataset,Total pair summary records,189832,
+Dataset,Unique drugs in clean_drugs,1701,
+Dataset,Unique canonical drug pairs in labels,189832,
+Dataset,Unique canonical drug pairs in summary,189832,
+Interaction Families,Number of unique interaction families,9,
+Family Frequency,Adverse Effect Risk,61181,Unique pairs: 61181
+Family Frequency,Pharmacological Activity,44814,Unique pairs: 44813
+Family Frequency,Drug Metabolism,39199,Unique pairs: 39199
+Family Frequency,Serum Concentration,34709,Unique pairs: 34659
+Family Frequency,Therapeutic Efficacy,7903,Unique pairs: 7903
+Family Frequency,Drug Excretion,1847,Unique pairs: 1847
+Family Frequency,Bioavailability,529,Unique pairs: 529
+Family Frequency,Drug Absorption,45,Unique pairs: 45
+Family Frequency,Protein Binding,11,Unique pairs: 11
+Top Interaction Descriptions,gamma-Hydroxybutyric acid may increase the sedative activities of Rotigotine.,1,Unique pairs: 1
+Top Interaction Descriptions,Abacavir may increase the hepatotoxic activities of Ribavirin.,1,Unique pairs: 1
+Top Interaction Descriptions,Abiraterone may decrease the cardiotoxic activities of Acetyldigitoxin.,1,Unique pairs: 1
+Top Interaction Descriptions,Abiraterone may decrease the cardiotoxic activities of Deslanoside.,1,Unique pairs: 1
+Top Interaction Descriptions,Abiraterone may decrease the cardiotoxic activities of Digitoxin.,1,Unique pairs: 1
+Top Interaction Descriptions,Abiraterone may decrease the cardiotoxic activities of Digoxin.,1,Unique pairs: 1
+Top Interaction Descriptions,Abiraterone may decrease the cardiotoxic activities of Ouabain.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Acetylsalicylic acid.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Aminosalicylic acid.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Amphetamine.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Balsalazide.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Cinoxacin.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Citalopram.,1,Unique pairs: 1
+Top Interaction Descriptions,Acarbose may increase the hypoglycemic activities of Desvenlafaxine.,1,Unique pairs: 1
+Top Interaction Descriptions,Zuclopenthixol may increase the sedative activities of Ropinirole.,1,Unique pairs: 1
+Top Interaction Descriptions,Zuclopenthixol may increase the sedative activities of Pramipexole.,1,Unique pairs: 1
+Top Interaction Descriptions,Zuclopenthixol may increase the sedative activities of Metyrosine.,1,Unique pairs: 1
+Top Interaction Descriptions,Zuclopenthixol may increase the central nervous system depressant (CNS depressant) activities of Tapentadol.,1,Unique pairs: 1
+Top Interaction Descriptions,Zuclopenthixol may increase the central nervous system depressant (CNS depressant) activities of Sodium oxybate.,1,Unique pairs: 1
+Top Interaction Descriptions,Zuclopenthixol may increase the central nervous system depressant (CNS depressant) activities of Perampanel.,1,Unique pairs: 1
+Pair Analysis,Pairs with multiple interaction descriptions,406,
+Pair Analysis,Pairs with multiple interaction families,355,
+Pair Analysis,Pairs with multiple affected-drug records,135,
+Pair Analysis,Pairs with more than one interaction record,406,
+Consistency,Label pairs absent from pair summary,0,
+Consistency,Summary pairs absent from labels,0,
+Consistency,Interaction count mismatches,0,
+Consistency,Family count mismatches,0,
+Consistency,Affected target count mismatches,0,
+Data Quality,Drugs: duplicate rows,0,
+Data Quality,Drugs: total missing cells,958,
+Data Quality,Templates: duplicate rows,0,
+Data Quality,Templates: total missing cells,0,
+Data Quality,Labels: duplicate rows,0,
+Data Quality,Labels: total missing cells,0,
+Data Quality,Pair Summary: duplicate rows,0,
+Data Quality,Pair Summary: total missing cells,0,
+Drug Data Quality,Missing smiles,13,
+Drug Data Quality,Missing canonical_smiles,13,
+Drug Data Quality,Missing drug_key,0,
+Drug Data Quality,Drugs with valid SMILES,1688,
+Drug Data Quality,Drugs with missing molecular weight,13,
+Clinical Evidence,Clinical evidence fields available,0,
+Clinical Evidence,Clinical evidence fields absent,6,"clinical_effect, severity, clinical_significance, management, evidence_source, evidence_quality"
+Clinical Evidence,Pairs with verified severity in shared datasets,0,No verified clinical severity labels are supplied in these four files.
+Clinical Evidence,Pairs requiring clinical evidence assessment,189832,Requires evidence retrieval and independent assessment.
+Clinical Evidence,Pairs with insufficient evidence,Not yet determined,Must be determined after clinical evidence collection.

@@ -1,0 +1,9 @@
+{
+    "ddi_unique_drugs": 1683,
+    "ddinter_unique_drugs": 1939,
+    "shared_exact_normalized_drug_names": 1184,
+    "ddi_drugs_not_found_in_ddinter": 499,
+    "ddinter_drugs_not_found_in_ddi": 755,
+    "ddi_drug_name_overlap_percent": 70.35,
+    "ddinter_order_independent_pair_level_duplicate_records": 62148
+}

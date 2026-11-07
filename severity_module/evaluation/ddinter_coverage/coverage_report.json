@@ -1,0 +1,17 @@
+{
+    "ddi_interaction_rows": 190238,
+    "ddi_unique_pairs": 189832,
+    "ddinter_interaction_rows": 222383,
+    "ddinter_unique_pairs": 160235,
+    "exact_name_matched_pairs": 37087,
+    "ddinvolve_unmatched_pairs": 152745,
+    "ddinter_only_pairs": 123148,
+    "ddinvolve_pair_coverage_percent": 19.54,
+    "matched_pairs_by_ddinter_level": {
+        "Moderate": 22655,
+        "Major": 8657,
+        "Unknown": 4575,
+        "Minor": 1200
+    },
+    "exact_duplicate_ddinter_records": 62148
+}

@@ -1,0 +1,13 @@
+{
+    "matched_canonical_pairs": 37087,
+    "severity_counts": {
+        "Moderate": 22655,
+        "Major": 8657,
+        "Unknown": 4575,
+        "Minor": 1200
+    },
+    "evidence_source": "DDInter 2.0",
+    "independent_clinical_verification": false,
+    "unmatched_pairs_excluded": true,
+    "clinical_effect_and_management_populated": false
+}

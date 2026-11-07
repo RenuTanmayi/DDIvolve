@@ -1,0 +1,25 @@
+{
+    "files_processed": 8,
+    "file_names": [
+        "ddinter_downloads_code_A.csv",
+        "ddinter_downloads_code_B.csv",
+        "ddinter_downloads_code_D.csv",
+        "ddinter_downloads_code_H.csv",
+        "ddinter_downloads_code_L.csv",
+        "ddinter_downloads_code_P.csv",
+        "ddinter_downloads_code_R.csv",
+        "ddinter_downloads_code_V.csv"
+    ],
+    "total_records": 222383,
+    "unique_unordered_drug_pairs": 160235,
+    "duplicate_records_beyond_unique_pairs": 62148,
+    "incomplete_records": 0,
+    "unique_drugs": 1939,
+    "reported_level_counts": {
+        "Moderate": 130367,
+        "Unknown": 47182,
+        "Major": 33896,
+        "Minor": 10938
+    },
+    "pairs_with_multiple_reported_levels": 0
+}
