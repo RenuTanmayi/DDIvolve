@@ -1,0 +1,123 @@
+{
+    "drug_name": "Magnesium sulfate",
+    "source_row": 927,
+    "canonical_smiles": "O=S(=O)([O-])[O-].[Mg+2]",
+    "number_of_nodes": 6,
+    "number_of_edges": 4,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "S",
+            "atomic_number": 16,
+            "degree": 4,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 6,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 3,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 4,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 5,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "degree": 0,
+            "formal_charge": 2,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "drug_name": "Cisplatin",
+    "source_row": 345,
+    "canonical_smiles": "N.N.[Cl][Pt][Cl]",
+    "number_of_nodes": 5,
+    "number_of_edges": 2,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "N",
+            "atomic_number": 7,
+            "degree": 0,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 3,
+            "total_hydrogens": 3
+        },
+        {
+            "atom_index": 1,
+            "symbol": "N",
+            "atomic_number": 7,
+            "degree": 0,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 3,
+            "total_hydrogens": 3
+        },
+        {
+            "atom_index": 2,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 3,
+            "symbol": "Pt",
+            "atomic_number": 78,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP3D2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 4,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": 2,
+            "target": 3,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "drug_name": "Iodide I-131",
+    "source_row": 792,
+    "canonical_smiles": "[131I-]",
+    "number_of_nodes": 1,
+    "number_of_edges": 0,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "I",
+            "atomic_number": 53,
+            "degree": 0,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": []
+}

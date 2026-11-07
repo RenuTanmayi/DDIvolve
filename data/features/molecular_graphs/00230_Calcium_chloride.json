@@ -1,0 +1,46 @@
+{
+    "drug_name": "Calcium chloride",
+    "source_row": 229,
+    "canonical_smiles": "[Ca+2].[Cl-].[Cl-]",
+    "number_of_nodes": 3,
+    "number_of_edges": 0,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "Ca",
+            "atomic_number": 20,
+            "degree": 0,
+            "formal_charge": 2,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "degree": 0,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "degree": 0,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": []
+}

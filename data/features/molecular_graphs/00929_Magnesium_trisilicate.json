@@ -1,0 +1,267 @@
+{
+    "drug_name": "Magnesium trisilicate",
+    "source_row": 928,
+    "canonical_smiles": "O=[Si]([O-])O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2]",
+    "number_of_nodes": 13,
+    "number_of_edges": 10,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "Si",
+            "atomic_number": 14,
+            "degree": 3,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": -1,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 3,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 4,
+            "symbol": "Si",
+            "atomic_number": 14,
+            "degree": 4,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 5,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 6,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 7,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 8,
+            "symbol": "Si",
+            "atomic_number": 14,
+            "degree": 3,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 9,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 10,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": -1,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 11,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "degree": 0,
+            "formal_charge": 2,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 12,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "degree": 0,
+            "formal_charge": 2,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "drug_name": "Magnesium cation",
+    "source_row": 923,
+    "canonical_smiles": "[Mg+2]",
+    "number_of_nodes": 1,
+    "number_of_edges": 0,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "degree": 0,
+            "formal_charge": 2,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": []
+}

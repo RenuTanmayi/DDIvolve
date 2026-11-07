@@ -1,0 +1,34 @@
+{
+    "drug_name": "Potassium chloride",
+    "source_row": 1271,
+    "canonical_smiles": "[Cl-].[K+]",
+    "number_of_nodes": 2,
+    "number_of_edges": 0,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "degree": 0,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "K",
+            "atomic_number": 19,
+            "degree": 0,
+            "formal_charge": 1,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": []
+}

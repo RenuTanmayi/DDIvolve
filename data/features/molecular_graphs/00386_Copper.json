@@ -1,0 +1,22 @@
+{
+    "drug_name": "Copper",
+    "source_row": 385,
+    "canonical_smiles": "[Cu]",
+    "number_of_nodes": 1,
+    "number_of_edges": 0,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "Cu",
+            "atomic_number": 29,
+            "degree": 0,
+            "formal_charge": 0,
+            "hybridization": "SP3D",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": []
+}

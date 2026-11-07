@@ -1,0 +1,67 @@
+{
+    "drug_name": "Titanium dioxide",
+    "source_row": 1554,
+    "canonical_smiles": "[O]=[Ti]=[O]",
+    "number_of_nodes": 3,
+    "number_of_edges": 2,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "Ti",
+            "atomic_number": 22,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

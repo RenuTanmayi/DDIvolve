@@ -1,0 +1,155 @@
+{
+    "drug_name": "Halothane",
+    "source_row": 746,
+    "canonical_smiles": "FC(F)(F)C(Cl)Br",
+    "number_of_nodes": 7,
+    "number_of_edges": 6,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "F",
+            "atomic_number": 9,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 4,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "F",
+            "atomic_number": 9,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 3,
+            "symbol": "F",
+            "atomic_number": 9,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 4,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 3,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 5,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 6,
+            "symbol": "Br",
+            "atomic_number": 35,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

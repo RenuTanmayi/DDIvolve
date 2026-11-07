@@ -1,0 +1,143 @@
+{
+    "drug_name": "Fomepizole",
+    "source_row": 682,
+    "canonical_smiles": "Cc1cn[nH]c1",
+    "number_of_nodes": 6,
+    "number_of_edges": 6,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 3
+        },
+        {
+            "atom_index": 1,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 3,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 3,
+            "symbol": "N",
+            "atomic_number": 7,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 3,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 4,
+            "symbol": "N",
+            "atomic_number": 7,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 3,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 5,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": true,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 1
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "AROMATIC",
+            "bond_order": 1.5,
+            "aromatic": true,
+            "conjugated": true,
+            "in_ring": true,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "bond_type": "AROMATIC",
+            "bond_order": 1.5,
+            "aromatic": true,
+            "conjugated": true,
+            "in_ring": true,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "bond_type": "AROMATIC",
+            "bond_order": 1.5,
+            "aromatic": true,
+            "conjugated": true,
+            "in_ring": true,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "bond_type": "AROMATIC",
+            "bond_order": 1.5,
+            "aromatic": true,
+            "conjugated": true,
+            "in_ring": true,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "bond_type": "AROMATIC",
+            "bond_order": 1.5,
+            "aromatic": true,
+            "conjugated": true,
+            "in_ring": true,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

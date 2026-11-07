@@ -1,0 +1,67 @@
+{
+    "drug_name": "Nitrous acid",
+    "source_row": 1106,
+    "canonical_smiles": "O=NO",
+    "number_of_nodes": 3,
+    "number_of_edges": 2,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "N",
+            "atomic_number": 7,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 3,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 2,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP2",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 1
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "DOUBLE",
+            "bond_order": 2.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": true,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

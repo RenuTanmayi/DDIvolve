@@ -1,0 +1,1702 @@
+source_row,drug_name,status,error,canonical_smiles,optimization_method,optimization_status
+0,Abacavir,success,,Nc1nc(NC2CC2)c2ncn(C3C=CC(CO)C3)c2n1,MMFF,0.0
+1,Abemaciclib,success,,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1,MMFF,0.0
+2,Abiraterone,success,,CC12CCC(O)CC1=CCC1C2CCC2(C)C(c3cccnc3)=CCC12,MMFF,0.0
+3,Acarbose,success,,CC1OC(OC2C(CO)OC(OC(C(O)CO)C(O)C(O)C=O)C(O)C2O)C(O)C(O)C1NC1C=C(CO)C(O)C(O)C1O,MMFF,0.0
+4,Acebutolol,success,,CCCC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1,MMFF,0.0
+5,Aceclofenac,success,,O=C(O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,MMFF,0.0
+6,Acemetacin,success,,COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,MMFF,0.0
+7,Acenocoumarol,success,,CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O,MMFF,0.0
+8,Acepromazine,success,,CC(=O)c1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2,MMFF,0.0
+9,Aceprometazine,success,,CC(=O)c1ccc2c(c1)N(CC(C)N(C)C)c1ccccc1S2,MMFF,0.0
+10,Acetaminophen,success,,CC(=O)Nc1ccc(O)cc1,MMFF,0.0
+11,Acetazolamide,success,,CC(=O)Nc1nnc(S(N)(=O)=O)s1,MMFF,0.0
+12,Acetohydroxamic acid,success,,CC(=O)NO,MMFF,0.0
+13,Acetophenazine,success,,CC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2,MMFF,0.0
+14,Acetylcholine,success,,CC(=O)OCC[N+](C)(C)C,MMFF,0.0
+15,Acetyldigitoxin,success,,CC(=O)OC1CC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)OC(C)C1O,MMFF,0.0
+16,Acetylsalicylic acid,success,,CC(=O)Oc1ccccc1C(=O)O,MMFF,0.0
+17,Acipimox,success,,Cc1cnc(C(=O)O)c[n+]1[O-],MMFF,0.0
+18,Acitretin,success,,COc1cc(C)c(C=CC(C)=CC=CC(C)=CC(=O)O)c(C)c1C,MMFF,0.0
+19,Aclidinium,success,,O=C(OC1C[N+]2(CCCOc3ccccc3)CCC1CC2)C(O)(c1cccs1)c1cccs1,MMFF,1.0
+20,Acrivastine,success,,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)O)n2)cc1,MMFF,0.0
+21,Activated charcoal,success,,[C],UFF,0.0
+22,Acyclovir,success,,Nc1nc2c(ncn2COCCO)c(=O)[nH]1,MMFF,0.0
+23,Adapalene,success,,COc1ccc(-c2ccc3cc(C(=O)O)ccc3c2)cc1C12CC3CC(CC(C3)C1)C2,MMFF,0.0
+24,Adefovir dipivoxil,success,,CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,MMFF,0.0
+25,Adenosine,success,,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,MMFF,0.0
+26,Adinazolam,success,,CN(C)Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,MMFF,0.0
+27,Afatinib,success,,CN(C)CC=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC1CCOC1,MMFF,0.0
+28,Agomelatine,success,,COc1ccc2cccc(CCNC(C)=O)c2c1,MMFF,0.0
+29,Ajmaline,success,,CCC1C2CC3C4N(C)c5ccccc5C45CC(C2C5O)N3C1O,MMFF,0.0
+30,Albendazole,success,,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1,MMFF,0.0
+31,Alcaftadine,success,,CN1CCC(=C2c3ccccc3CCn3c(C=O)cnc32)CC1,MMFF,0.0
+32,Alclofenac,success,,C=CCOc1ccc(CC(=O)O)cc1Cl,MMFF,0.0
+33,Alclometasone,success,,CC1CC2C3C(Cl)CC4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+34,Alectinib,success,,CCc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O,MMFF,0.0
+35,Alendronic acid,success,,NCCCC(O)(P(=O)(O)O)P(=O)(O)O,MMFF,0.0
+36,Alfacalcidol,success,,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)C)CC(O)CC1O,MMFF,0.0
+37,Alfentanil,success,,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1,MMFF,0.0
+38,Alfuzosin,success,,COc1cc2nc(N(C)CCCNC(=O)C3CCCO3)nc(N)c2cc1OC,MMFF,0.0
+39,Alimemazine,success,,CC(CN(C)C)CN1c2ccccc2Sc2ccccc21,MMFF,0.0
+40,Aliskiren,success,,COCCCOc1cc(CC(CC(N)C(O)CC(C(=O)NCC(C)(C)C(N)=O)C(C)C)C(C)C)ccc1OC,MMFF,1.0
+41,Alitretinoin,success,,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,MMFF,0.0
+42,Allopurinol,success,,O=c1[nH]cnc2[nH]ncc12,MMFF,0.0
+43,Allylestrenol,success,,C=CCC1(O)CCC2C3CCC4=CCCCC4C3CCC21C,MMFF,0.0
+44,Almasilate,success,,O.[Al+3].[Al+3].[Mg+2].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-],UFF,0.0
+45,Almotriptan,success,,CN(C)CCc1c[nH]c2ccc(CS(=O)(=O)N3CCCC3)cc12,MMFF,0.0
+46,Alogliptin,success,,Cn1c(=O)cc(N2CCCC(N)C2)n(Cc2ccccc2C#N)c1=O,MMFF,0.0
+47,Alosetron,success,,Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O,MMFF,0.0
+48,Alprazolam,success,,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,MMFF,0.0
+49,Alprenolol,success,,C=CCc1ccccc1OCC(O)CNC(C)C,MMFF,0.0
+50,Alprostadil,success,,CCCCCC(O)C=CC1C(O)CC(=O)C1CCCCCCC(=O)O,MMFF,0.0
+51,Altretamine,success,,CN(C)c1nc(N(C)C)nc(N(C)C)n1,MMFF,0.0
+52,Aluminium,success,,[Al],UFF,0.0
+53,Aluminum hydroxide,success,,[Al+3].[OH-].[OH-].[OH-],UFF,0.0
+54,Aluminum oxide,success,,[Al+3].[Al+3].[O-2].[O-2].[O-2],UFF,0.0
+55,Aluminum sulfate,success,,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[Al+3],UFF,0.0
+56,Alvimopan,success,,CC1CN(CC(Cc2ccccc2)C(=O)NCC(=O)O)CCC1(C)c1cccc(O)c1,MMFF,0.0
+57,Amantadine,success,,NC12CC3CC(CC(C3)C1)C2,MMFF,0.0
+58,Ambenonium,success,,CC[N+](CC)(CCNC(=O)C(=O)NCC[N+](CC)(CC)Cc1ccccc1Cl)Cc1ccccc1Cl,MMFF,0.0
+59,Ambrisentan,success,,COC(c1ccccc1)(c1ccccc1)C(Oc1nc(C)cc(C)n1)C(=O)O,MMFF,0.0
+60,Ambroxol,success,,Nc1c(Br)cc(Br)cc1CNC1CCC(O)CC1,MMFF,0.0
+61,Amcinonide,success,,CC(=O)OCC(=O)C12OC3(CCCC3)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,MMFF,0.0
+62,Amifostine,success,,NCCCNCCSP(=O)(O)O,MMFF,0.0
+63,Amikacin,success,,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O,MMFF,0.0
+64,Amiloride,success,,NC(N)=NC(=O)c1nc(Cl)c(N)nc1N,MMFF,0.0
+65,Aminocaproic acid,success,,NCCCCCC(=O)O,MMFF,0.0
+66,Aminoglutethimide,success,,CCC1(c2ccc(N)cc2)CCC(=O)NC1=O,MMFF,0.0
+67,Aminohippuric acid,success,,Nc1ccc(C(=O)NCC(=O)O)cc1,MMFF,0.0
+68,Aminolevulinic acid,success,,NCC(=O)CCC(=O)O,MMFF,0.0
+69,Aminophenazone,success,,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,MMFF,0.0
+70,Aminophylline,success,,Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN,MMFF,0.0
+71,Aminosalicylic acid,success,,Nc1ccc(C(=O)O)c(O)c1,MMFF,0.0
+72,Amiodarone,success,,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,MMFF,0.0
+73,Amisulpride,success,,CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,MMFF,0.0
+74,Amitriptyline,success,,CN(C)CCC=C1c2ccccc2CCc2ccccc21,MMFF,0.0
+75,Amlodipine,success,,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl,MMFF,0.0
+76,Ammonium chloride,success,,[Cl-].[NH4+],MMFF,0.0
+77,Amobarbital,success,,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,MMFF,0.0
+78,Amodiaquine,success,,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,MMFF,0.0
+79,Amoxapine,success,,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2,MMFF,0.0
+80,Amoxicillin,success,,CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,MMFF,0.0
+81,Amphetamine,success,,CC(N)Cc1ccccc1,MMFF,0.0
+82,Amphotericin B,success,,CC1C=CC=CC=CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC(O)C(O)CCC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)O,MMFF,1.0
+83,Ampicillin,success,,CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+84,Amprenavir,success,,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1,MMFF,0.0
+85,Amrinone,success,,Nc1cc(-c2ccncc2)c[nH]c1=O,MMFF,0.0
+86,Amrubicin,success,,CC(=O)C1(N)Cc2c(O)c3c(c(O)c2C(OC2CC(O)C(O)CO2)C1)C(=O)c1ccccc1C3=O,MMFF,0.0
+87,Amsacrine,success,,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12,MMFF,0.0
+88,Amyl Nitrite,success,,CC(C)CCON=O,MMFF,0.0
+89,Anagrelide,success,,O=C1CN2Cc3c(ccc(Cl)c3Cl)N=C2N1,MMFF,0.0
+90,Anastrozole,success,,CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1,MMFF,0.0
+91,Anidulafungin,success,,CCCCCOc1ccc(-c2ccc(-c3ccc(C(=O)NC4CC(O)C(O)NC(=O)C5C(O)C(C)CN5C(=O)C(C(C)O)NC(=O)C(C(O)C(O)c5ccc(O)cc5)NC(=O)C5CC(O)CN5C(=O)C(C(C)O)NC4=O)cc3)cc2)cc1,MMFF,1.0
+92,Anisotropine methylbromide,success,,CCCC(CCC)C(=O)OC1CC2CCC(C1)[N+]2(C)C.[Br-],MMFF,0.0
+93,Antazoline,success,,c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1,MMFF,0.0
+94,Antipyrine,success,,Cc1cc(=O)n(-c2ccccc2)n1C,MMFF,0.0
+95,Apixaban,success,,COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1,MMFF,0.0
+96,Apomorphine,success,,CN1CCc2cccc3c2C1Cc1ccc(O)c(O)c1-3,MMFF,0.0
+97,Apraclonidine,success,,Nc1cc(Cl)c(NC2=NCCN2)c(Cl)c1,MMFF,0.0
+98,Apremilast,success,,CCOc1cc(C(CS(C)(=O)=O)N2C(=O)c3cccc(NC(C)=O)c3C2=O)ccc1OC,MMFF,0.0
+99,Aprepitant,success,,CC(OC1OCCN(Cc2n[nH]c(=O)[nH]2)C1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,MMFF,0.0
+100,Aprindine,success,,CCN(CC)CCCN(c1ccccc1)C1Cc2ccccc2C1,MMFF,0.0
+101,Arbekacin,success,,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)CCC2N)C(O)C1OC1OC(CO)C(O)C(N)C1O,MMFF,0.0
+102,Arbutamine,success,,Oc1ccc(CCCCNCC(O)c2ccc(O)c(O)c2)cc1,MMFF,0.0
+103,Arformoterol,success,,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1,MMFF,0.0
+104,Argatroban,success,,CC1CNc2c(cccc2S(=O)(=O)NC(CCCN=C(N)N)C(=O)N2CCC(C)CC2C(=O)O)C1,MMFF,0.0
+105,Aripiprazole,success,,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,MMFF,0.0
+106,Armodafinil,success,,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,MMFF,0.0
+107,Arotinolol,success,,CC(C)(C)NCC(O)CSc1nc(-c2ccc(C(N)=O)s2)cs1,MMFF,0.0
+108,Arsenic trioxide,failed,Neither MMFF nor UFF parameters available,[As+3].[As+3].[O-2].[O-2].[O-2],,
+109,Artemether,success,,COC1OC2OC3(C)CCC4C(C)CCC(C1C)C24OO3,MMFF,0.0
+110,Artesunate,success,,CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32OO4,MMFF,0.0
+111,Articaine,success,,CCCNC(C)C(=O)Nc1c(C)csc1C(=O)OC,MMFF,0.0
+112,Ascorbic acid,success,,O=C1OC(C(O)CO)C(O)=C1O,MMFF,0.0
+113,Asenapine,success,,CN1CC2c3ccccc3Oc3ccc(Cl)cc3C2C1,MMFF,0.0
+114,Astemizole,success,,COc1ccc(CCN2CCC(Nc3nc4ccccc4n3Cc3ccc(F)cc3)CC2)cc1,MMFF,0.0
+115,Asunaprevir,success,,C=CC1CC1(NC(=O)C1CC(Oc2ncc(OC)c3ccc(Cl)cc23)CN1C(=O)C(NC(=O)OC(C)(C)C)C(C)(C)C)C(=O)NS(=O)(=O)C1CC1,MMFF,1.0
+116,Atazanavir,success,,COC(=O)NC(C(=O)NC(Cc1ccccc1)C(O)CN(Cc1ccc(-c2ccccn2)cc1)NC(=O)C(NC(=O)OC)C(C)(C)C)C(C)(C)C,MMFF,0.0
+117,Atenolol,success,,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,MMFF,0.0
+118,Atomoxetine,success,,CNCCC(Oc1ccccc1C)c1ccccc1,MMFF,0.0
+119,Atorvastatin,success,,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,MMFF,0.0
+120,Atovaquone,success,,O=C1C(=O)c2ccccc2C(O)=C1C1CCC(c2ccc(Cl)cc2)CC1,MMFF,0.0
+121,Atracurium besylate,success,,COc1ccc(CC2c3cc(OC)c(OC)cc3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCc3cc(OC)c(OC)cc3C2Cc2ccc(OC)c(OC)c2)cc1OC.O=S(=O)([O-])c1ccccc1.O=S(=O)([O-])c1ccccc1,MMFF,1.0
+122,Atropine,success,,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,MMFF,0.0
+123,Avanafil,success,,COc1ccc(CNc2nc(N3CCCC3CO)ncc2C(=O)NCc2ncccn2)cc1Cl,MMFF,0.0
+124,Avibactam,success,,NC(=O)C1CCC2CN1C(=O)N2OS(=O)(=O)O,MMFF,0.0
+125,Axitinib,success,,CNC(=O)c1ccccc1Sc1ccc2c(C=Cc3ccccn3)n[nH]c2c1,MMFF,0.0
+126,Azacitidine,success,,Nc1ncn(C2OC(CO)C(O)C2O)c(=O)n1,MMFF,0.0
+127,Azatadine,success,,CN1CCC(=C2c3ccccc3CCc3cccnc32)CC1,MMFF,0.0
+128,Azathioprine,success,,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2nc[nH]c12,MMFF,0.0
+129,Azelaic acid,success,,O=C(O)CCCCCCCC(=O)O,MMFF,0.0
+130,Azelastine,success,,CN1CCCC(n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1,MMFF,0.0
+131,Azelnidipine,success,,CC1=C(C(=O)OC(C)C)C(c2cccc([N+](=O)[O-])c2)C(C(=O)OC2CN(C(c3ccccc3)c3ccccc3)C2)=C(N)N1,MMFF,0.0
+132,Azidocillin,success,,CC1(C)SC2C(NC(=O)C(N=[N+]=[N-])c3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+133,Azilsartan medoxomil,success,,CCOc1nc2cccc(C(=O)OCc3oc(=O)oc3C)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1,MMFF,0.0
+134,Azithromycin,success,,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O,MMFF,1.0
+135,Azlocillin,success,,CC1(C)SC2C(NC(=O)C(NC(=O)N3CCNC3=O)c3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+136,Aztreonam,success,,CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,MMFF,0.0
+137,Bacampicillin,success,,CCOC(=O)OC(C)OC(=O)C1N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1(C)C,MMFF,0.0
+138,Bacitracin,success,,CCC(C)C(N)C1=NC(C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(C(=O)NC2CCCCNC(=O)C(CC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(Cc3cnc[nH]3)NC(=O)C(Cc3ccccc3)NC(=O)C(C(C)CC)NC(=O)C(CCCN)NC2=O)C(C)CC)CS1,MMFF,1.0
+139,Baclofen,success,,NCC(CC(=O)O)c1ccc(Cl)cc1,MMFF,0.0
+140,Balsalazide,success,,O=C(O)CCNC(=O)c1ccc(N=Nc2ccc(O)c(C(=O)O)c2)cc1,MMFF,0.0
+141,Bambuterol,success,,CN(C)C(=O)Oc1cc(OC(=O)N(C)C)cc(C(O)CNC(C)(C)C)c1,MMFF,0.0
+142,Baricitinib,success,,CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1,MMFF,0.0
+143,Barnidipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+144,Bazedoxifene,success,,Cc1c(-c2ccc(O)cc2)n(Cc2ccc(OCCN3CCCCCC3)cc2)c2ccc(O)cc12,MMFF,0.0
+145,Beclomethasone dipropionate,success,,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC21C,MMFF,0.0
+146,Bedaquiline,success,,COc1nc2ccc(Br)cc2cc1C(c1ccccc1)C(O)(CCN(C)C)c1cccc2ccccc12,MMFF,0.0
+147,Belinostat,success,,O=C(C=Cc1cccc(S(=O)(=O)Nc2ccccc2)c1)NO,MMFF,0.0
+148,Benazepril,success,,CCOC(=O)C(CCc1ccccc1)NC1CCc2ccccc2N(CC(=O)O)C1=O,MMFF,0.0
+149,Bendamustine,success,,Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21,MMFF,0.0
+150,Bendroflumethiazide,success,,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,MMFF,0.0
+151,Benidipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+152,Benzatropine,success,,CN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2,MMFF,0.0
+153,Benznidazole,success,,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,MMFF,0.0
+154,Benzocaine,success,,CCOC(=O)c1ccc(N)cc1,MMFF,0.0
+155,Benzoctamine,success,,CNCC12CCC(c3ccccc31)c1ccccc12,MMFF,0.0
+156,Benzoic acid,success,,O=C(O)c1ccccc1,MMFF,0.0
+157,Benzophenone,success,,O=C(c1ccccc1)c1ccccc1,MMFF,0.0
+158,Benzoyl peroxide,success,,O=C(OOC(=O)c1ccccc1)c1ccccc1,MMFF,0.0
+159,Benzphetamine,success,,CC(Cc1ccccc1)N(C)Cc1ccccc1,MMFF,0.0
+160,Benzthiazide,success,,NS(=O)(=O)c1cc2c(cc1Cl)NC(CSCc1ccccc1)=NS2(=O)=O,MMFF,0.0
+161,Benzydamine,success,,CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12,MMFF,0.0
+162,Benzyl alcohol,success,,OCc1ccccc1,MMFF,0.0
+163,Benzylpenicillin,success,,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+164,Bepridil,success,,CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1,MMFF,0.0
+165,Besifloxacin,success,,NC1CCCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1,MMFF,0.0
+166,Betahistine,success,,CNCCc1ccccn1,MMFF,0.0
+167,Betamethasone,success,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+168,Betaxolol,success,,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1,MMFF,0.0
+169,Bethanechol,success,,CC(C[N+](C)(C)C)OC(N)=O,MMFF,0.0
+170,Bethanidine,success,,CN=C(NC)NCc1ccccc1,MMFF,0.0
+171,Betrixaban,success,,COc1ccc(NC(=O)c2ccc(C(=N)N(C)C)cc2)c(C(=O)Nc2ccc(Cl)cn2)c1,MMFF,0.0
+172,Bevantolol,success,,COc1ccc(CCNCC(O)COc2cccc(C)c2)cc1OC,MMFF,0.0
+173,Bexarotene,success,,C=C(c1ccc(C(=O)O)cc1)c1cc2c(cc1C)C(C)(C)CCC2(C)C,MMFF,0.0
+174,Bezafibrate,success,,CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(=O)O,MMFF,0.0
+175,Bicalutamide,success,,CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1,MMFF,0.0
+176,Bifonazole,success,,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1,MMFF,0.0
+177,Bimatoprost,success,,CCNC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)CCc1ccccc1,MMFF,0.0
+178,Biperiden,success,,OC(CCN1CCCCC1)(c1ccccc1)C1CC2C=CC1C2,MMFF,0.0
+179,Bisacodyl,success,,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1,MMFF,0.0
+180,Bismuth subcitrate potassium,success,,O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-].O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-].[Bi+3].[K+].[K+].[K+].[K+].[K+],UFF,0.0
+181,Bismuth subsalicylate,success,,O=C([O-])c1ccccc1[O-].[Bi+3].[OH-],UFF,0.0
+182,Bisoprolol,success,,CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1,MMFF,0.0
+183,Bivalirudin,failed,3D conformer generation failed,CCC(C)C(NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(Cc1ccccc1)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(N)=O)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)C1CCCN1C(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(N)Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CC(C)C)C(=O)O,,
+184,Bleomycin,failed,3D conformer generation failed,Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1cnc[nH]1,,
+185,Blonanserin,success,,CCN1CCN(c2cc(-c3ccc(F)cc3)c3c(n2)CCCCCC3)CC1,MMFF,0.0
+186,Boceprevir,success,,CC(C)(C)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C,MMFF,0.0
+187,Bopindolol,success,,Cc1cc2c(OCC(CNC(C)(C)C)OC(=O)c3ccccc3)cccc2[nH]1,MMFF,0.0
+188,Bortezomib,success,,CC(C)CC(NC(=O)C(Cc1ccccc1)NC(=O)c1cnccn1)B(O)O,UFF,0.0
+189,Bosentan,success,,COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)nc(-c2ncccn2)nc1OCCO,MMFF,0.0
+190,Bosutinib,success,,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl,MMFF,0.0
+191,Bretylium,success,,CC[N+](C)(C)Cc1ccccc1Br,MMFF,0.0
+192,Brexpiprazole,success,,O=c1ccc2ccc(OCCCCN3CCN(c4cccc5sccc45)CC3)cc2[nH]1,MMFF,0.0
+193,Brigatinib,success,,COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2P(C)(C)=O)n1,MMFF,0.0
+194,Brimonidine,success,,Brc1c(NC2=NCCN2)ccc2nccnc12,MMFF,0.0
+195,Brinzolamide,success,,CCNC1CN(CCCOC)S(=O)(=O)c2sc(S(N)(=O)=O)cc21,MMFF,0.0
+196,Brivaracetam,success,,CCCC1CC(=O)N(C(CC)C(N)=O)C1,MMFF,0.0
+197,Bromazepam,success,,O=C1CN=C(c2ccccn2)c2cc(Br)ccc2N1,MMFF,0.0
+198,Bromfenac,success,,Nc1c(CC(=O)O)cccc1C(=O)c1ccc(Br)cc1,MMFF,0.0
+199,Bromocriptine,success,,CC(C)CC1C(=O)N2CCCC2C2(O)OC(NC(=O)C3C=C4c5cccc6[nH]c(Br)c(c56)CC4N(C)C3)(C(C)C)C(=O)N12,MMFF,0.0
+200,Bromopride,success,,CCN(CC)CCNC(=O)c1cc(Br)c(N)cc1OC,MMFF,0.0
+201,Brompheniramine,success,,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1,MMFF,0.0
+202,Brotizolam,success,,Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1Cl)=NC2,MMFF,0.0
+203,Buclizine,success,,CC(C)(C)c1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1,MMFF,0.0
+204,Budesonide,success,,CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,MMFF,0.0
+205,Bumetanide,success,,CCCCNc1cc(C(=O)O)cc(S(N)(=O)=O)c1Oc1ccccc1,MMFF,0.0
+206,Bupivacaine,success,,CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C,MMFF,0.0
+207,Bupranolol,success,,Cc1ccc(Cl)c(OCC(O)CNC(C)(C)C)c1,MMFF,0.0
+208,Buprenorphine,success,,COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,MMFF,0.0
+209,Bupropion,success,,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,MMFF,0.0
+210,Buspirone,success,,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,MMFF,0.0
+211,Busulfan,success,,CS(=O)(=O)OCCCCOS(C)(=O)=O,MMFF,0.0
+212,Butabarbital,success,,CCC(C)C1(CC)C(=O)NC(=O)NC1=O,MMFF,0.0
+213,Butalbital,success,,C=CCC1(CC(C)C)C(=O)NC(=O)NC1=O,MMFF,0.0
+214,Butamben,success,,CCCCOC(=O)c1ccc(N)cc1,MMFF,0.0
+215,Butenafine,success,,CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12,MMFF,0.0
+216,Butobarbital,success,,CCCCC1(CC)C(=O)NC(=O)NC1=O,MMFF,0.0
+217,Butoconazole,success,,Clc1ccc(CCC(Cn2ccnc2)Sc2c(Cl)cccc2Cl)cc1,MMFF,0.0
+218,Butorphanol,success,,Oc1ccc2c(c1)C13CCCCC1(O)C(C2)N(CC1CCC1)CC3,MMFF,0.0
+219,Butylscopolamine,success,,CCCC[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,MMFF,0.0
+220,Cabazitaxel,success,,COC1C(=O)C2(C)C(OC)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C1C2(C)C,MMFF,1.0
+221,Cabergoline,success,,C=CCN1CC(C(=O)N(CCCN(C)C)C(=O)NCC)CC2c3cccc4[nH]cc(c34)CC21,MMFF,0.0
+222,Cabozantinib,success,,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC,MMFF,0.0
+223,Caffeine,success,,Cn1c(=O)c2c(ncn2C)n(C)c1=O,MMFF,0.0
+224,Calcifediol,success,,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)CCCC(C)(C)O,MMFF,0.0
+225,Calcipotriol,success,,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(O)C2CC2)CC(O)CC1O,MMFF,0.0
+226,Calcitriol,success,,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O,MMFF,0.0
+227,Calcium acetate,success,,CC(=O)[O-].CC(=O)[O-].[Ca+2],MMFF,0.0
+228,Calcium carbonate,failed,Neither MMFF nor UFF parameters available,O=C([O-])[O-].[Ca+2],,
+229,Calcium chloride,success,,[Ca+2].[Cl-].[Cl-],MMFF,0.0
+230,Calcium citrate,success,,O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Ca+2].[Ca+2].[Ca+2],MMFF,0.0
+231,Calcium glubionate anhydrous,success,,O=C([O-])C(O)C(O)C(O)C(O)CO.O=C([O-])C(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO.[Ca+2],MMFF,0.0
+232,Calcium glucoheptonate,success,,O=C([O-])C(O)C(O)C(O)C(O)C(O)CO.O=C([O-])C(O)C(O)C(O)C(O)C(O)CO.[Ca+2],MMFF,0.0
+233,Calcium gluconate,success,,O=C([O-])C(O)C(O)C(O)C(O)CO.O=C([O-])C(O)C(O)C(O)C(O)CO.[Ca+2],MMFF,0.0
+234,Calcium lactate,success,,CC(O)C(=O)[O-].CC(O)C(=O)[O-].[Ca+2],MMFF,0.0
+235,Calcium Phosphate,success,,O=P([O-])([O-])[O-].O=P([O-])([O-])[O-].[Ca+2].[Ca+2].[Ca+2],MMFF,0.0
+236,Camazepam,success,,CN(C)C(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O,MMFF,0.0
+237,Canagliflozin,success,,Cc1ccc(C2OC(CO)C(O)C(O)C2O)cc1Cc1ccc(-c2ccc(F)cc2)s1,MMFF,0.0
+238,Candesartan cilexetil,success,,CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,MMFF,0.0
+239,Cangrelor,success,,CSCCNc1nc(SCCC(F)(F)F)nc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)C(Cl)(Cl)P(=O)(O)O)C(O)C1O,MMFF,0.0
+240,Cannabidiol,success,,C=C(C)C1CCC(C)=CC1c1c(O)cc(CCCCC)cc1O,MMFF,0.0
+241,Canrenoic acid,success,,CC12CCC(=O)C=C1C=CC1C2CCC2(C)C1CCC2(O)CCC(=O)O,MMFF,0.0
+242,Capecitabine,success,,CCCCCOC(=O)Nc1nc(=O)n(C2OC(C)C(O)C2O)cc1F,MMFF,0.0
+243,Capreomycin,success,,CC1NC(=O)C(N)CNC(=O)C(C2CCN=C(N)N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CNC(=O)CC(N)CCCN)NC1=O.NCCCC(N)CC(=O)NCC1NC(=O)C(CO)NC(=O)C(N)CNC(=O)C(C2CCN=C(N)N2)NC(=O)C(=CNC(N)=O)NC1=O,MMFF,1.0
+244,Capsaicin,success,,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,MMFF,0.0
+245,Captodiame,success,,CCCCSc1ccc(C(SCCN(C)C)c2ccccc2)cc1,MMFF,0.0
+246,Captopril,success,,CC(CS)C(=O)N1CCCC1C(=O)O,MMFF,0.0
+247,Carbamazepine,success,,NC(=O)N1c2ccccc2C=Cc2ccccc21,MMFF,0.0
+248,Carbamoylcholine,success,,C[N+](C)(C)CCOC(N)=O,MMFF,0.0
+249,Carbenicillin,success,,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+250,Carbetocin,success,,CCC(C)C1NC(=O)C(Cc2ccc(OC)cc2)NC(=O)CCCSCC(C(=O)N2CCCC2C(=O)NC(CC(C)C)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(CCC(N)=O)NC1=O,MMFF,1.0
+251,Carbidopa,success,,CC(Cc1ccc(O)c(O)c1)(NN)C(=O)O,MMFF,0.0
+252,Carbimazole,success,,CCOC(=O)n1ccn(C)c1=S,MMFF,0.0
+253,Carbinoxamine,success,,CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1,MMFF,0.0
+254,Carbocisteine,success,,NC(CSCC(=O)O)C(=O)O,MMFF,0.0
+255,Carboplatin,failed,Neither MMFF nor UFF parameters available,O=C(O)C1(C(=O)O)CCC1.[NH2-].[NH2-].[Pt+2],,
+256,Carboprost tromethamine,success,,CCCCCC(C)(O)C=CC1C(O)CC(O)C1CC=CCCCC(=O)O.NC(CO)(CO)CO,MMFF,0.0
+257,Carfilzomib,success,,CC(C)CC(NC(=O)C(CCc1ccccc1)NC(=O)CN1CCOCC1)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(C)C)C(=O)C1(C)CO1,MMFF,1.0
+258,Cariprazine,success,,CN(C)C(=O)NC1CCC(CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1,MMFF,0.0
+259,Carisoprodol,success,,CCCC(C)(COC(N)=O)COC(=O)NC(C)C,MMFF,0.0
+260,Carmustine,success,,O=NN(CCCl)C(=O)NCCCl,MMFF,0.0
+261,Carprofen,success,,CC(C(=O)O)c1ccc2c(c1)[nH]c1ccc(Cl)cc12,MMFF,0.0
+262,Carteolol,success,,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2,MMFF,0.0
+263,Carvedilol,success,,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,MMFF,1.0
+264,Caspofungin,success,,CCC(C)CC(C)CCCCCCCCC(=O)NC1CC(O)C(NCCN)NC(=O)C2C(O)CCN2C(=O)C(C(O)CCN)NC(=O)C(C(O)C(O)c2ccc(O)cc2)NC(=O)C2CC(O)CN2C(=O)C(C(C)O)NC1=O,MMFF,1.0
+265,Cefacetrile,success,,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)CC#N)C2SC1,MMFF,0.0
+266,Cefaclor,success,,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CSC12)c1ccccc1,MMFF,0.0
+267,Cefadroxil,success,,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccc(O)cc3)C2SC1,MMFF,0.0
+268,Cefaloridine,success,,O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12,MMFF,0.0
+269,Cefalotin,success,,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3cccs3)C2SC1,MMFF,0.0
+270,Cefamandole,success,,Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(O)c3ccccc3)C2SC1,MMFF,0.0
+271,Cefapirin,success,,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)CSc3ccncc3)C2SC1,MMFF,0.0
+272,Cefazolin,success,,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1,MMFF,0.0
+273,Cefdinir,success,,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1,MMFF,0.0
+274,Cefditoren,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C=Cc3scnc3C)CSC12)c1csc(N)n1,MMFF,0.0
+275,Cefepime,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1,MMFF,0.0
+276,Cefixime,success,,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOCC(=O)O)c3csc(N)n3)C2SC1,MMFF,0.0
+277,Cefmenoxime,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC12)c1csc(N)n1,MMFF,1.0
+278,Cefmetazole,success,,COC1(NC(=O)CSCC#N)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,MMFF,0.0
+279,Cefonicid,success,,O=C(O)C1=C(CSc2nnnn2CS(=O)(=O)O)CSC2C(NC(=O)C(O)c3ccccc3)C(=O)N12,MMFF,0.0
+280,Cefoperazone,success,,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CSC23)c2ccc(O)cc2)C(=O)C1=O,MMFF,1.0
+281,Ceforanide,success,,NCc1ccccc1CC(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3CC(=O)O)CSC12,MMFF,1.0
+282,Cefotaxime,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1csc(N)n1,MMFF,0.0
+283,Cefotetan,success,,COC1(NC(=O)C2SC(=C(C(N)=O)C(=O)O)S2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,MMFF,1.0
+284,Cefotiam,success,,CN(C)CCn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3csc(N)n3)C2SC1,MMFF,1.0
+285,Cefoxitin,success,,COC1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC21,MMFF,0.0
+286,Cefpiramide,success,,Cc1cc(=O)c(C(=O)NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CSC23)c2ccc(O)cc2)c[nH]1,MMFF,0.0
+287,Cefpodoxime,success,,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1,MMFF,0.0
+288,Cefprozil,success,,CC=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccc(O)cc3)C2SC1,MMFF,0.0
+289,Cefradine,success,,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)C3=CCC=CC3)C2SC1,MMFF,0.0
+290,Ceftazidime,success,,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O,MMFF,0.0
+291,Ceftibuten,success,,Nc1nc(C(=CCC(=O)O)C(=O)NC2C(=O)N3C(C(=O)O)=CCSC23)cs1,MMFF,0.0
+292,Ceftizoxime,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=CCSC12)c1csc(N)n1,MMFF,0.0
+293,Ceftobiprole,success,,Nc1nc(C(=NO)C(=O)NC2C(=O)N3C(C(=O)O)=C(C=C4CCN(C5CCNC5)C4=O)CSC23)ns1,MMFF,0.0
+294,Ceftriaxone,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CSC12)c1csc(N)n1,MMFF,0.0
+295,Cefuroxime,success,,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1,MMFF,0.0
+296,Celecoxib,success,,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,MMFF,0.0
+297,Celiprolol,success,,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1,MMFF,0.0
+298,Cephalexin,success,,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1,MMFF,0.0
+299,Cephaloglycin,success,,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1,MMFF,0.0
+300,Ceritinib,success,,Cc1cc(Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)c(OC(C)C)cc1C1CCNCC1,MMFF,0.0
+301,Cerulenin,success,,CC=CCC=CCCC(=O)C1OC1C(N)=O,MMFF,0.0
+302,Cetirizine,success,,O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,MMFF,0.0
+303,Cevimeline,success,,CC1OC2(CS1)CN1CCC2CC1,MMFF,0.0
+304,Chenodeoxycholic acid,success,,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,MMFF,0.0
+305,Chloral hydrate,success,,OC(O)C(Cl)(Cl)Cl,MMFF,0.0
+306,Chlorambucil,success,,O=C(O)CCCc1ccc(N(CCCl)CCCl)cc1,MMFF,0.0
+307,Chloramphenicol,success,,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,MMFF,0.0
+308,Chlordiazepoxide,success,,CN=C1CN(O)C(c2ccccc2)=c2cc(Cl)ccc2=N1,MMFF,0.0
+309,Chlormezanone,success,,CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1,MMFF,0.0
+310,Chloroprocaine,success,,CCN(CC)CCOC(=O)c1ccc(N)cc1Cl,MMFF,0.0
+311,Chloropyramine,success,,CN(C)CCN(Cc1ccc(Cl)cc1)c1ccccn1,MMFF,0.0
+312,Chloroquine,success,,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,MMFF,0.0
+313,Chlorothiazide,success,,NS(=O)(=O)c1cc2c(cc1Cl)NC=NS2(=O)=O,MMFF,0.0
+314,Chloroxine,success,,Oc1c(Cl)cc(Cl)c2cccnc12,MMFF,0.0
+315,Chloroxylenol,success,,Cc1cc(O)cc(C)c1Cl,MMFF,0.0
+316,Chlorphenesin,success,,OCC(O)COc1ccc(Cl)cc1,MMFF,0.0
+317,Chlorpheniramine,success,,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,MMFF,0.0
+318,Chlorpromazine,success,,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,MMFF,0.0
+319,Chlorpropamide,success,,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,MMFF,0.0
+320,Chlorprothixene,success,,CN(C)CCC=C1c2ccccc2Sc2ccc(Cl)cc21,MMFF,0.0
+321,Chlortetracycline,success,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12,MMFF,0.0
+322,Chlorthalidone,success,,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,MMFF,0.0
+323,Chlorzoxazone,success,,O=c1[nH]c2cc(Cl)ccc2o1,MMFF,0.0
+324,Cholecalciferol,success,,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)CCCC(C)C,MMFF,0.0
+325,Cholic Acid,success,,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,MMFF,0.0
+326,Choline,success,,C[N+](C)(C)CCO,MMFF,0.0
+327,Choline C 11,success,,C[N+](C)(C)CCO,MMFF,0.0
+328,Choline magnesium trisalicylate,success,,C[N+](C)(C)CCO.O=C(O)c1ccccc1[O-].O=C(O)c1ccccc1[O-].O=C(O)c1ccccc1[O-].[Mg+2],MMFF,0.0
+329,Chromium,failed,Neither MMFF nor UFF parameters available,[Cr],,
+330,Ciclesonide,success,,CC(C)C(=O)OCC(=O)C12OC(C3CCCCC3)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,MMFF,0.0
+331,Ciclopirox,success,,Cc1cc(C2CCCCC2)n(O)c(=O)c1,MMFF,0.0
+332,Cidofovir,success,,Nc1ccn(CC(CO)OCP(=O)(O)O)c(=O)n1,MMFF,0.0
+333,Cilastatin,success,,CC1(C)CC1C(=O)NC(=CCCCCSCC(N)C(=O)O)C(=O)O,MMFF,0.0
+334,Cilazapril,success,,CCOC(=O)C(CCc1ccccc1)NC1CCCN2CCCC(C(=O)O)N2C1=O,MMFF,0.0
+335,Cilnidipine,success,,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC=Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+336,Cilostazol,success,,O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1,MMFF,0.0
+337,Cimetidine,success,,CN=C(NC#N)NCCSCc1nc[nH]c1C,MMFF,0.0
+338,Cinacalcet,success,,CC(NCCCc1cccc(C(F)(F)F)c1)c1cccc2ccccc12,MMFF,0.0
+339,Cinchocaine,success,,CCCCOc1cc(C(=O)NCCN(CC)CC)c2ccccc2n1,MMFF,0.0
+340,Cinnarizine,success,,C(=Cc1ccccc1)CN1CCN(C(c2ccccc2)c2ccccc2)CC1,MMFF,0.0
+341,Cinoxacin,success,,CCn1nc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,MMFF,0.0
+342,Ciprofloxacin,success,,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O,MMFF,0.0
+343,Cisapride,success,,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC,MMFF,0.0
+344,Cisatracurium,success,,COc1ccc(CC2c3cc(OC)c(OC)cc3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCc3cc(OC)c(OC)cc3C2Cc2ccc(OC)c(OC)c2)cc1OC,MMFF,1.0
+345,Cisplatin,failed,Neither MMFF nor UFF parameters available,N.N.[Cl][Pt][Cl],,
+346,Citalopram,success,,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,MMFF,0.0
+347,Citric acid,success,,O=C(O)CC(O)(CC(=O)O)C(=O)O,MMFF,0.0
+348,Cladribine,success,,Nc1nc(Cl)nc2c1ncn2C1CC(O)C(CO)O1,MMFF,0.0
+349,Clarithromycin,success,,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,MMFF,1.0
+350,Clavulanic acid,success,,O=C(O)C1C(=CCO)OC2CC(=O)N21,MMFF,0.0
+351,Clemastine,success,,CN1CCCC1CCOC(C)(c1ccccc1)c1ccc(Cl)cc1,MMFF,0.0
+352,Clenbuterol,success,,CC(C)(C)NCC(O)c1cc(Cl)c(N)c(Cl)c1,MMFF,0.0
+353,Clevidipine,success,,CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,MMFF,1.0
+354,Clidinium,success,,C[N+]12CCC(CC1)C(OC(=O)C(O)(c1ccccc1)c1ccccc1)C2,MMFF,0.0
+355,Clindamycin,success,,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,MMFF,1.0
+356,Clobazam,success,,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,MMFF,0.0
+357,Clobetasol propionate,success,,CCC(=O)OC1(C(=O)CCl)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,MMFF,0.0
+358,Clobetasone,success,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(=O)CC2(C)C1(O)C(=O)CCl,MMFF,0.0
+359,Clocortolone,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1C(=O)CO,MMFF,0.0
+360,Clodronic acid,success,,O=P(O)(O)C(Cl)(Cl)P(=O)(O)O,MMFF,0.0
+361,Clofarabine,success,,Nc1nc(Cl)nc2c1ncn2C1OC(CO)C(O)C1F,MMFF,0.0
+362,Clofazimine,success,,CC(C)N=c1cc2n(-c3ccc(Cl)cc3)c3ccccc3nc-2cc1Nc1ccc(Cl)cc1,MMFF,0.0
+363,Clofibrate,success,,CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1,MMFF,0.0
+364,Clomifene,success,,CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,MMFF,0.0
+365,Clomipramine,success,,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,MMFF,0.0
+366,Clomocycline,success,,CN(C)C1C(=O)C(C(=O)NCO)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12,MMFF,0.0
+367,Clonazepam,success,,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,MMFF,0.0
+368,Clonidine,success,,Clc1cccc(Cl)c1NC1=NCCN1,MMFF,0.0
+369,Clonixin,success,,Cc1c(Cl)cccc1Nc1ncccc1C(=O)O,MMFF,0.0
+370,Clopidogrel,success,,COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1,MMFF,0.0
+371,Clorazepic acid,success,,O=C(O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O,MMFF,0.0
+372,Clotiazepam,success,,CCc1cc2c(s1)N(C)C(=O)CN=C2c1ccccc1Cl,MMFF,0.0
+373,Clotrimazole,success,,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,MMFF,0.0
+374,Cloxacillin,success,,Cc1onc(-c2ccccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,MMFF,0.0
+375,Cloxazolam,success,,O=C1CN2CCOC2(c2ccccc2Cl)c2cc(Cl)ccc2N1,MMFF,0.0
+376,Clozapine,success,,CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1,MMFF,0.0
+377,Cobicistat,success,,CC(C)c1nc(CN(C)C(=O)NC(CCN2CCOCC2)C(=O)NC(CCC(Cc2ccccc2)NC(=O)OCc2cncs2)Cc2ccccc2)cs1,MMFF,0.0
+378,Cobimetinib,success,,O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1,MMFF,0.0
+379,Cocaine,success,,COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,MMFF,0.0
+380,Codeine,success,,COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,MMFF,0.0
+381,Colchicine,success,,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,MMFF,0.0
+382,Colistin,success,,CCC(C)CCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,MMFF,1.0
+383,Conivaptan,success,,Cc1nc2c([nH]1)CCN(C(=O)c1ccc(NC(=O)c3ccccc3-c3ccccc3)cc1)c1ccccc1-2,MMFF,0.0
+384,Copanlisib,success,,COc1c(OCCCN2CCOCC2)ccc2c3n(c(=NC(=O)c4cnc(N)nc4)nc12)CCN3,MMFF,1.0
+385,Copper,failed,Neither MMFF nor UFF parameters available,[Cu],,
+386,Corticorelin ovine triflutate,failed,3D conformer generation failed,CCC(C)C(NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(N)=O)NC(=O)C(CO)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(C)NC(=O)C(CCC(N)=O)NC(=O)C(CCC(N)=O)NC(=O)C(C)NC(=O)C(CC(C)C)NC(=O)C(CCC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(NC(=O)C(CCSC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(CCC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(NC(=O)C1CCCN1C(=O)C1CCCN1C(=O)C(CCC(=O)O)NC(=O)C(CCC(N)=O)NC(=O)C(N)CO)C(C)CC)C(C)O)C(C)C)C(C)O)C(=O)NC(C)C(N)=O,,
+387,Cortisone acetate,success,,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(=O)CC21C,MMFF,0.0
+388,Crisaborole,success,,N#Cc1ccc(Oc2ccc3c(c2)COB3O)cc1,UFF,0.0
+389,Crizotinib,success,,CC(Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,MMFF,0.0
+390,Cyamemazine,success,,CC(CN(C)C)CN1c2ccccc2Sc2ccc(C#N)cc21,MMFF,0.0
+391,Cyanocobalamin,failed,Neither MMFF nor UFF parameters available,CC1=C2N=C(C=C3NC(=C(C)C4=NC(C)(C5N=C1C(C)(CCC(=O)NCC(C)OP(=O)(O)OC1C(CO)OC([n+]6c[nH]c7cc(C)c(C)cc76)C1O)C5CC(N)=O)C(C)(CC(N)=O)C4CCC(=N)[O-])C(C)(CC(N)=O)C3CCC(=N)[O-])C(C)(C)C2CCC(=N)[O-].[C]#N.[Co+2],,
+392,Cyclacillin,success,,CC1(C)SC2C(NC(=O)C3(N)CCCCC3)C(=O)N2C1C(=O)O,MMFF,0.0
+393,Cyclizine,success,,CN1CCN(C(c2ccccc2)c2ccccc2)CC1,MMFF,0.0
+394,Cyclobenzaprine,success,,CN(C)CCC=C1c2ccccc2C=Cc2ccccc21,MMFF,0.0
+395,Cyclopentolate,success,,CN(C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1,MMFF,0.0
+396,Cyclophosphamide,success,,O=P1(N(CCCl)CCCl)NCCCO1,MMFF,0.0
+397,Cycloserine,success,,NC1CONC1=O,MMFF,0.0
+398,Cyclosporine,success,,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,MMFF,1.0
+399,Cyclothiazide,success,,NS(=O)(=O)c1cc2c(cc1Cl)NC(C1CC3C=CC1C3)NS2(=O)=O,MMFF,0.0
+400,Cyproheptadine,success,,CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1,MMFF,0.0
+401,Cyproterone acetate,success,,CC(=O)OC1(C(C)=O)CCC2C3C=C(Cl)C4=CC(=O)C5CC5C4(C)C3CCC21C,MMFF,0.0
+402,Cysteamine,success,,NCCS,MMFF,0.0
+403,Cytarabine,success,,Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1,MMFF,0.0
+404,Dabigatran etexilate,success,,CCCCCCOC(=O)NC(=N)c1ccc(NCc2nc3cc(C(=O)N(CCC(=O)OCC)c4ccccn4)ccc3n2C)cc1,MMFF,1.0
+405,Dabrafenib,success,,CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1,MMFF,0.0
+406,Dacarbazine,success,,CN(C)N=Nc1nc[nH]c1C(N)=O,MMFF,0.0
+407,Daclatasvir,success,,COC(=O)NC(C(=O)N1CCCC1c1ncc(-c2ccc(-c3ccc(-c4cnc(C5CCCN5C(=O)C(NC(=O)OC)C(C)C)[nH]4)cc3)cc2)[nH]1)C(C)C,MMFF,1.0
+408,Dactinomycin,success,,Cc1c2oc3c(C)ccc(C(=O)NC4C(=O)NC(C(C)C)C(=O)N5CCCC5C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC4C)c3nc-2c(C(=O)NC2C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c(N)c1=O,MMFF,1.0
+409,Dalfampridine,success,,Nc1ccncc1,MMFF,0.0
+410,Dalfopristin,success,,CCN(CC)CCS(=O)(=O)C1CCN2C(=O)c3coc(n3)CC(=O)CC(O)C=C(C)C=CCNC(=O)C=CC(C)C(C(C)C)OC(=O)C12,MMFF,1.0
+411,Danazol,success,,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,MMFF,0.0
+412,Dantrolene,success,,O=C1CN(N=Cc2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1,MMFF,0.0
+413,Dapagliflozin,success,,CCOc1ccc(Cc2cc(C3OC(CO)C(O)C(O)C3O)ccc2Cl)cc1,MMFF,0.0
+414,Dapiprazole,success,,Cc1ccccc1N1CCN(CCc2nnc3n2CCCC3)CC1,MMFF,0.0
+415,Dapsone,success,,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,MMFF,0.0
+416,Daptomycin,failed,3D conformer generation failed,CCCCCCCCCC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC1C(=O)NCC(=O)NC(CCCN)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CO)C(=O)NC(C(C)CC(=O)O)C(=O)NC(CC(=O)c2ccccc2N)C(=O)OC1C,,
+417,Darifenacin,success,,NC(=O)C(c1ccccc1)(c1ccccc1)C1CCN(CCc2ccc3c(c2)CCO3)C1,MMFF,0.0
+418,Darunavir,success,,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1,MMFF,0.0
+419,Dasabuvir,success,,COc1c(-c2ccc3cc(NS(C)(=O)=O)ccc3c2)cc(-n2ccc(=O)[nH]c2=O)cc1C(C)(C)C,MMFF,0.0
+420,Dasatinib,success,,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,MMFF,0.0
+421,Daunorubicin,success,,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(C)=O)CC3OC1CC(N)C(O)C(C)O1,MMFF,0.0
+422,Debrisoquine,success,,N=C(N)N1CCc2ccccc2C1,MMFF,0.0
+423,Decamethonium,success,,C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C,MMFF,0.0
+424,Decitabine,success,,Nc1ncn(C2CC(O)C(CO)O2)c(=O)n1,MMFF,0.0
+425,Deferasirox,success,,O=C(O)c1ccc(-n2nc(-c3ccccc3O)nc2-c2ccccc2O)cc1,MMFF,0.0
+426,Deferiprone,success,,Cc1c(O)c(=O)ccn1C,MMFF,0.0
+427,Deferoxamine,success,,CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN,MMFF,1.0
+428,Deflazacort,success,,CC(=O)OCC(=O)C12N=C(C)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,MMFF,0.0
+429,Degarelix,failed,3D conformer generation failed,CC(=O)NC(Cc1ccc2ccccc2c1)C(=O)NC(Cc1ccc(Cl)cc1)C(=O)NC(Cc1cccnc1)C(=O)NC(CO)C(=O)NC(Cc1ccc(NC(=O)C2CC(=O)NC(=O)N2)cc1)C(=O)NC(Cc1ccc(NC(N)=O)cc1)C(=O)NC(CC(C)C)C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(N)=O,,
+430,Delafloxacin,success,,Nc1nc(-n2cc(C(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1F,MMFF,0.0
+431,Delavirdine,success,,CC(C)Nc1cccnc1N1CCN(C(=O)c2cc3cc(NS(C)(=O)=O)ccc3[nH]2)CC1,MMFF,0.0
+432,Delorazepam,success,,O=C1CN=C(c2ccccc2Cl)c2cc(Cl)ccc2N1,MMFF,0.0
+433,Demecarium,success,,CN(CCCCCCCCCCN(C)C(=O)Oc1cccc([N+](C)(C)C)c1)C(=O)Oc1cccc([N+](C)(C)C)c1,MMFF,0.0
+434,Demeclocycline,success,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,MMFF,0.0
+435,Deoxycholic acid,success,,CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C,MMFF,0.0
+436,Deserpidine,success,,COC(=O)C1C2CC3c4[nH]c5ccccc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC,MMFF,0.0
+437,Desflurane,success,,FC(F)OC(F)C(F)(F)F,MMFF,0.0
+438,Desipramine,success,,CNCCCN1c2ccccc2CCc2ccccc21,MMFF,0.0
+439,Deslanoside,success,,CC1OC(OC2CCC3(C)C(CCC4C3CC(O)C3(C)C(C5=CC(=O)OC5)CCC43O)C2)CC(O)C1OC1CC(O)C(OC2CC(O)C(OC3OC(CO)C(O)C(O)C3O)C(C)O2)C(C)O1,MMFF,1.0
+440,Desloratadine,success,,Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1,MMFF,0.0
+441,Desmopressin,success,,NC(=O)CCC1NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccc(O)cc2)NC(=O)CCSSCC(C(=O)N2CCCC2C(=O)NC(CCCN=C(N)N)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC1=O,MMFF,1.0
+442,Desogestrel,success,,C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,MMFF,0.0
+443,Desonide,success,,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,MMFF,0.0
+444,Desoximetasone,success,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1C(=O)CO,MMFF,0.0
+445,Desvenlafaxine,success,,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1,MMFF,0.0
+446,Deutetrabenazine,success,,COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,MMFF,0.0
+447,Dexamethasone,success,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+448,Dexbrompheniramine,success,,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1,MMFF,0.0
+449,Dexchlorpheniramine maleate,success,,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1.O=C(O)C=CC(=O)O,MMFF,0.0
+450,Dexfenfluramine,success,,CCNC(C)Cc1cccc(C(F)(F)F)c1,MMFF,0.0
+451,Dexketoprofen,success,,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,MMFF,0.0
+452,Dexlansoprazole,success,,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1,MMFF,0.0
+453,Dexmedetomidine,success,,Cc1cccc(C(C)c2cnc[nH]2)c1C,MMFF,0.0
+454,Dexmethylphenidate,success,,COC(=O)C(c1ccccc1)C1CCCCN1,MMFF,0.0
+455,Dexrazoxane,success,,CC(CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1,MMFF,0.0
+456,Dextroamphetamine,success,,CC(N)Cc1ccccc1,MMFF,0.0
+457,Dextromethorphan,success,,COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3,MMFF,0.0
+458,Dextropropoxyphene,success,,CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C,MMFF,0.0
+459,Dezocine,success,,CC12CCCCCC(Cc3ccc(O)cc31)C2N,MMFF,0.0
+460,Diacerein,success,,CC(=O)Oc1cccc2c1C(=O)c1c(OC(C)=O)cc(C(=O)O)cc1C2=O,MMFF,0.0
+461,Diamorphine,success,,CC(=O)Oc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341,MMFF,0.0
+462,Diatrizoate,success,,CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I,MMFF,0.0
+463,Diazepam,success,,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,MMFF,0.0
+464,Diazoxide,success,,CC1=NS(=O)(=O)c2cc(Cl)ccc2N1,MMFF,0.0
+465,Diclofenac,success,,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,MMFF,0.0
+466,Diclofenamide,success,,NS(=O)(=O)c1cc(Cl)c(Cl)c(S(N)(=O)=O)c1,MMFF,0.0
+467,Dicloxacillin,success,,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,MMFF,0.0
+468,Dicoumarol,success,,O=c1oc2ccccc2c(O)c1Cc1c(O)c2ccccc2oc1=O,MMFF,0.0
+469,Dicyclomine,success,,CCN(CC)CCOC(=O)C1(C2CCCCC2)CCCCC1,MMFF,0.0
+470,Didanosine,success,,O=c1[nH]cnc2c1ncn2C1CCC(CO)O1,MMFF,0.0
+471,Dienestrol,success,,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,MMFF,0.0
+472,Dienogest,success,,CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2(O)CC#N,MMFF,0.0
+473,Diethylcarbamazine,success,,CCN(CC)C(=O)N1CCN(C)CC1,MMFF,0.0
+474,Diethylpropion,success,,CCN(CC)C(C)C(=O)c1ccccc1,MMFF,0.0
+475,Diethylstilbestrol,success,,CCC(=C(CC)c1ccc(O)cc1)c1ccc(O)cc1,MMFF,0.0
+476,Difenoxin,success,,N#CC(CCN1CCC(C(=O)O)(c2ccccc2)CC1)(c1ccccc1)c1ccccc1,MMFF,0.0
+477,Diflorasone,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+478,Diflunisal,success,,O=C(O)c1cc(-c2ccc(F)cc2F)ccc1O,MMFF,0.0
+479,Difluocortolone,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1C(=O)CO,MMFF,0.0
+480,Difluprednate,success,,CCCC(=O)OC1(C(=O)COC(C)=O)CCC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,MMFF,0.0
+481,Digitoxin,success,,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,MMFF,1.0
+482,Digoxin,success,,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,MMFF,1.0
+483,Dihydrocodeine,success,,COc1ccc2c3c1OC1C(O)CCC4C(C2)N(C)CCC341,MMFF,0.0
+484,Dihydroergotamine,success,,CN1CC(C(=O)NC2(C)OC3(O)C4CCCN4C(=O)C(Cc4ccccc4)N3C2=O)CC2c3cccc4[nH]cc(c34)CC21,MMFF,0.0
+485,Dihydrotachysterol,success,,CC1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)C=CC(C)C(C)C,MMFF,0.0
+486,Diltiazem,success,,COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1,MMFF,0.0
+487,Dimenhydrinate,success,,CN(C)CCOC(c1ccccc1)c1ccccc1.Cn1c(=O)c2[nH]c(Cl)nc2n(C)c1=O,MMFF,0.0
+488,Dimercaprol,success,,OCC(S)CS,MMFF,0.0
+489,Dimetacrine,success,,CN(C)CCCN1c2ccccc2C(C)(C)c2ccccc21,MMFF,0.0
+490,Dimethyl fumarate,success,,COC(=O)C=CC(=O)OC,MMFF,0.0
+491,Dimethyl sulfoxide,success,,CS(C)=O,MMFF,0.0
+492,Dimetindene,success,,CC(C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1,MMFF,0.0
+493,Dimetotiazine,success,,CC(CN1c2ccccc2Sc2ccc(S(=O)(=O)N(C)C)cc21)N(C)C,MMFF,0.0
+494,Dinoprost tromethamine,success,,CCCCCC(O)C=CC1C(O)CC(O)C1CC=CCCCC(=O)O.NC(CO)(CO)CO,MMFF,0.0
+495,Dinoprostone,success,,CCCCCC(O)C=CC1C(O)CC(=O)C1CC=CCCCC(=O)O,MMFF,0.0
+496,Diphenhydramine,success,,CN(C)CCOC(c1ccccc1)c1ccccc1,MMFF,0.0
+497,Diphenoxylate,success,,CCOC(=O)C1(c2ccccc2)CCN(CCC(C#N)(c2ccccc2)c2ccccc2)CC1,MMFF,0.0
+498,Dipivefrin,success,,CNCC(O)c1ccc(OC(=O)C(C)(C)C)c(OC(=O)C(C)(C)C)c1,MMFF,0.0
+499,Dipotassium phosphate,success,,O=P([O-])([O-])O.[K+].[K+],MMFF,0.0
+500,Dipyridamole,success,,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,MMFF,0.0
+501,Dirithromycin,success,,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C2NC(COCCOC)OC(C2C)C1(C)O,MMFF,0.0
+502,Disopyramide,success,,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C,MMFF,0.0
+503,Disulfiram,success,,CCN(CC)C(=S)SSC(=S)N(CC)CC,MMFF,0.0
+504,Ditazole,success,,OCCN(CCO)c1nc(-c2ccccc2)c(-c2ccccc2)o1,MMFF,0.0
+505,Dobutamine,success,,CC(CCc1ccc(O)cc1)NCCc1ccc(O)c(O)c1,MMFF,0.0
+506,Docetaxel,success,,CC(=O)OC12COC1CC(O)C1(C)C(=O)C(O)C3=C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,MMFF,0.0
+507,Doconexent,success,,CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,MMFF,0.0
+508,Dofetilide,success,,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1,MMFF,0.0
+509,Dolasetron,success,,O=C(OC1CC2CC3CC(C1)N2CC3=O)c1c[nH]c2ccccc12,MMFF,0.0
+510,Dolutegravir,success,,CC1CCOC2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c(O)c3C(=O)N12,MMFF,0.0
+511,Domperidone,success,,O=c1[nH]c2ccccc2n1CCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1,MMFF,0.0
+512,Donepezil,success,,COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,MMFF,0.0
+513,Dopamine,success,,NCCc1ccc(O)c(O)c1,MMFF,0.0
+514,Doripenem,success,,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(CNS(N)(=O)=O)C3)C(C)C12,MMFF,0.0
+515,Dorzolamide,success,,CCNC1CC(C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21,MMFF,0.0
+516,Dosulepin,success,,CN(C)CCC=C1c2ccccc2CSc2ccccc21,MMFF,0.0
+517,Dotatate gallium Ga-68,failed,Neither MMFF nor UFF parameters available,CC(O)C(NC(=O)C1CSSCC(NC(=O)C(Cc2ccccc2)NC(=O)CN2CCN(CC(=O)[O-])CCN(CC(=O)[O-])CCN(CC(=O)[O-])CC2)C(=O)NC(Cc2ccc(O)cc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)N1)C(=O)O.[Ga+3],,
+518,Doxacurium,success,,COc1cc(CC2c3c(cc(OC)c(OC)c3OC)CC[N+]2(C)CCCOC(=O)CCC(=O)OCCC[N+]2(C)CCc3cc(OC)c(OC)c(OC)c3C2Cc2cc(OC)c(OC)c(OC)c2)cc(OC)c1OC,MMFF,1.0
+519,Doxapram,success,,CCN1CC(CCN2CCOCC2)C(c2ccccc2)(c2ccccc2)C1=O,MMFF,0.0
+520,Doxazosin,success,,COc1cc2nc(N3CCN(C(=O)C4COc5ccccc5O4)CC3)nc(N)c2cc1OC,MMFF,0.0
+521,Doxepin,success,,CN(C)CCC=C1c2ccccc2COc2ccccc21,MMFF,0.0
+522,Doxercalciferol,success,,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(C)C(C)C)CC(O)CC1O,MMFF,0.0
+523,Doxofylline,success,,Cn1c(=O)c2c(ncn2CC2OCCO2)n(C)c1=O,MMFF,0.0
+524,Doxorubicin,success,,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1,MMFF,0.0
+525,Doxycycline,success,,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21,MMFF,0.0
+526,Doxylamine,success,,CN(C)CCOC(C)(c1ccccc1)c1ccccn1,MMFF,0.0
+527,Dronabinol,success,,CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21,MMFF,0.0
+528,Dronedarone,success,,CCCCc1oc2ccc(NS(C)(=O)=O)cc2c1C(=O)c1ccc(OCCCN(CCCC)CCCC)cc1,MMFF,0.0
+529,Droperidol,success,,O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1,MMFF,0.0
+530,Drospirenone,success,,CC12CCC(=O)C=C1C1CC1C1C2CCC2(C)C1C1CC1C21CCC(=O)O1,MMFF,0.0
+531,Droxicam,success,,CN1c2c(oc(=O)n(-c3ccccn3)c2=O)-c2ccccc2S1(=O)=O,MMFF,0.0
+532,Droxidopa,success,,NC(C(=O)O)C(O)c1ccc(O)c(O)c1,MMFF,0.0
+533,Duloxetine,success,,CNCCC(Oc1cccc2ccccc12)c1cccs1,MMFF,0.0
+534,Dutasteride,success,,CC12C=CC(=O)NC1CCC1C2CCC2(C)C(C(=O)Nc3cc(C(F)(F)F)ccc3C(F)(F)F)CCC12,MMFF,0.0
+535,Dyclonine,success,,CCCCOc1ccc(C(=O)CCN2CCCCC2)cc1,MMFF,0.0
+536,Dydrogesterone,success,,CC(=O)C1CCC2C3C=CC4=CC(=O)CCC4(C)C3CCC12C,MMFF,0.0
+537,Dyphylline,success,,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O,MMFF,0.0
+538,Ecabet,success,,CC(C)c1cc2c(cc1S(=O)(=O)O)C1(C)CCCC(C)(C(=O)O)C1CC2,MMFF,0.0
+539,Echothiophate,success,,CCOP(=O)(OCC)SCC[N+](C)(C)C,MMFF,0.0
+540,Econazole,success,,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,MMFF,0.0
+541,Edetic acid,success,,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,MMFF,0.0
+542,Edoxaban,success,,CN1CCc2nc(C(=O)NC3CC(C(=O)N(C)C)CCC3NC(=O)C(=O)Nc3ccc(Cl)cn3)sc2C1,MMFF,0.0
+543,Edrophonium,success,,CC[N+](C)(C)c1cccc(O)c1,MMFF,0.0
+544,Efavirenz,success,,O=C1Nc2ccc(Cl)cc2C(C#CC2CC2)(C(F)(F)F)O1,MMFF,0.0
+545,Efinaconazole,success,,C=C1CCN(C(C)C(O)(Cn2cncn2)c2ccc(F)cc2F)CC1,MMFF,0.0
+546,Eflornithine,success,,NCCCC(N)(C(=O)O)C(F)F,MMFF,0.0
+547,Efonidipine,success,,CC1=C(C(=O)OCCN(Cc2ccccc2)c2ccccc2)C(c2cccc([N+](=O)[O-])c2)C(P2(=O)OCC(C)(C)CO2)=C(C)N1,MMFF,0.0
+548,Elbasvir,success,,COC(=O)NC(C(=O)N1CCCC1c1ncc(-c2ccc3c(c2)OC(c2ccccc2)n2c-3cc3cc(-c4cnc(C5CCCN5C(=O)C(NC(=O)OC)C(C)C)[nH]4)ccc32)[nH]1)C(C)C,MMFF,1.0
+549,Eletriptan,success,,CN1CCCC1Cc1c[nH]c2ccc(CCS(=O)(=O)c3ccccc3)cc12,MMFF,0.0
+550,Eliglustat,success,,CCCCCCCC(=O)NC(CN1CCCC1)C(O)c1ccc2c(c1)OCCO2,MMFF,0.0
+551,Eltrombopag,success,,Cc1ccc(-n2[nH]c(C)c(N=Nc3cccc(-c4cccc(C(=O)O)c4)c3O)c2=O)cc1C,MMFF,0.0
+552,Eluxadoline,success,,COc1ccc(CN(C(=O)C(N)Cc2c(C)cc(C(N)=O)cc2C)C(C)c2ncc(-c3ccccc3)[nH]2)cc1C(=O)O,MMFF,1.0
+553,Elvitegravir,success,,COc1cc2c(cc1Cc1cccc(Cl)c1F)c(=O)c(C(=O)O)cn2C(CO)C(C)C,MMFF,0.0
+554,Emedastine,success,,CCOCCn1c(N2CCCN(C)CC2)nc2ccccc21,MMFF,0.0
+555,Empagliflozin,success,,OCC1OC(c2ccc(Cl)c(Cc3ccc(OC4CCOC4)cc3)c2)C(O)C(O)C1O,MMFF,0.0
+556,Emtricitabine,success,,Nc1nc(=O)n(C2CSC(CO)O2)cc1F,MMFF,0.0
+557,Enalapril,success,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O,MMFF,0.0
+558,Enalaprilat,success,,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,MMFF,0.0
+559,Enasidenib,success,,CC(C)(O)CNc1nc(Nc2ccnc(C(F)(F)F)c2)nc(-c2cccc(C(F)(F)F)n2)n1,MMFF,0.0
+560,Encainide,success,,COc1ccc(C(=O)Nc2ccccc2CCC2CCCCN2C)cc1,MMFF,0.0
+561,Enflurane,success,,FC(F)OC(F)(F)C(F)Cl,MMFF,0.0
+562,Enoxacin,success,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21,MMFF,0.0
+563,Entacapone,success,,CCN(CC)C(=O)C(C#N)=Cc1cc(O)c(O)c([N+](=O)[O-])c1,MMFF,0.0
+564,Entecavir,success,,C=C1C(CO)C(O)CC1n1cnc2c(=O)[nH]c(N)nc21,MMFF,0.0
+565,Enviomycin,success,,NCCC(O)C(N)CC(=O)NC1CNC(=O)C(C2CCNC(N)=N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CO)NC(=O)C(CO)NC1=O,MMFF,0.0
+566,Enzalutamide,success,,CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,MMFF,0.0
+567,Eperisone,success,,CCc1ccc(C(=O)C(C)CN2CCCCC2)cc1,MMFF,0.0
+568,Ephedrine,success,,CNC(C)C(O)c1ccccc1,MMFF,0.0
+569,Epinastine,success,,NC1=NCC2c3ccccc3Cc3ccccc3N12,MMFF,0.0
+570,Epinephrine,success,,CNCC(O)c1ccc(O)c(O)c1,MMFF,0.0
+571,Epirizole,success,,COc1cc(C)nc(-n2nc(C)cc2OC)n1,MMFF,0.0
+572,Epirubicin,success,,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1,MMFF,0.0
+573,Eplerenone,success,,COC(=O)C1CC2=CC(=O)CCC2(C)C23OC2CC2(C)C(CCC24CCC(=O)O4)C13,MMFF,0.0
+574,Epoprostenol,success,,CCCCCC(O)C=CC1C(O)CC2OC(=CCCCC(=O)O)CC21,MMFF,0.0
+575,Eprosartan,success,,CCCCc1ncc(C=C(Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1,MMFF,0.0
+576,Equilin,success,,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,MMFF,0.0
+577,Ergocalciferol,success,,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)C=CC(C)C(C)C,MMFF,0.0
+578,Ergometrine,success,,CC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,MMFF,0.0
+579,Ergotamine,success,,CN1CC(C(=O)NC2(C)OC3(O)C4CCCN4C(=O)C(Cc4ccccc4)N3C2=O)C=C2c3cccc4[nH]cc(c34)CC21,MMFF,0.0
+580,Eribulin,success,,C=C1CC2CCC34CC5OC6C(OC7CCC(CC(=O)CC8C(CC9OC(CCC1O2)CC(C)C9=C)OC(CC(O)CN)C8OC)OC7C6O3)C5O4,MMFF,0.0
+581,Erlotinib,success,,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,MMFF,0.0
+582,Ertapenem,success,,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)C(C)C12,MMFF,0.0
+583,Erythrityl tetranitrate,success,,O=[N+]([O-])OCC(O[N+](=O)[O-])C(CO[N+](=O)[O-])O[N+](=O)[O-],MMFF,0.0
+584,Erythromycin,success,,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,MMFF,0.0
+585,Escitalopram,success,,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,MMFF,0.0
+586,Eslicarbazepine acetate,success,,CC(=O)OC1Cc2ccccc2N(C(N)=O)c2ccccc21,MMFF,0.0
+587,Esmolol,success,,COC(=O)CCc1ccc(OCC(O)CNC(C)C)cc1,MMFF,0.0
+588,Esomeprazole,success,,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,MMFF,0.0
+589,Estazolam,success,,Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2,MMFF,0.0
+590,Estradiol,success,,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O,MMFF,0.0
+591,Estramustine,success,,CC12CCC3c4ccc(OC(=O)N(CCCl)CCCl)cc4CCC3C1CCC2O,MMFF,0.0
+592,Estriol,success,,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,MMFF,0.0
+593,Estrone,success,,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,MMFF,0.0
+594,Estrone sulfate,success,,CC12CCC3c4ccc(OS(=O)(=O)O)cc4CCC3C1CCC2=O,MMFF,0.0
+595,Eszopiclone,success,,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,MMFF,0.0
+596,Etacrynic acid,success,,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl,MMFF,0.0
+597,Ethambutol,success,,CCC(CO)NCCNC(CC)CO,MMFF,0.0
+598,Ethanol,success,,CCO,MMFF,0.0
+599,Ethanolamine oleate,success,,CCCCCCCCC=CCCCCCCCC(=O)O.NCCO,MMFF,0.0
+600,Ethchlorvynol,success,,C#CC(O)(C=CCl)CC,MMFF,0.0
+601,Ethinylestradiol,success,,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,MMFF,0.0
+602,Ethionamide,success,,CCc1cc(C(N)=S)ccn1,MMFF,0.0
+603,Ethosuximide,success,,CCC1(C)CC(=O)NC1=O,MMFF,0.0
+604,Ethotoin,success,,CCN1C(=O)NC(c2ccccc2)C1=O,MMFF,0.0
+605,Ethyl loflazepate,success,,CCOC(=O)C1N=C(c2ccccc2F)c2cc(Cl)ccc2NC1=O,MMFF,0.0
+606,Ethylmorphine,success,,CCOc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,MMFF,0.0
+607,Ethynodiol diacetate,success,,C#CC1(OC(C)=O)CCC2C3CCC4=CC(OC(C)=O)CCC4C3CCC21C,MMFF,0.0
+608,Etidocaine,success,,CCCN(CC)C(CC)C(=O)Nc1c(C)cccc1C,MMFF,0.0
+609,Etidronic acid,success,,CC(O)(P(=O)(O)O)P(=O)(O)O,MMFF,0.0
+610,Etizolam,success,,CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,MMFF,0.0
+611,Etodolac,success,,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3,MMFF,0.0
+612,Etofenamate,success,,O=C(OCCOCCO)c1ccccc1Nc1cccc(C(F)(F)F)c1,MMFF,0.0
+613,Etofibrate,success,,CC(C)(Oc1ccc(Cl)cc1)C(=O)OCCOC(=O)c1cccnc1,MMFF,0.0
+614,Etomidate,success,,CCOC(=O)c1cncn1C(C)c1ccccc1,MMFF,0.0
+615,Etonogestrel,success,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3C(=C)CC21CC,MMFF,0.0
+616,Etoposide,success,,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,MMFF,1.0
+617,Etoricoxib,success,,Cc1ccc(-c2ncc(Cl)cc2-c2ccc(S(C)(=O)=O)cc2)cn1,MMFF,0.0
+618,Etravirine,success,,Cc1cc(C#N)cc(C)c1Oc1nc(Nc2ccc(C#N)cc2)nc(N)c1Br,MMFF,0.0
+619,Everolimus,success,,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,MMFF,1.0
+620,Exemestane,success,,C=C1CC2C(CCC3(C)C(=O)CCC23)C2(C)C=CC(=O)C=C12,MMFF,0.0
+621,Ezetimibe,success,,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc(O)cc2)N1c1ccc(F)cc1,MMFF,0.0
+622,Ezogabine,success,,CCOC(=O)Nc1ccc(NCc2ccc(F)cc2)cc1N,MMFF,0.0
+623,Famciclovir,success,,CC(=O)OCC(CCn1cnc2cnc(N)nc21)COC(C)=O,MMFF,0.0
+624,Famotidine,success,,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,MMFF,0.0
+625,Febuxostat,success,,Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O,MMFF,0.0
+626,Felbamate,success,,NC(=O)OCC(COC(N)=O)c1ccccc1,MMFF,0.0
+627,Felodipine,success,,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,MMFF,0.0
+628,Fenbufen,success,,O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1,MMFF,0.0
+629,Fencamfamin,success,,CCNC1C2CCC(C2)C1c1ccccc1,MMFF,0.0
+630,Fenofibrate,success,,CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,MMFF,0.0
+631,Fenofibric acid,success,,CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)O,MMFF,0.0
+632,Fenoldopam,success,,Oc1ccc(C2CNCCc3c2cc(O)c(O)c3Cl)cc1,MMFF,0.0
+633,Fenoprofen,success,,CC(C(=O)O)c1cccc(Oc2ccccc2)c1,MMFF,0.0
+634,Fenoterol,success,,CC(Cc1ccc(O)cc1)NCC(O)c1cc(O)cc(O)c1,MMFF,0.0
+635,Fentanyl,success,,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,MMFF,0.0
+636,Ferric pyrophosphate,success,,O=P([O-])([O-])OP(=O)([O-])[O-].O=P([O-])([O-])OP(=O)([O-])[O-].O=P([O-])([O-])OP(=O)([O-])[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3],MMFF,0.0
+637,Fesoterodine,success,,CC(C)C(=O)Oc1ccc(CO)cc1C(CCN(C(C)C)C(C)C)c1ccccc1,MMFF,0.0
+638,Fexofenadine,success,,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,MMFF,0.0
+639,Fidaxomicin,success,,CCc1c(Cl)c(O)c(Cl)c(O)c1C(=O)OC1C(C)OC(OCC2=CC=CCC(O)C(C)=CC(CC)C(OC3OC(C)(C)C(OC(=O)C(C)C)C(O)C3O)C(C)=CC(C)=CCC(C(C)O)OC2=O)C(OC)C1O,MMFF,1.0
+640,Fimasartan,success,,CCCCc1nc(C)c(CC(=S)N(C)C)c(=O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,MMFF,0.0
+641,Finafloxacin,success,,N#Cc1c(N2CC3NCCOC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,MMFF,0.0
+642,Finasteride,success,,CC(C)(C)NC(=O)C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C,MMFF,0.0
+643,Fingolimod,success,,CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1,MMFF,0.0
+644,Flecainide,success,,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F,MMFF,0.0
+645,Fleroxacin,success,,CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(CCF)c3c2F)CC1,MMFF,0.0
+646,Flibanserin,success,,O=c1[nH]c2ccccc2n1CCN1CCN(c2cccc(C(F)(F)F)c2)CC1,MMFF,0.0
+647,Floctafenine,success,,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2c(C(F)(F)F)cccc12,MMFF,0.0
+648,Floxuridine,success,,O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1F,MMFF,0.0
+649,Flubendazole,success,,COC(=O)Nc1nc2ccc(C(=O)c3ccc(F)cc3)cc2[nH]1,MMFF,0.0
+650,Fluciclovine (18F),success,,NC1(C(=O)O)CC(F)C1,MMFF,0.0
+651,Flucloxacillin,success,,Cc1onc(-c2c(F)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,MMFF,0.0
+652,Fluconazole,success,,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,MMFF,0.0
+653,Flucytosine,success,,Nc1[nH]c(=O)ncc1F,MMFF,0.0
+654,Fludarabine,success,,Nc1nc(F)nc2c1ncn2C1OC(CO)C(O)C1O,MMFF,0.0
+655,Fludiazepam,success,,CN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,MMFF,0.0
+656,Fludrocortisone,success,,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,MMFF,0.0
+657,Flumazenil,success,,CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc1-2,MMFF,0.0
+658,Flumethasone,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+659,Flunarizine,success,,Fc1ccc(C(c2ccc(F)cc2)N2CCN(CC=Cc3ccccc3)CC2)cc1,MMFF,0.0
+660,Flunisolide,success,,CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,MMFF,0.0
+661,Flunitrazepam,success,,CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21,MMFF,0.0
+662,Fluocinolone acetonide,success,,CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,MMFF,0.0
+663,Fluocinonide,success,,CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,MMFF,0.0
+664,Fluocortolone,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1C(=O)CO,MMFF,0.0
+665,Fluorometholone,success,,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,MMFF,0.0
+666,Fluorouracil,success,,O=c1[nH]cc(F)c(=O)[nH]1,MMFF,0.0
+667,Fluoxetine,success,,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,MMFF,0.0
+668,Fluoxymesterone,success,,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3(F)C(O)CC21C,MMFF,0.0
+669,Flupentixol,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,MMFF,0.0
+670,Fluphenazine,success,,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,MMFF,0.0
+671,Fluprednidene,success,,C=C1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+672,Flurandrenolide,success,,CC1(C)OC2CC3C4CC(F)C5=CC(=O)CCC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,MMFF,0.0
+673,Flurazepam,success,,CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,MMFF,0.0
+674,Flurbiprofen,success,,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,MMFF,0.0
+675,Fluspirilene,success,,O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2,MMFF,0.0
+676,Flutamide,success,,CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,MMFF,0.0
+677,Fluticasone furoate,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(OC(=O)c1ccco1)C(=O)SCF,MMFF,0.0
+678,Fluticasone propionate,success,,CCC(=O)OC1(C(=O)SCF)C(C)CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,MMFF,0.0
+679,Fluvastatin,success,,CC(C)n1c(C=CC(O)CC(O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21,MMFF,0.0
+680,Fluvoxamine,success,,COCCCCC(=NOCCN)c1ccc(C(F)(F)F)cc1,MMFF,0.0
+681,Folic acid,success,,Nc1nc2ncc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)nc2c(=O)[nH]1,MMFF,0.0
+682,Fomepizole,success,,Cc1cn[nH]c1,MMFF,0.0
+683,Fondaparinux,success,,COC1OC(COS(=O)(=O)O)C(OC2OC(C(=O)O)C(OC3OC(COS(=O)(=O)O)C(OC4OC(C(=O)O)C(OC5OC(COS(=O)(=O)O)C(O)C(O)C5NS(=O)(=O)O)C(O)C4O)C(OS(=O)(=O)O)C3NS(=O)(=O)O)C(O)C2OS(=O)(=O)O)C(O)C1NS(=O)(=O)O,MMFF,1.0
+684,Formestane,success,,CC12CCC3C(CCC4=C(O)C(=O)CCC43C)C1CCC2=O,MMFF,0.0
+685,Formoterol,success,,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1,MMFF,0.0
+686,Fosamprenavir,success,,CC(C)CN(CC(OP(=O)(O)O)C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1,MMFF,0.0
+687,Fosaprepitant,success,,CC(OC1OCCN(Cc2nn(P(=O)(O)O)c(=O)[nH]2)C1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,MMFF,0.0
+688,Foscarnet,success,,O=C(O)P(=O)(O)O,MMFF,0.0
+689,Fosfomycin,success,,CC1OC1P(=O)(O)O,MMFF,0.0
+690,Fosinopril,success,,CCC(=O)OC(OP(=O)(CCCCc1ccccc1)CC(=O)N1CC(C2CCCCC2)CC1C(=O)O)C(C)C,MMFF,0.0
+691,Fosphenytoin,success,,O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1COP(=O)(O)O,MMFF,0.0
+692,Fospropofol,success,,CC(C)c1cccc(C(C)C)c1OCOP(=O)(O)O,MMFF,0.0
+693,Framycetin,success,,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CN)C(O)C(O)C3N)C2O)C(N)C(O)C1O,MMFF,0.0
+694,Frovatriptan,success,,CNC1CCc2[nH]c3ccc(C(N)=O)cc3c2C1,MMFF,0.0
+695,Fulvestrant,success,,CC12CCC3c4ccc(O)cc4CC(CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)C3C1CCC2O,MMFF,0.0
+696,Furazolidone,success,,O=C1OCCN1N=Cc1ccc([N+](=O)[O-])o1,MMFF,0.0
+697,Furosemide,success,,NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl,MMFF,0.0
+698,Fusafungine,success,,CC(C)C1OC(=O)C(C(C)C)N(C)C(=O)C(C(C)C)OC(=O)C(C(C)C)N(C)C(=O)C(C(C)C)OC(=O)C(C(C)C)N(C)C1=O,MMFF,0.0
+699,Fusidic acid,success,,CC(=O)OC1CC2(C)C(CC(O)C3C4(C)CCC(O)C(C)C4CCC32C)C1=C(CCC=C(C)C)C(=O)O,MMFF,0.0
+700,Gabapentin,success,,NCC1(CC(=O)O)CCCCC1,MMFF,0.0
+701,Gabapentin enacarbil,success,,CC(OC(=O)NCC1(CC(=O)O)CCCCC1)OC(=O)C(C)C,MMFF,0.0
+702,Gadobenic acid,failed,Neither MMFF nor UFF parameters available,O=C([O-])CN(CCN(CC(=O)[O-])CC(=O)[O-])CCN(CC(=O)[O-])C(COCc1ccccc1)C(=O)[O-].[Gd+3].[H+].[H+],,
+703,Gadoxetic acid,failed,Neither MMFF nor UFF parameters available,CCOc1ccc(CC(CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])cc1.[Gd+3].[H+].[H+],,
+704,Galantamine,success,,COc1ccc2c3c1OC1CC(O)C=CC31CCN(C)C2,MMFF,0.0
+705,Gallamine triethiodide,success,,CC[N+](CC)(CC)CCOc1cccc(OCC[N+](CC)(CC)CC)c1OCC[N+](CC)(CC)CC.[I-].[I-].[I-],UFF,0.0
+706,Gallium nitrate,failed,Neither MMFF nor UFF parameters available,O=[N+]([O-])[O-].O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ga+3],,
+707,gamma-Hydroxybutyric acid,success,,O=C(O)CCCO,MMFF,0.0
+708,Ganciclovir,success,,Nc1nc2c(ncn2COC(CO)CO)c(=O)[nH]1,MMFF,0.0
+709,Gatifloxacin,success,,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,MMFF,0.0
+710,Gefitinib,success,,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,MMFF,0.0
+711,Gemcitabine,success,,Nc1ccn(C2OC(CO)C(O)C2(F)F)c(=O)n1,MMFF,0.0
+712,Gemeprost,success,,CCCCC(C)(C)C(O)C=CC1C(O)CC(=O)C1CCCCC=CC(=O)OC,MMFF,0.0
+713,Gemfibrozil,success,,Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1,MMFF,0.0
+714,Gemifloxacin,success,,CON=C1CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1CN,MMFF,0.0
+715,Gentamicin,success,,CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(O)C(NC)C3O)C2O)O1,MMFF,0.0
+716,Gestodene,success,,C#CC1(O)C=CC2C3CCC4=CC(=O)CCC4C3CCC21CC,MMFF,0.0
+717,Gestrinone,success,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C=CC21CC,MMFF,0.0
+718,Gimeracil,success,,O=c1cc(O)c(Cl)c[nH]1,MMFF,0.0
+719,Glecaprevir,success,,CC(C)(C)C1NC(=O)OC2CCCC2OCC=CC(F)(F)c2nc3ccccc3nc2OC2CC(C(=O)NC3(C(=O)NS(=O)(=O)C4(C)CC4)CC3C(F)F)N(C2)C1=O,MMFF,0.0
+720,Gliclazide,success,,Cc1ccc(S(=O)(=O)NC(=O)NN2CC3CCCC3C2)cc1,MMFF,0.0
+721,Glimepiride,success,,CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)C1=O,MMFF,0.0
+722,Glipizide,success,,Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1,MMFF,0.0
+723,Gliquidone,success,,COc1ccc2c(c1)C(=O)N(CCc1ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc1)C(=O)C2(C)C,MMFF,0.0
+724,Glisoxepide,success,,Cc1cc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NN3CCCCCC3)cc2)no1,MMFF,0.0
+725,Glucosamine,success,,NC1C(O)OC(CO)C(O)C1O,MMFF,0.0
+726,Glutamic acid,success,,NC(CCC(=O)O)C(=O)O,MMFF,0.0
+727,Glutethimide,success,,CCC1(c2ccccc2)CCC(=O)NC1=O,MMFF,0.0
+728,Glyburide,success,,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,MMFF,0.0
+729,Glycerin,success,,OCC(O)CO,MMFF,0.0
+730,Glycerol phenylbutyrate,success,,O=C(CCCc1ccccc1)OCC(COC(=O)CCCc1ccccc1)OC(=O)CCCc1ccccc1,MMFF,0.0
+731,Glycopyrronium,success,,C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)C1,MMFF,0.0
+732,Goserelin,failed,3D conformer generation failed,CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(N)=O,,
+733,Gramicidin D,failed,3D conformer generation failed,CC(C)CC(NC(=O)CNC(=O)C(NC=O)C(C)C)C(=O)NC(C)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NCCO)C(C)C)C(C)C)C(C)C,,
+734,Granisetron,success,,CN1C2CCCC1CC(NC(=O)c1nn(C)c3ccccc13)C2,MMFF,0.0
+735,Grazoprevir,success,,C=CC1CC1(NC(=O)C1CC2CN1C(=O)C(C(C)(C)C)NC(=O)OC1CC1CCCCCc1nc3ccc(OC)cc3nc1O2)C(=O)NS(=O)(=O)C1CC1,MMFF,1.0
+736,Griseofulvin,success,,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,MMFF,0.0
+737,Guanabenz,success,,NC(N)=NN=Cc1c(Cl)cccc1Cl,MMFF,0.0
+738,Guanadrel,success,,NC(N)=NCC1COC2(CCCCC2)O1,MMFF,0.0
+739,Guanethidine,success,,NC(N)=NCCN1CCCCCCC1,MMFF,0.0
+740,Guanfacine,success,,NC(N)=NC(=O)Cc1c(Cl)cccc1Cl,MMFF,0.0
+741,Halazepam,success,,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1CC(F)(F)F,MMFF,0.0
+742,Halcinonide,success,,CC1(C)OC2CC3C4CCC5=CC(=O)CCC5(C)C4(F)C(O)CC3(C)C2(C(=O)CCl)O1,MMFF,0.0
+743,Halofantrine,success,,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c2cc(C(F)(F)F)ccc12,MMFF,0.0
+744,Haloperidol,success,,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,MMFF,0.0
+745,Haloprogin,success,,Clc1cc(Cl)c(OCC#CI)cc1Cl,MMFF,0.0
+746,Halothane,success,,FC(F)(F)C(Cl)Br,MMFF,0.0
+747,Hesperetin,success,,COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O,MMFF,0.0
+748,Hexaminolevulinate,success,,CCCCCCOC(=O)CCC(=O)CN,MMFF,0.0
+749,Hexetidine,success,,CCCCC(CC)CN1CN(CC(CC)CCCC)CC(C)(N)C1,MMFF,0.0
+750,Hexobarbital,success,,CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O,MMFF,0.0
+751,Hexoprenaline,success,,Oc1ccc(C(O)CNCCCCCCNCC(O)c2ccc(O)c(O)c2)cc1O,MMFF,0.0
+752,Hexylresorcinol,success,,CCCCCCc1ccc(O)cc1O,MMFF,0.0
+753,Histamine,success,,NCCc1cnc[nH]1,MMFF,0.0
+754,Histrelin,failed,3D conformer generation failed,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(Cc1cn(Cc2ccccc2)cn1)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1,,
+755,Hydralazine,success,,NNc1nncc2ccccc12,MMFF,0.0
+756,Hydrochlorothiazide,success,,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,MMFF,0.0
+757,Hydrocodone,success,,COc1ccc2c3c1OC1C(=O)CCC4C(C2)N(C)CCC314,MMFF,0.0
+758,Hydrocortamate,success,,CCN(CC)CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,MMFF,0.0
+759,Hydrocortisone,success,,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,MMFF,0.0
+760,Hydroflumethiazide,success,,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O,MMFF,0.0
+761,Hydromorphone,success,,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5,MMFF,0.0
+762,Hydroxyamphetamine,success,,CC(N)Cc1ccc(O)cc1,MMFF,0.0
+763,Hydroxychloroquine,success,,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12,MMFF,0.0
+764,Hydroxyprogesterone caproate,success,,CCCCCC(=O)OC1(C(C)=O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,MMFF,0.0
+765,Hydroxyurea,success,,NC(=O)NO,MMFF,0.0
+766,Hydroxyzine,success,,OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,MMFF,0.0
+767,Hyoscyamine,success,,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,MMFF,0.0
+768,Ibandronate,success,,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,MMFF,0.0
+769,Ibrutinib,success,,C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,MMFF,0.0
+770,Ibudilast,success,,CC(C)C(=O)c1c(C(C)C)nn2ccccc12,MMFF,0.0
+771,Ibuprofen,success,,CC(C)Cc1ccc(C(C)C(=O)O)cc1,MMFF,0.0
+772,Ibutilide,success,,CCCCCCCN(CC)CCCC(O)c1ccc(NS(C)(=O)=O)cc1,MMFF,0.0
+773,Icatibant,success,,NC(N)=NCCCC(N)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)N1CC(O)CC1C(=O)NCC(=O)NC(Cc1cccs1)C(=O)NC(CO)C(=O)N1Cc2ccccc2CC1C(=O)N1C(C(=O)NC(CCCN=C(N)N)C(=O)O)CC2CCCCC21,MMFF,1.0
+774,Icosapent ethyl,success,,CCC=CCC=CCC=CCC=CCC=CCCCC(=O)OCC,MMFF,0.0
+775,Icotinib,success,,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1,MMFF,0.0
+776,Idarubicin,success,,CC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(N)C(O)C(C)O2)C1)C(=O)c1ccccc1C3=O,MMFF,0.0
+777,Idelalisib,success,,CCC(Nc1ncnc2nc[nH]c12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1,MMFF,0.0
+778,Ifenprodil,success,,CC(C(O)c1ccc(O)cc1)N1CCC(Cc2ccccc2)CC1,MMFF,0.0
+779,Ifosfamide,success,,O=P1(NCCCl)OCCCN1CCCl,MMFF,0.0
+780,Iloperidone,success,,COc1cc(C(C)=O)ccc1OCCCN1CCC(c2noc3cc(F)ccc23)CC1,MMFF,0.0
+781,Iloprost,success,,CC#CCC(C)C(O)C=CC1C(O)CC2CC(=CCCCC(=O)O)CC21,MMFF,1.0
+782,Imatinib,success,,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,MMFF,0.0
+783,Imidafenacin,success,,Cc1nccn1CCC(C(N)=O)(c1ccccc1)c1ccccc1,MMFF,0.0
+784,Imipenem,success,,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(SCCN=CN)C[C@H]12,MMFF,0.0
+785,Imipramine,success,,CN(C)CCCN1c2ccccc2CCc2ccccc21,MMFF,0.0
+786,Imiquimod,success,,CC(C)Cn1cnc2c(N)nc3ccccc3c21,MMFF,0.0
+787,Indacaterol,success,,CCc1cc2c(cc1CC)CC(NCC(O)c1ccc(O)c3[nH]c(=O)ccc13)C2,MMFF,0.0
+788,Indapamide,success,,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,MMFF,0.0
+789,Indinavir,success,,CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O,MMFF,0.0
+790,Indomethacin,success,,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,MMFF,0.0
+791,Iobenguane,success,,NC(N)=NCc1cccc(I)c1,MMFF,0.0
+792,Iodide I-131,success,,[131I-],UFF,0.0
+793,Iodipamide,success,,O=C(CCCCC(=O)Nc1c(I)cc(I)c(C(=O)O)c1I)Nc1c(I)cc(I)c(C(=O)O)c1I,MMFF,0.0
+794,Iodixanol,success,,CC(=O)N(CC(O)CN(C(C)=O)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,MMFF,1.0
+795,Ioflupane I-123,success,,COC(=O)[C@H]1[C@@H](c2ccc([123I])cc2)C[C@@H]2CC[C@H]1N2CCCF,MMFF,0.0
+796,Iohexol,success,,CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,MMFF,0.0
+797,Iopamidol,success,,C[C@H](O)C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I,MMFF,0.0
+798,Iopromide,success,,COCC(=O)Nc1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I,MMFF,0.0
+799,Ioversol,success,,O=C(NCC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(N(CCO)C(=O)CO)c1I,MMFF,0.0
+800,Ioxilan,success,,CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCCO)c(I)c(C(=O)NCC(O)CO)c1I,MMFF,0.0
+801,Ipratropium,success,,CC(C)[N+]1(C)[C@@H]2CC[C@H]1CC(OC(=O)C(CO)c1ccccc1)C2,MMFF,0.0
+802,Irbesartan,success,,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,MMFF,0.0
+803,Irinotecan,success,,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)C3(O)CC,MMFF,0.0
+804,Iron,success,,[Fe],UFF,0.0
+805,Isavuconazole,success,,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1cc(F)ccc1F,MMFF,0.0
+806,Isavuconazonium,success,,CNCC(=O)OCc1cccnc1N(C)C(=O)OC(C)[n+]1cnn(C[C@](O)(c2cc(F)ccc2F)[C@@H](C)c2nc(-c3ccc(C#N)cc3)cs2)c1,MMFF,1.0
+807,Isocarboxazid,success,,Cc1cc(C(=O)NNCc2ccccc2)no1,MMFF,0.0
+808,Isoconazole,success,,Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,MMFF,0.0
+809,Isoetharine,success,,CCC(NC(C)C)C(O)c1ccc(O)c(O)c1,MMFF,0.0
+810,Isoflurane,success,,FC(F)OC(Cl)C(F)(F)F,MMFF,0.0
+811,Isoflurophate,success,,CC(C)OP(=O)(F)OC(C)C,MMFF,0.0
+812,Isometheptene,success,,CNC(C)CCC=C(C)C,MMFF,0.0
+813,Isoniazid,success,,NNC(=O)c1ccncc1,MMFF,0.0
+814,Isoprenaline,success,,CC(C)NCC(O)c1ccc(O)c(O)c1,MMFF,0.0
+815,Isosorbide dinitrate,success,,O=[N+]([O-])O[C@H]1CO[C@H]2[C@@H]1OC[C@H]2O[N+](=O)[O-],MMFF,0.0
+816,Isosorbide mononitrate,success,,O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O,MMFF,0.0
+817,Isothipendyl,success,,CC(CN1c2ccccc2Sc2cccnc21)N(C)C,MMFF,0.0
+818,Isotretinoin,success,,CC1=C(/C=C/C(C)=C/C=C/C(C)=C\C(=O)O)C(C)(C)CCC1,MMFF,0.0
+819,Isoxsuprine,success,,C[C@H](COc1ccccc1)N[C@H](C)[C@@H](O)c1ccc(O)cc1,MMFF,0.0
+820,Isradipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc2nonc12,MMFF,0.0
+821,Itraconazole,success,,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OC[C@H]5CO[C@](Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,MMFF,0.0
+822,Ivabradine,success,,COc1cc2c(cc1OC)CC(=O)N(CCCN(C)C[C@H]1Cc3cc(OC)c(OC)cc31)CC2,MMFF,0.0
+823,Ivacaftor,success,,CC(C)(C)c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O,MMFF,0.0
+824,Ixabepilone,success,,C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1,MMFF,0.0
+825,Ixazomib,success,,CC(C)C[C@H](NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B(O)O,UFF,0.0
+826,Josamycin,success,,CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1OC(C)=O,MMFF,0.0
+827,Kanamycin,success,,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O,MMFF,0.0
+828,Ketamine,success,,CNC1(c2ccccc2Cl)CCCCC1=O,MMFF,0.0
+829,Ketazolam,success,,CC1=CC(=O)N2CC(=O)N(C)c3ccc(Cl)cc3C2(c2ccccc2)O1,MMFF,0.0
+830,Ketobemidone,success,,CCC(=O)C1(c2cccc(O)c2)CCN(C)CC1,MMFF,0.0
+831,Ketoconazole,success,,CC(=O)N1CCN(c2ccc(OC[C@@H]3CO[C@@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,MMFF,0.0
+832,Ketoprofen,success,,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,MMFF,0.0
+833,Ketorolac,success,,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,MMFF,0.0
+834,Ketotifen,success,,CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1,MMFF,0.0
+835,L-Glutamine,success,,NC(=O)CC[C@H](N)C(=O)O,MMFF,0.0
+836,Labetalol,success,,CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1,MMFF,0.0
+837,Lacidipine,success,,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C,MMFF,0.0
+838,Lacosamide,success,,COC[C@@H](NC(C)=O)C(=O)NCc1ccccc1,MMFF,0.0
+839,Lactic acid,success,,CC(O)C(=O)O,MMFF,0.0
+840,Lactulose,success,,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](CO)O[C@](O)(CO)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O,MMFF,0.0
+841,Lamivudine,success,,Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1,MMFF,0.0
+842,Lamotrigine,success,,Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1,MMFF,0.0
+843,Lanreotide,success,,CC(C)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](NC(=O)[C@H](N)Cc2ccc3ccccc3c2)CSSC[C@@H](C(=O)N[C@H](C(N)=O)[C@@H](C)O)NC1=O,MMFF,1.0
+844,Lansoprazole,success,,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1,MMFF,0.0
+845,Lanthanum carbonate,failed,Neither MMFF nor UFF parameters available,O=C([O-])[O-].O=C([O-])[O-].O=C([O-])[O-].[La+3].[La+3],,
+846,Lapatinib,success,,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,MMFF,0.0
+847,Lasofoxifene,success,,Oc1ccc2c(c1)CC[C@H](c1ccccc1)[C@@H]2c1ccc(OCCN2CCCC2)cc1,MMFF,0.0
+848,Latamoxef,success,,CO[C@@]1(NC(=O)C(C(=O)O)c2ccc(O)cc2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CO[C@@H]21,MMFF,0.0
+849,Latanoprost,success,,CC(C)OC(=O)CCC/C=C\C[C@@H]1[C@@H](CC[C@@H](O)CCc2ccccc2)[C@H](O)C[C@@H]1O,MMFF,0.0
+850,Latanoprostene bunod,success,,O=C(CCC/C=C\C[C@@H]1[C@@H](CC[C@@H](O)CCc2ccccc2)[C@H](O)C[C@@H]1O)OCCCCO[N+](=O)[O-],MMFF,0.0
+851,Ledipasvir,success,,COC(=O)N[C@H](C(=O)N1CC2(CC2)C[C@H]1c1ncc(-c2ccc3c(c2)C(F)(F)c2cc(-c4ccc5nc([C@@H]6[C@H]7CC[C@H](C7)N6C(=O)[C@@H](NC(=O)OC)C(C)C)[nH]c5c4)ccc2-3)[nH]1)C(C)C,MMFF,1.0
+852,Leflunomide,success,,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,MMFF,0.0
+853,Lenalidomide,success,,Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,MMFF,0.0
+854,Lenvatinib,success,,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O,MMFF,0.0
+855,Lercanidipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+856,Lesinurad,success,,O=C(O)CSc1nnc(Br)n1-c1ccc(C2CC2)c2ccccc12,MMFF,0.0
+857,Letermovir,success,,COc1cccc(N2CCN(C3=Nc4c(F)cccc4[C@H](CC(=O)O)N3c3cc(C(F)(F)F)ccc3OC)CC2)c1,MMFF,0.0
+858,Letrozole,success,,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1,MMFF,0.0
+859,Leucovorin,success,,Nc1nc2c(c(=O)[nH]1)N(C=O)C(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2,MMFF,0.0
+860,Levacetylmethadol,success,,CC[C@H](OC(C)=O)C(C[C@H](C)N(C)C)(c1ccccc1)c1ccccc1,MMFF,0.0
+861,Levallorphan,success,,C=CCN1CC[C@]23CCCC[C@H]2[C@H]1Cc1ccc(O)cc13,MMFF,0.0
+862,Levetiracetam,success,,CC[C@@H](C(N)=O)N1CCCC1=O,MMFF,0.0
+863,Levobunolol,success,,CC(C)(C)NC[C@H](O)COc1cccc2c1CCCC2=O,MMFF,0.0
+864,Levobupivacaine,success,,CCCCN1CCCC[C@H]1C(=O)Nc1c(C)cccc1C,MMFF,0.0
+865,Levocabastine,success,,C[C@@H]1CN(C2CCC(C#N)(c3ccc(F)cc3)CC2)CC[C@]1(C(=O)O)c1ccccc1,MMFF,0.0
+866,Levocarnitine,success,,C[N+](C)(C)C[C@H](O)CC(=O)[O-],MMFF,0.0
+867,Levocetirizine,success,,O=C(O)COCCN1CCN([C@H](c2ccccc2)c2ccc(Cl)cc2)CC1,MMFF,0.0
+868,Levodopa,success,,N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O,MMFF,0.0
+869,Levofloxacin,success,,C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,MMFF,0.0
+870,Levoleucovorin,success,,Nc1nc2c(c(=O)[nH]1)N(C=O)[C@@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2,MMFF,0.0
+871,Levomefolic acid,success,,CN1c2c(nc(N)[nH]c2=O)NC[C@@H]1CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,MMFF,0.0
+872,Levomenol,success,,CC(C)=CCC[C@](C)(O)[C@@H]1CC=C(C)CC1,MMFF,0.0
+873,Levomilnacipran,success,,CCN(CC)C(=O)[C@@]1(c2ccccc2)C[C@H]1CN,MMFF,0.0
+874,Levonordefrin,success,,C[C@H](N)[C@H](O)c1ccc(O)c(O)c1,MMFF,0.0
+875,Levonorgestrel,success,,C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21CC,MMFF,0.0
+876,Levorphanol,success,,CN1CC[C@]23CCCC[C@H]2[C@H]1Cc1ccc(O)cc13,MMFF,0.0
+877,Levosalbutamol,success,,CC(C)(C)NC[C@H](O)c1ccc(O)c(CO)c1,MMFF,0.0
+878,Levosimendan,success,,C[C@@H]1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,MMFF,0.0
+879,Levothyroxine,success,,N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O,MMFF,0.0
+880,Lidocaine,success,,CCN(CC)CC(=O)Nc1c(C)cccc1C,MMFF,0.0
+881,Limaprost,success,,CCCC[C@H](C)C[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCC/C=C/C(=O)O,MMFF,0.0
+882,Linagliptin,success,,CC#CCn1c(N2CCC[C@@H](N)C2)nc2c1c(=O)n(Cc1nc(C)c3ccccc3n1)c(=O)n2C,MMFF,0.0
+883,Lincomycin,success,,CCC[C@@H]1C[C@@H](C(=O)N[C@@H]([C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](C)O)N(C)C1,MMFF,0.0
+884,Linezolid,success,,CC(=O)NC[C@H]1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1,MMFF,0.0
+885,Liothyronine,success,,N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O,MMFF,0.0
+886,Liotrix,success,,N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)[O-].N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-].[Na+].[Na+],MMFF,0.0
+887,Lipoic acid,success,,O=C(O)CCCC[C@@H]1CCSS1,MMFF,0.0
+888,Lisdexamfetamine,success,,C[C@@H](Cc1ccccc1)NC(=O)[C@@H](N)CCCCN,MMFF,0.0
+889,Lisinopril,success,,NCCCC[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@H]1C(=O)O,MMFF,0.0
+890,Lisuride,success,,CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,MMFF,0.0
+891,Lithium cation,success,,[Li+],MMFF,0.0
+892,Lixisenatide,failed,3D conformer generation failed,CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@@H](N)Cc1c[nH]cn1)[C@@H](C)O)[C@@H](C)O)C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(N)=O)C(=O)NCC(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(N)=O,,
+893,Lobeglitazone,success,,COc1ccc(Oc2cc(N(C)CCOc3ccc(CC4SC(=O)NC4=O)cc3)ncn2)cc1,MMFF,0.0
+894,Lodoxamide,success,,N#Cc1cc(NC(=O)C(=O)O)c(Cl)c(NC(=O)C(=O)O)c1,MMFF,0.0
+895,Lofexidine,success,,CC(Oc1c(Cl)cccc1Cl)C1=NCCN1,MMFF,0.0
+896,Lomefloxacin,success,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21,MMFF,0.0
+897,Lomitapide,success,,O=C(NC1CCN(CCCCC2(C(=O)NCC(F)(F)F)c3ccccc3-c3ccccc32)CC1)c1ccccc1-c1ccc(C(F)(F)F)cc1,MMFF,0.0
+898,Lomustine,success,,O=NN(CCCl)C(=O)NC1CCCCC1,MMFF,0.0
+899,Loperamide,success,,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,MMFF,0.0
+900,Lopinavir,success,,Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@H](C(C)C)N1CCCNC1=O,MMFF,1.0
+901,Loratadine,success,,CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,MMFF,0.0
+902,Lorazepam,success,,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,MMFF,0.0
+903,Lorcaserin,success,,C[C@H]1CNCCc2ccc(Cl)cc21,MMFF,0.0
+904,Lormetazepam,success,,CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,MMFF,0.0
+905,Lornoxicam,success,,CN1C(C(=O)Nc2ccccn2)=C(O)c2sc(Cl)cc2S1(=O)=O,MMFF,0.0
+906,Losartan,success,,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,MMFF,0.0
+907,Loteprednol,success,,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)OCCl,MMFF,0.0
+908,Lovastatin,success,,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,MMFF,0.0
+909,Loxapine,success,,CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1,MMFF,0.0
+910,Loxoprofen,success,,CC(C(=O)O)c1ccc(CC2CCCC2=O)cc1,MMFF,0.0
+911,Lubiprostone,success,,CCCCC(F)(F)[C@@]1(O)CC[C@H]2[C@@H](CC(=O)[C@@H]2CCCCCCC(=O)O)O1,MMFF,0.0
+912,Lucanthone,success,,CCN(CC)CCNc1ccc(C)c2sc3ccccc3c(=O)c12,MMFF,0.0
+913,Luliconazole,success,,N#C/C(=C1/SC[C@@H](c2ccc(Cl)cc2Cl)S1)n1ccnc1,MMFF,0.0
+914,Lumacaftor,success,,Cc1ccc(NC(=O)C2(c3ccc4c(c3)OC(F)(F)O4)CC2)nc1-c1cccc(C(=O)O)c1,MMFF,0.0
+915,Lumefantrine,success,,CCCCN(CCCC)CC(O)c1cc(Cl)cc2c1-c1ccc(Cl)cc1/C2=C/c1ccc(Cl)cc1,MMFF,0.0
+916,Lumiracoxib,success,,Cc1ccc(Nc2c(F)cccc2Cl)c(CC(=O)O)c1,MMFF,0.0
+917,Lurasidone,success,,O=C1[C@@H]2[C@H]3CC[C@H](C3)[C@@H]2C(=O)N1C[C@@H]1CCCC[C@H]1CN1CCN(c2nsc3ccccc23)CC1,MMFF,0.0
+918,Lycopene,success,,CC(C)=CCC/C(C)=C/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(\C)CCC=C(C)C,MMFF,0.0
+919,Lymecycline,success,,CN(C)[C@@H]1C(=O)C(C(=O)NCNCCCC[C@H](N)C(=O)O)=C(O)[C@@]2(O)C(=O)C3=C(O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,MMFF,0.0
+920,Macitentan,success,,CCCNS(=O)(=O)Nc1ncnc(OCCOc2ncc(Br)cn2)c1-c1ccc(Br)cc1,MMFF,0.0
+921,Mafenide,success,,NCc1ccc(S(N)(=O)=O)cc1,MMFF,0.0
+922,Magaldrate,success,,O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-],UFF,0.0
+923,Magnesium cation,success,,[Mg+2],MMFF,0.0
+924,Magnesium hydroxide,success,,[Mg+2].[OH-].[OH-],MMFF,0.0
+925,Magnesium oxide,success,,[O]=[Mg],UFF,0.0
+926,Magnesium salicylate,success,,O=C(O)c1ccccc1[O-].O=C(O)c1ccccc1[O-].[Mg+2],MMFF,0.0
+927,Magnesium sulfate,success,,O=S(=O)([O-])[O-].[Mg+2],MMFF,0.0
+928,Magnesium trisilicate,success,,O=[Si]([O-])O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2],UFF,0.0
+929,Malathion,success,,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,MMFF,0.0
+930,Manidipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN2CCN(C(c3ccccc3)c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+931,Mannitol,success,,OCC(O)C(O)C(O)C(O)CO,MMFF,0.0
+932,Maprotiline,success,,CNCCCC12CCC(c3ccccc31)c1ccccc12,MMFF,0.0
+933,Maraviroc,success,,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1,MMFF,0.0
+934,Masoprocol,success,,CC(Cc1ccc(O)c(O)c1)C(C)Cc1ccc(O)c(O)c1,MMFF,0.0
+935,Mebendazole,success,,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,MMFF,0.0
+936,Mecamylamine,success,,CNC1(C)C2CCC(C2)C1(C)C,MMFF,0.0
+937,Mechlorethamine,success,,CN(CCCl)CCCl,MMFF,0.0
+938,Meclizine,success,,Cc1cccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)c1,MMFF,0.0
+939,Meclofenamic acid,success,,Cc1ccc(Cl)c(Nc2ccccc2C(=O)O)c1Cl,MMFF,0.0
+940,Medrogestone,success,,CC(=O)C1(C)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,MMFF,0.0
+941,Medroxyprogesterone acetate,success,,CC(=O)OC1(C(C)=O)CCC2C3CC(C)C4=CC(=O)CCC4(C)C3CCC21C,MMFF,0.0
+942,Medrysone,success,,CC(=O)C1CCC2C3CC(C)C4=CC(=O)CCC4(C)C3C(O)CC12C,MMFF,0.0
+943,Mefenamic acid,success,,Cc1cccc(Nc2ccccc2C(=O)O)c1C,MMFF,0.0
+944,Mefloquine,success,,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,MMFF,0.0
+945,Megestrol acetate,success,,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,MMFF,0.0
+946,Melatonin,success,,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,MMFF,0.0
+947,Meloxicam,success,,Cc1cnc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1,MMFF,0.0
+948,Melperone,success,,CC1CCN(CCCC(=O)c2ccc(F)cc2)CC1,MMFF,0.0
+949,Melphalan,success,,NC(Cc1ccc(N(CCCl)CCCl)cc1)C(=O)O,MMFF,0.0
+950,Memantine,success,,CC12CC3CC(C)(C1)CC(N)(C3)C2,MMFF,0.0
+951,Menadione,success,,CC1=CC(=O)c2ccccc2C1=O,MMFF,0.0
+952,Meperidine,success,,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,MMFF,0.0
+953,Mephentermine,success,,CNC(C)(C)Cc1ccccc1,MMFF,0.0
+954,Mepivacaine,success,,Cc1cccc(C)c1NC(=O)C1CCCCN1C,MMFF,0.0
+955,Meprobamate,success,,CCCC(C)(COC(N)=O)COC(N)=O,MMFF,0.0
+956,Mepyramine,success,,COc1ccc(CN(CCN(C)C)c2ccccn2)cc1,MMFF,0.0
+957,Mequinol,success,,COc1ccc(O)cc1,MMFF,0.0
+958,Mequitazine,success,,c1ccc2c(c1)Sc1ccccc1N2CC1CN2CCC1CC2,MMFF,0.0
+959,Mercaptopurine,success,,S=c1nc[nH]c2nc[nH]c12,MMFF,0.0
+960,Meropenem,success,,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12,MMFF,0.0
+961,Mersalyl,success,,COC([CH2][Hg+])CNC(=O)c1ccccc1OCC(=O)[O-].[Na+].[OH-],UFF,0.0
+962,Mesalazine,success,,Nc1ccc(O)c(C(=O)O)c1,MMFF,0.0
+963,Mesoridazine,success,,CN1CCCCC1CCN1c2ccccc2Sc2ccc(S(C)=O)cc21,MMFF,0.0
+964,Mestranol,success,,C#CC1(O)CCC2C3CCc4cc(OC)ccc4C3CCC21C,MMFF,0.0
+965,Metacycline,success,,C=C1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C12,MMFF,0.0
+966,Metamfetamine,success,,CNC(C)Cc1ccccc1,MMFF,0.0
+967,Metaraminol,success,,CC(N)C(O)c1cccc(O)c1,MMFF,0.0
+968,Metaxalone,success,,Cc1cc(C)cc(OCC2CNC(=O)O2)c1,MMFF,0.0
+969,Metformin,success,,CN(C)C(=N)N=C(N)N,MMFF,0.0
+970,Methacholine,success,,CC(=O)OC(C)C[N+](C)(C)C,MMFF,0.0
+971,Methadone,success,,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1,MMFF,0.0
+972,Methadyl acetate,success,,CCC(OC(C)=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1,MMFF,0.0
+973,Methantheline,success,,CC[N+](C)(CC)CCOC(=O)C1c2ccccc2Oc2ccccc21,MMFF,0.0
+974,Methazolamide,success,,CC(=O)N=c1sc(S(N)(=O)=O)nn1C,MMFF,0.0
+975,Methenamine,success,,C1N2CN3CN1CN(C2)C3,MMFF,0.0
+976,Methimazole,success,,Cn1cc[nH]c1=S,MMFF,0.0
+977,Methionine,success,,CSCCC(N)C(=O)O,MMFF,0.0
+978,Methocarbamol,success,,COc1ccccc1OCC(O)COC(N)=O,MMFF,0.0
+979,Methohexital,success,,C=CCC1(C(C)C#CCC)C(=O)NC(=O)N(C)C1=O,MMFF,0.0
+980,Methotrexate,success,,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,MMFF,0.0
+981,Methotrimeprazine,success,,COc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2,MMFF,0.0
+982,Methoxamine,success,,COc1ccc(OC)c(C(O)C(C)N)c1,MMFF,0.0
+983,Methoxsalen,success,,COc1c2occc2cc2ccc(=O)oc12,MMFF,0.0
+984,Methoxyflurane,success,,COC(F)(F)C(Cl)Cl,MMFF,0.0
+985,Methscopolamine,success,,C[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,MMFF,0.0
+986,Methscopolamine bromide,success,,C[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12.[Br-],MMFF,0.0
+987,Methsuximide,success,,CN1C(=O)CC(C)(c2ccccc2)C1=O,MMFF,0.0
+988,Methyclothiazide,success,,CN1C(CCl)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,MMFF,0.0
+989,Methyl aminolevulinate,success,,COC(=O)CCC(=O)CN,MMFF,0.0
+990,Methyl salicylate,success,,COC(=O)c1ccccc1O,MMFF,0.0
+991,Methyldopa,success,,CC(N)(Cc1ccc(O)c(O)c1)C(=O)O,MMFF,0.0
+992,Methylene blue,success,,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1.[Cl-],MMFF,0.0
+993,Methylergometrine,success,,CCC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,MMFF,0.0
+994,Methylnaltrexone,success,,C[N+]1(CC2CC2)CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,MMFF,0.0
+995,Methylphenidate,success,,COC(=O)C(c1ccccc1)C1CCCCN1,MMFF,0.0
+996,Methylphenobarbital,success,,CCC1(c2ccccc2)C(=O)NC(=O)N(C)C1=O,MMFF,0.0
+997,Methylprednisolone,success,,CC1CC2C(C(O)CC3(C)C2CCC3(O)C(=O)CO)C2(C)C=CC(=O)C=C12,MMFF,0.0
+998,Methyltestosterone,success,,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O,MMFF,0.0
+999,Methyprylon,success,,CCC1(CC)C(=O)NCC(C)C1=O,MMFF,0.0
+1000,Methysergide,success,,CCC(CO)NC(=O)C1C=C2c3cccc4c3c(cn4C)CC2N(C)C1,MMFF,0.0
+1001,Meticillin,success,,COc1cccc(OC)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,MMFF,0.0
+1002,Metipranolol,success,,CC(=O)Oc1c(C)cc(OCC(O)CNC(C)C)c(C)c1C,MMFF,0.0
+1003,Metixene,success,,CN1CCCC(CC2c3ccccc3Sc3ccccc32)C1,MMFF,0.0
+1004,Metoclopramide,success,,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,MMFF,0.0
+1005,Metocurine,success,,COc1ccc2cc1Oc1cc3c(cc1OC)CC[N+](C)(C)C3Cc1ccc(cc1)Oc1c(OC)c(OC)cc3c1C(C2)[N+](C)(C)CC3,MMFF,0.0
+1006,Metolazone,success,,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,MMFF,0.0
+1007,Metoprolol,success,,COCCc1ccc(OCC(O)CNC(C)C)cc1,MMFF,0.0
+1008,Metrizamide,success,,CC(=O)Nc1c(I)c(C(=O)NC2C(O)OC(CO)C(O)C2O)c(I)c(N(C)C(C)=O)c1I,MMFF,0.0
+1009,Metronidazole,success,,Cc1ncc([N+](=O)[O-])n1CCO,MMFF,0.0
+1010,Metyrapone,success,,CC(C)(C(=O)c1cccnc1)c1cccnc1,MMFF,0.0
+1011,Metyrosine,success,,CC(N)(Cc1ccc(O)cc1)C(=O)O,MMFF,0.0
+1012,Mexiletine,success,,Cc1cccc(C)c1OCC(C)N,MMFF,0.0
+1013,Mezlocillin,success,,CC1(C)SC2C(NC(=O)C(NC(=O)N3CCN(S(C)(=O)=O)C3=O)c3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+1014,Mianserin,success,,CN1CCN2c3ccccc3Cc3ccccc3C2C1,MMFF,0.0
+1015,Micafungin,success,,CCCCCOc1ccc(-c2cc(-c3ccc(C(=O)NC4CC(O)C(O)NC(=O)C5C(O)C(C)CN5C(=O)C(C(O)CC(N)=O)NC(=O)C(C(O)C(O)c5ccc(O)c(OS(=O)(=O)O)c5)NC(=O)C5CC(O)CN5C(=O)C(C(C)O)NC4=O)cc3)no2)cc1,MMFF,1.0
+1016,Miconazole,success,,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,MMFF,0.0
+1017,Midazolam,success,,Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,MMFF,0.0
+1018,Midodrine,success,,COc1ccc(OC)c(C(O)CNC(=O)CN)c1,MMFF,0.0
+1019,Midostaurin,success,,COC1C(N(C)C(=O)c2ccccc2)CC2OC1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,MMFF,0.0
+1020,Mifepristone,success,,CC#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C,MMFF,0.0
+1021,Miglitol,success,,OCCN1CC(O)C(O)C(O)C1CO,MMFF,0.0
+1022,Miglustat,success,,CCCCN1CC(O)C(O)C(O)C1CO,MMFF,0.0
+1023,Milnacipran,success,,CCN(CC)C(=O)C1(c2ccccc2)CC1CN,MMFF,0.0
+1024,Milrinone,success,,Cc1[nH]c(=O)c(C#N)cc1-c1ccncc1,MMFF,0.0
+1025,Miltefosine,success,,CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C,MMFF,0.0
+1026,Minaprine,success,,Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1,MMFF,0.0
+1027,Minocycline,success,,CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,MMFF,0.0
+1028,Minoxidil,success,,N=c1nc(N2CCCCC2)cc(N)n1O,MMFF,0.0
+1029,Mipomersen,failed,3D conformer generation failed,COCCOC1C(O)C(COP(=O)([O-])SC2C(COP(=O)([O-])SC3C(COP(=O)([O-])SC4C(COP(=O)([O-])SC5C(COP(=O)([O-])SC6CC(n7cc(C)c(N)nc7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(N)nc7=O)OC6COP(=O)([O-])SC6CC(n7cnc8c(=O)[nH]c(N)nc87)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(N)nc7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cnc8c(=O)[nH]c(N)nc87)OC6COP(=O)([O-])SC6CC(n7cnc8c(N)ncnc87)OC6COP(=O)([O-])SC6C(COP(=O)([O-])SC7C(COP(=O)([O-])SC8C(COP(=O)([O-])SC9C(COP(=O)([O-])SC%10C(CO)OC(n%11cnc%12c(=O)[nH]c(N)nc%12%11)C%10OCCOC)OC(n%10cc(C)c(N)nc%10=O)C9OCCOC)OC(n9cc(C)c(N)nc9=O)C8OCCOC)OC(n8cc(C)c(=O)[nH]c8=O)C7OCCOC)OC(n7cc(C)c(N)nc7=O)C6OCCOC)OC(n6cnc7c(=O)[nH]c(N)nc76)C5OCCOC)OC(n5cc(C)c(N)nc5=O)C4OCCOC)OC(n4cnc5c(N)ncnc54)C3OCCOC)OC(n3cc(C)c(N)nc3=O)C2OCCOC)OC1n1cc(C)c(N)nc1=O,,
+1030,Mirabegron,success,,Nc1nc(CC(=O)Nc2ccc(CCNCC(O)c3ccccc3)cc2)cs1,MMFF,0.0
+1031,Mirtazapine,success,,CN1CCN2c3ncccc3Cc3ccccc3C2C1,MMFF,0.0
+1032,Misoprostol,success,,CCCCC(C)(O)CC=CC1C(O)CC(=O)C1CCCCCCC(=O)OC,MMFF,0.0
+1033,Mitiglinide,success,,O=C(O)C(CC(=O)N1CC2CCCCC2C1)Cc1ccccc1,MMFF,0.0
+1034,Mitomycin,success,,COC12C(COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1CC1NC12,MMFF,0.0
+1035,Mitotane,success,,Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,MMFF,0.0
+1036,Mitoxantrone,success,,O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21,MMFF,0.0
+1037,Mivacurium,success,,COc1cc2c(cc1OC)C(Cc1cc(OC)c(OC)c(OC)c1)[N+](C)(CCCOC(=O)CCC=CCCC(=O)OCCC[N+]1(C)CCc3cc(OC)c(OC)cc3C1Cc1cc(OC)c(OC)c(OC)c1)CC2,MMFF,1.0
+1038,Moclobemide,success,,O=C(NCCN1CCOCC1)c1ccc(Cl)cc1,MMFF,0.0
+1039,Modafinil,success,,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,MMFF,0.0
+1040,Moexipril,success,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2cc(OC)c(OC)cc2CC1C(=O)O,MMFF,0.0
+1041,Molindone,success,,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2,MMFF,0.0
+1042,Molsidomine,success,,CCOC([O-])=Nc1c[n+](N2CCOCC2)no1,MMFF,0.0
+1043,Mometasone,success,,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CCl,MMFF,0.0
+1044,Montelukast,success,,CC(C)(O)c1ccccc1CCC(SCC1(CC(=O)O)CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,MMFF,0.0
+1045,Moricizine,success,,CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2,MMFF,0.0
+1046,Morniflumate,success,,O=C(OCCN1CCOCC1)c1cccnc1Nc1cccc(C(F)(F)F)c1,MMFF,0.0
+1047,Morphine,success,,CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,MMFF,0.0
+1048,Moxifloxacin,success,,COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,MMFF,0.0
+1049,Moxonidine,success,,COc1nc(C)nc(Cl)c1NC1=NCCN1,MMFF,0.0
+1050,Mupirocin,success,,CC(=CC(=O)OCCCCCCCCC(=O)O)CC1OCC(CC2OC2C(C)C(C)O)C(O)C1O,MMFF,0.0
+1051,Mycophenolate mofetil,success,,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)OCCN1CCOCC1)C(=O)OC2,MMFF,0.0
+1052,Mycophenolic acid,success,,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)O)C(=O)OC2,MMFF,0.0
+1053,Nabilone,success,,CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1CCC(=O)CC21,MMFF,0.0
+1054,Nabumetone,success,,COc1ccc2cc(CCC(C)=O)ccc2c1,MMFF,0.0
+1055,Nadolol,success,,CC(C)(C)NCC(O)COc1cccc2c1CC(O)C(O)C2,MMFF,0.0
+1056,Nafamostat,success,,N=C(N)c1ccc2cc(OC(=O)c3ccc(N=C(N)N)cc3)ccc2c1,MMFF,0.0
+1057,Nafarelin,failed,3D conformer generation failed,CC(C)CC(NC(=O)C(Cc1ccc2ccccc2c1)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(N)=O,,
+1058,Nafcillin,success,,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,MMFF,0.0
+1059,Naftifine,success,,CN(CC=Cc1ccccc1)Cc1cccc2ccccc12,MMFF,0.0
+1060,Nalbuphine,success,,Oc1ccc2c3c1OC1C(O)CCC4(O)C(C2)N(CC2CCC2)CCC314,MMFF,0.0
+1061,Naldemedine,success,,CC(C)(NC(=O)C1=C(O)C2Oc3c(O)ccc4c3C23CCN(CC2CC2)C(C4)C3(O)C1)c1nc(-c2ccccc2)no1,MMFF,0.0
+1062,Nalidixic acid,success,,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21,MMFF,0.0
+1063,Naloxegol,success,,C=CCN1CCC23c4c5ccc(O)c4OC2C(OCCOCCOCCOCCOCCOCCOCCOC)CCC3(O)C1C5,MMFF,1.0
+1064,Naloxone,success,,C=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,MMFF,0.0
+1065,Naltrexone,success,,O=C1CCC2(O)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)C1O5,MMFF,0.0
+1066,Nandrolone decanoate,success,,CCCCCCCCCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4C3CCC12C,MMFF,0.0
+1067,Naphazoline,success,,c1ccc2c(CC3=NCCN3)cccc2c1,MMFF,0.0
+1068,Naproxen,success,,COc1ccc2cc(C(C)C(=O)O)ccc2c1,MMFF,0.0
+1069,Naratriptan,success,,CNS(=O)(=O)CCc1ccc2[nH]cc(C3CCN(C)CC3)c2c1,MMFF,0.0
+1070,Natamycin,success,,CC1CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC3OC3C=CC(=O)O1)CC(O)C2C(=O)O,MMFF,1.0
+1071,Nateglinide,success,,CC(C)C1CCC(C(=O)NC(Cc2ccccc2)C(=O)O)CC1,MMFF,0.0
+1072,Nebivolol,success,,OC(CNCC(O)C1CCc2cc(F)ccc2O1)C1CCc2cc(F)ccc2O1,MMFF,0.0
+1073,Nedaplatin,failed,Neither MMFF nor UFF parameters available,N.N.O=C([O-])C[O-].[Pt+2],,
+1074,Nefazodone,success,,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,MMFF,0.0
+1075,Nelarabine,success,,COc1nc(N)nc2c1ncn2C1OC(CO)C(O)C1O,MMFF,0.0
+1076,Nelfinavir,success,,Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,MMFF,0.0
+1077,Neostigmine,success,,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1,MMFF,0.0
+1078,Nepafenac,success,,NC(=O)Cc1cccc(C(=O)c2ccccc2)c1N,MMFF,0.0
+1079,Neratinib,success,,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)C=CCN(C)C,MMFF,0.0
+1080,Netilmicin,success,,CCNC1CC(N)C(OC2OC(CN)=CCC2N)C(O)C1OC1OCC(C)(O)C(NC)C1O,MMFF,0.0
+1081,Netupitant,success,,Cc1ccccc1-c1cc(N2CCN(C)CC2)ncc1N(C)C(=O)C(C)(C)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,MMFF,0.0
+1082,Nevirapine,success,,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,MMFF,0.0
+1083,Niacin,success,,O=C(O)c1cccnc1,MMFF,0.0
+1084,Nicardipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+1085,Nicergoline,success,,COC12CC(COC(=O)c3cncc(Br)c3)CN(C)C1Cc1cn(C)c3cccc2c13,MMFF,0.0
+1086,Niclosamide,success,,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,MMFF,0.0
+1087,Nicorandil,success,,O=C(NCCO[N+](=O)[O-])c1cccnc1,MMFF,0.0
+1088,Nicotinamide,success,,NC(=O)c1cccnc1,MMFF,0.0
+1089,Nicotine,success,,CN1CCCC1c1cccnc1,MMFF,0.0
+1090,Nifedipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],MMFF,0.0
+1091,Niflumic acid,success,,O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1,MMFF,0.0
+1092,Nilotinib,success,,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,MMFF,0.0
+1093,Nilutamide,success,,CC1(C)NC(=O)N(c2ccc([N+](=O)[O-])c(C(F)(F)F)c2)C1=O,MMFF,0.0
+1094,Nilvadipine,success,,COC(=O)C1=C(C#N)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+1095,Nimesulide,success,,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,MMFF,0.0
+1096,Nimodipine,success,,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+1097,Nintedanib,success,,COC(=O)c1ccc2c(C(=Nc3ccc(N(C)C(=O)CN4CCN(C)CC4)cc3)c3ccccc3)c(O)[nH]c2c1,MMFF,0.0
+1098,Niraparib,success,,NC(=O)c1cccc2cn(-c3ccc(C4CCCNC4)cc3)nc12,MMFF,0.0
+1099,Nisoldipine,success,,COC(=O)C1=C(C)NC(C)=C(C(=O)OCC(C)C)C1c1ccccc1[N+](=O)[O-],MMFF,0.0
+1100,Nitrazepam,success,,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,MMFF,0.0
+1101,Nitrendipine,success,,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,MMFF,0.0
+1102,Nitric Oxide,success,,[N]=O,MMFF,0.0
+1103,Nitrofural,success,,NC(=O)NN=Cc1ccc([N+](=O)[O-])o1,MMFF,0.0
+1104,Nitrofurantoin,success,,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,MMFF,0.0
+1105,Nitroglycerin,success,,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],MMFF,0.0
+1106,Nitrous acid,success,,O=NO,MMFF,0.0
+1107,Nitrous oxide,success,,[N-]=[N+]=O,MMFF,0.0
+1108,Nitroxoline,success,,O=[N+]([O-])c1ccc(O)c2ncccc12,MMFF,0.0
+1109,Nizatidine,success,,CNC(=C[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1,MMFF,0.0
+1110,Nomegestrol,success,,CC(=O)C1(O)CCC2C3C=C(C)C4=CC(=O)CCC4C3CCC21C,MMFF,0.0
+1111,Nonoxynol-9,success,,CCCCCCCCCc1ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCO)cc1,MMFF,1.0
+1112,Norelgestromin,success,,C#CC1(O)CCC2C3CCC4=CC(=NO)CCC4C3CCC21CC,MMFF,0.0
+1113,Norepinephrine,success,,NCC(O)c1ccc(O)c(O)c1,MMFF,0.0
+1114,Norethisterone,success,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,MMFF,0.0
+1115,Norfloxacin,success,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,MMFF,0.0
+1116,Norgestimate,success,,C#CC1(OC(C)=O)CCC2C3CCC4=CC(=NO)CCC4C3CCC21CC,MMFF,0.0
+1117,Norgestrel,success,,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC,MMFF,0.0
+1118,Normethadone,success,,CCC(=O)C(CCN(C)C)(c1ccccc1)c1ccccc1,MMFF,0.0
+1119,Nortriptyline,success,,CNCCC=C1c2ccccc2CCc2ccccc21,MMFF,0.0
+1120,Novobiocin,success,,COC1C(OC(N)=O)C(O)C(Oc2ccc3c(O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(=O)oc3c2C)OC1(C)C,MMFF,1.0
+1121,Nylidrin,success,,CC(CCc1ccccc1)NC(C)C(O)c1ccc(O)cc1,MMFF,0.0
+1122,Nystatin,success,,CC1C=CC=CCCC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)C(O)CCC(O)CC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)O,MMFF,1.0
+1123,Obeticholic acid,success,,CCC1C(O)C2C3CCC(C(C)CCC(=O)O)C3(C)CCC2C2(C)CCC(O)CC12,MMFF,0.0
+1124,Octreotide,success,,CC(O)C(CO)NC(=O)C1CSSCC(NC(=O)C(N)Cc2ccccc2)C(=O)NC(Cc2ccccc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)N1,MMFF,1.0
+1125,Ofloxacin,success,,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,MMFF,0.0
+1126,Olanzapine,success,,Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1,MMFF,0.0
+1127,Olaparib,success,,O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(C(=O)C2CC2)CC1,MMFF,0.0
+1128,Olmesartan,success,,CCCc1nc(C(C)(C)O)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,MMFF,0.0
+1129,Olodaterol,success,,COc1ccc(CC(C)(C)NCC(O)c2cc(O)cc3c2OCC(=O)N3)cc1,MMFF,0.0
+1130,Olopatadine,success,,CN(C)CCC=C1c2ccccc2COc2ccc(CC(=O)O)cc21,MMFF,0.0
+1131,Olsalazine,success,,O=C(O)c1cc(N=Nc2ccc(O)c(C(=O)O)c2)ccc1O,MMFF,0.0
+1132,Omacetaxine mepesuccinate,success,,COC(=O)CC(O)(CCCC(C)(C)O)C(=O)OC1C(OC)=CC23CCCN2CCc2cc4c(cc2C13)OCO4,MMFF,1.0
+1133,Ombitasvir,success,,COC(=O)NC(C(=O)N1CCCC1C(=O)Nc1ccc(C2CCC(c3ccc(NC(=O)C4CCCN4C(=O)C(NC(=O)OC)C(C)C)cc3)N2c2ccc(C(C)(C)C)cc2)cc1)C(C)C,MMFF,1.0
+1134,Omeprazole,success,,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,MMFF,0.0
+1135,Ondansetron,success,,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,MMFF,0.0
+1136,Orciprenaline,success,,CC(C)NCC(O)c1cc(O)cc(O)c1,MMFF,0.0
+1137,Oritavancin,failed,3D conformer generation failed,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(OC3CC(C)(N)C(O)C(C)O3)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(NCc3ccc(-c4ccc(Cl)cc4)cc3)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,,
+1138,Orlistat,success,,CCCCCCCCCCCC(CC1OC(=O)C1CCCCCC)OC(=O)C(CC(C)C)NC=O,MMFF,0.0
+1139,Orphenadrine,success,,Cc1ccccc1C(OCCN(C)C)c1ccccc1,MMFF,0.0
+1140,Oseltamivir,success,,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1,MMFF,0.0
+1141,Osimertinib,success,,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C,MMFF,0.0
+1142,Ospemifene,success,,OCCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1,MMFF,0.0
+1143,Ouabain,success,,CC1OC(OC2CC(O)C3(CO)C4C(O)CC5(C)C(C6=CC(=O)OC6)CCC5(O)C4CCC3(O)C2)C(O)C(O)C1O,MMFF,0.0
+1144,Oxacillin,success,,Cc1onc(-c2ccccc2)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,MMFF,0.0
+1145,Oxaliplatin,failed,Neither MMFF nor UFF parameters available,O=C(O)C(=O)O.[NH-]C1CCCCC1[NH-].[Pt+2],,
+1146,Oxamniquine,success,,CC(C)NCC1CCc2cc(CO)c([N+](=O)[O-])cc2N1,MMFF,0.0
+1147,Oxandrolone,success,,CC12COC(=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,MMFF,0.0
+1148,Oxaprozin,success,,O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1,MMFF,0.0
+1149,Oxazepam,success,,O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,MMFF,0.0
+1150,Oxcarbazepine,success,,NC(=O)N1c2ccccc2CC(=O)c2ccccc21,MMFF,0.0
+1151,Oxetacaine,success,,CN(C(=O)CN(CCO)CC(=O)N(C)C(C)(C)Cc1ccccc1)C(C)(C)Cc1ccccc1,MMFF,0.0
+1152,Oxiconazole,success,,Clc1ccc(CON=C(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,MMFF,0.0
+1153,Oxilofrine,success,,CNC(C)C(O)c1ccc(O)cc1,MMFF,0.0
+1154,Oxitriptan,success,,NC(Cc1c[nH]c2ccc(O)cc12)C(=O)O,MMFF,0.0
+1155,Oxprenolol,success,,C=CCOc1ccccc1OCC(O)CNC(C)C,MMFF,0.0
+1156,Oxtriphylline,success,,C[N+](C)(C)CCO.Cn1c2ncnc-2c([O-])n(C)c1=O,MMFF,0.0
+1157,Oxybuprocaine,success,,CCCCOc1cc(C(=O)OCCN(CC)CC)ccc1N,MMFF,0.0
+1158,Oxybutynin,success,,CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,MMFF,1.0
+1159,Oxycodone,success,,COc1ccc2c3c1OC1C(=O)CCC4(O)C(C2)N(C)CCC314,MMFF,0.0
+1160,Oxymetazoline,success,,Cc1cc(C(C)(C)C)c(O)c(C)c1CC1=NCCN1,MMFF,0.0
+1161,Oxymetholone,success,,CC12CC(=CO)C(=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,MMFF,0.0
+1162,Oxymorphone,success,,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,MMFF,0.0
+1163,Oxyphenbutazone,success,,CCCCC1C(=O)N(c2ccccc2)N(c2ccc(O)cc2)C1=O,MMFF,0.0
+1164,Oxyphenonium,success,,CC[N+](C)(CC)CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,MMFF,0.0
+1165,Oxytetracycline,success,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12,MMFF,0.0
+1166,Ozenoxacin,success,,CNc1ncc(-c2ccc3c(=O)c(C(=O)O)cn(C4CC4)c3c2C)cc1C,MMFF,0.0
+1167,Paclitaxel,success,,CC(=O)OC1C(=O)C2(C)C(O)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)C(C)=C1C2(C)C,MMFF,0.0
+1168,Palbociclib,success,,CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O,MMFF,0.0
+1169,Paliperidone,success,,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O,MMFF,0.0
+1170,Palmitic Acid,success,,CCCCCCCCCCCCCCCC(=O)O,MMFF,0.0
+1171,Palonosetron,success,,O=C1c2cccc3c2C(CCC3)CN1C1CN2CCC1CC2,MMFF,0.0
+1172,Pamidronic acid,success,,NCCC(O)(P(=O)(O)O)P(=O)(O)O,MMFF,0.0
+1173,Pancuronium,success,,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1[N+]1(C)CCCCC1,MMFF,0.0
+1174,Panobinostat,success,,Cc1[nH]c2ccccc2c1CCNCc1ccc(C=CC(=O)NO)cc1,MMFF,0.0
+1175,Pantoprazole,success,,COc1ccnc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC,MMFF,0.0
+1176,Papaverine,success,,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,MMFF,0.0
+1177,Paraldehyde,success,,CC1OC(C)OC(C)O1,MMFF,0.0
+1178,Paramethadione,success,,CCC1(C)OC(=O)N(C)C1=O,MMFF,0.0
+1179,Paramethasone,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1(O)C(=O)CO,MMFF,0.0
+1180,Parecoxib,success,,CCC(=O)NS(=O)(=O)c1ccc(-c2c(-c3ccccc3)noc2C)cc1,MMFF,0.0
+1181,Pargyline,success,,C#CCN(C)Cc1ccccc1,MMFF,0.0
+1182,Paricalcitol,success,,CC(C=CC(C)C(C)(C)O)C1CCC2C(=CC=C3CC(O)CC(O)C3)CCCC21C,MMFF,0.0
+1183,Paritaprevir,success,,Cc1cnc(C(=O)NC2CCCCCC=CC3CC3(C(=O)NS(=O)(=O)C3CC3)NC(=O)C3CC(Oc4nc5ccccc5c5ccccc45)CN3C2=O)cn1,MMFF,0.0
+1184,Paromomycin,success,,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CO)C(O)C(O)C3N)C2O)C(N)C(O)C1O,MMFF,0.0
+1185,Paroxetine,success,,Fc1ccc(C2CCNCC2COc2ccc3c(c2)OCO3)cc1,MMFF,0.0
+1186,Pasireotide,success,,NCCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)C2CC(OC(=O)NCCN)CN2C(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccc(OCc3ccccc3)cc2)NC1=O,MMFF,1.0
+1187,Pazopanib,success,,Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O,MMFF,0.0
+1188,Pefloxacin,success,,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21,MMFF,0.0
+1189,Pemetrexed,success,,Nc1nc2[nH]cc(CCc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)c2c(=O)[nH]1,MMFF,0.0
+1190,Pemirolast,success,,Cc1cccn2c(=O)c(-c3nn[nH]n3)cnc12,MMFF,0.0
+1191,Penbutolol,success,,CC(C)(C)NCC(O)COc1ccccc1C1CCCC1,MMFF,0.0
+1192,Penicillamine,success,,CC(C)(S)C(N)C(=O)O,MMFF,0.0
+1193,Pentaerythritol tetranitrate,success,,O=[N+]([O-])OCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-],MMFF,0.0
+1194,Pentamidine,success,,N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1,MMFF,0.0
+1195,Pentazocine,success,,CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C,MMFF,0.0
+1196,Pentobarbital,success,,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,MMFF,0.0
+1197,Pentolinium,success,,C[N+]1(CCCCC[N+]2(C)CCCC2)CCCC1,MMFF,0.0
+1198,Pentostatin,success,,OCC1OC(n2cnc3c2NC=NCC3O)CC1O,MMFF,0.0
+1199,Pentoxifylline,success,,CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,MMFF,0.0
+1200,Perampanel,success,,N#Cc1ccccc1-c1cc(-c2ccccn2)cn(-c2ccccc2)c1=O,MMFF,0.0
+1201,Perflutren,success,,FC(F)(F)C(F)(F)C(F)(F)F,MMFF,0.0
+1202,Pergolide,success,,CCCN1CC(CSC)CC2c3cccc4[nH]cc(c34)CC21,MMFF,0.0
+1203,Perhexiline,success,,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,MMFF,0.0
+1204,Periciazine,success,,N#Cc1ccc2c(c1)N(CCCN1CCC(O)CC1)c1ccccc1S2,MMFF,0.0
+1205,Perindopril,success,,CCCC(NC(C)C(=O)N1C(C(=O)O)CC2CCCCC21)C(=O)OCC,MMFF,0.0
+1206,Permethrin,success,,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,MMFF,0.0
+1207,Perospirone,success,,O=C1C2CCCCC2C(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1,MMFF,0.0
+1208,Perphenazine,success,,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1209,Phenacemide,success,,NC(=O)NC(=O)Cc1ccccc1,MMFF,0.0
+1210,Phenazopyridine,success,,Nc1ccc(N=Nc2ccccc2)c(N)n1,MMFF,0.0
+1211,Phendimetrazine,success,,CC1C(c2ccccc2)OCCN1C,MMFF,0.0
+1212,Phenelzine,success,,NNCCc1ccccc1,MMFF,0.0
+1213,Phenformin,success,,NC(N)=NC(N)=NCCc1ccccc1,MMFF,0.0
+1214,Phenindamine,success,,CN1CCC2=C(C1)C(c1ccccc1)c1ccccc12,MMFF,0.0
+1215,Phenindione,success,,O=C1c2ccccc2C(=O)C1c1ccccc1,MMFF,0.0
+1216,Pheniramine,success,,CN(C)CCC(c1ccccc1)c1ccccn1,MMFF,0.0
+1217,Phenmetrazine,success,,CC1NCCOC1c1ccccc1,MMFF,0.0
+1218,Phenobarbital,success,,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,MMFF,0.0
+1219,Phenoxybenzamine,success,,CC(COc1ccccc1)N(CCCl)Cc1ccccc1,MMFF,0.0
+1220,Phenoxymethylpenicillin,success,,CC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)O,MMFF,0.0
+1221,Phenprocoumon,success,,CCC(c1ccccc1)c1c(O)c2ccccc2oc1=O,MMFF,0.0
+1222,Phensuximide,success,,CN1C(=O)CC(c2ccccc2)C1=O,MMFF,0.0
+1223,Phentermine,success,,CC(C)(N)Cc1ccccc1,MMFF,0.0
+1224,Phentolamine,success,,Cc1ccc(N(CC2=NCCN2)c2cccc(O)c2)cc1,MMFF,0.0
+1225,Phenylacetic acid,success,,O=C(O)Cc1ccccc1,MMFF,0.0
+1226,Phenylalanine,success,,NC(Cc1ccccc1)C(=O)O,MMFF,0.0
+1227,Phenylbutazone,success,,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,MMFF,0.0
+1228,Phenylbutyric acid,success,,O=C(O)CCCc1ccccc1,MMFF,0.0
+1229,Phenylephrine,success,,CNCC(O)c1cccc(O)c1,MMFF,0.0
+1230,Phenylpropanolamine,success,,CC(N)C(O)c1ccccc1,MMFF,0.0
+1231,Phenytoin,success,,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,MMFF,0.0
+1232,Pholcodine,success,,CN1CCC23c4c5ccc(OCCN6CCOCC6)c4OC2C(O)C=CC3C1C5,MMFF,0.0
+1233,Phylloquinone,success,,CC(=CCC1=C(C)C(=O)c2ccccc2C1=O)CCCC(C)CCCC(C)CCCC(C)C,MMFF,0.0
+1234,Physostigmine,success,,CNC(=O)Oc1ccc2c(c1)C1(C)CCN(C)C1N2C,MMFF,0.0
+1235,Pibrentasvir,failed,3D conformer generation failed,COC(=O)NC(C(=O)N1CCCC1c1nc2cc(F)c(C3CCC(c4cc5[nH]c(C6CCCN6C(=O)C(NC(=O)OC)C(C)OC)nc5cc4F)N3c3cc(F)c(N4CCC(c5ccc(F)cc5)CC4)c(F)c3)cc2[nH]1)C(C)OC,,
+1236,Picosulfuric acid,success,,O=S(=O)(O)Oc1ccc(C(c2ccc(OS(=O)(=O)O)cc2)c2ccccn2)cc1,MMFF,0.0
+1237,Pilocarpine,success,,CCC1C(=O)OCC1Cc1cncn1C,MMFF,0.0
+1238,Pimavanserin,success,,CC(C)COc1ccc(CNC(=O)N(Cc2ccc(F)cc2)C2CCN(C)CC2)cc1,MMFF,0.0
+1239,Pimecrolimus,success,,CCC1C=C(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(Cl)C(OC)C3)C(C)C(O)CC1=O)C(C)CC2OC,MMFF,1.0
+1240,Pimozide,success,,O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,MMFF,0.0
+1241,Pinaverium,success,,COc1cc(Br)c(C[N+]2(CCOCCC3CCC4CC3C4(C)C)CCOCC2)cc1OC,MMFF,0.0
+1242,Pindolol,success,,CC(C)NCC(O)COc1cccc2[nH]ccc12,MMFF,0.0
+1243,Pioglitazone,success,,CCc1ccc(CCOc2ccc(CC3SC(=O)NC3=O)cc2)nc1,MMFF,0.0
+1244,Pipamperone,success,,NC(=O)C1(N2CCCCC2)CCN(CCCC(=O)c2ccc(F)cc2)CC1,MMFF,0.0
+1245,Pipazethate,success,,O=C(OCCOCCN1CCCCC1)N1c2ccccc2Sc2cccnc21,MMFF,0.0
+1246,Pipecuronium,success,,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC(N3CC[N+](C)(C)CC3)C4OC(C)=O)C2(C)CC1N1CC[N+](C)(C)CC1,MMFF,0.0
+1247,Piperacillin,success,,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)O)c2ccccc2)C(=O)C1=O,MMFF,0.0
+1248,Piperazine,success,,C1CNCCN1,MMFF,0.0
+1249,Pipobroman,success,,O=C(CCBr)N1CCN(C(=O)CCBr)CC1,MMFF,0.0
+1250,Pipotiazine,success,,CN(C)S(=O)(=O)c1ccc2c(c1)N(CCCN1CCC(CCO)CC1)c1ccccc1S2,MMFF,0.0
+1251,Piracetam,success,,NC(=O)CN1CCCC1=O,MMFF,0.0
+1252,Pirbuterol,success,,CC(C)(C)NCC(O)c1ccc(O)c(CO)n1,MMFF,0.0
+1253,Pirenzepine,success,,CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)CC1,MMFF,0.0
+1254,Pirfenidone,success,,Cc1ccc(=O)n(-c2ccccc2)c1,MMFF,0.0
+1255,Pirlindole,success,,Cc1ccc2c(c1)c1c3n2CCNC3CCC1,MMFF,0.0
+1256,Piroxicam,success,,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,MMFF,0.0
+1257,Pitavastatin,success,,O=C(O)CC(O)CC(O)C=Cc1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1,MMFF,0.0
+1258,Pivampicillin,success,,CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1(C)C,MMFF,0.0
+1259,Pivmecillinam,success,,CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)C(N=CN3CCCCCC3)C2SC1(C)C,MMFF,0.0
+1260,Pixantrone,success,,NCCNc1ccc(NCCN)c2c1C(=O)c1ccncc1C2=O,MMFF,0.0
+1261,Pizotifen,success,,CN1CCC(=C2c3ccccc3CCc3sccc32)CC1,MMFF,0.0
+1262,Plicamycin,success,,COC(C(=O)C(O)C(C)O)C1Cc2cc3cc(OC4CC(OC5CC(O)C(O)C(C)O5)C(O)C(C)O4)c(C)c(O)c3c(O)c2C(=O)C1OC1CC(OC2CC(OC3CC(C)(O)C(O)C(C)O3)C(O)C(C)O2)C(O)C(C)O1,MMFF,1.0
+1263,Podofilox,success,,COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC,MMFF,0.0
+1264,Podophyllin,success,,COc1cc(C2c3cc4c(cc3C(O)C(CO)C2C(=O)O)OCO4)cc(OC)c1OC.COc1cc(C2c3cc4c(cc3C(O)C(CO)C2C(=O)O)OCO4)cc(OC)c1OC.COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC.COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC,MMFF,1.0
+1265,Polaprezinc,success,,NCCC(=O)NC(Cc1c[n-]cn1)C(=O)[O-].[Zn+2],MMFF,0.0
+1266,Pomalidomide,success,,Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,MMFF,0.0
+1267,Ponatinib,success,,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,MMFF,0.0
+1268,Posaconazole,success,,CCC(C(C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O,MMFF,0.0
+1269,Potassium alum,success,,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[K+],UFF,0.0
+1270,Potassium cation,success,,[K+],MMFF,0.0
+1271,Potassium chloride,success,,[Cl-].[K+],MMFF,0.0
+1272,Potassium citrate,success,,O.O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[K+].[K+].[K+],MMFF,0.0
+1273,Potassium Iodide,success,,[I-].[K+],UFF,0.0
+1274,Practolol,success,,CC(=O)Nc1ccc(OCC(O)CNC(C)C)cc1,MMFF,0.0
+1275,Pralatrexate,success,,C#CCC(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,MMFF,0.0
+1276,Pramipexole,success,,CCCNC1CCc2nc(N)sc2C1,MMFF,0.0
+1277,Pramocaine,success,,CCCCOc1ccc(OCCCN2CCOCC2)cc1,MMFF,0.0
+1278,Pranlukast,success,,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,MMFF,0.0
+1279,Prasterone,success,,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,MMFF,0.0
+1280,Prasugrel,success,,CC(=O)Oc1cc2c(s1)CCN(C(C(=O)C1CC1)c1ccccc1F)C2,MMFF,0.0
+1281,Pravastatin,success,,CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,MMFF,0.0
+1282,Prazepam,success,,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1CC1CC1,MMFF,0.0
+1283,Praziquantel,success,,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,MMFF,0.0
+1284,Prazosin,success,,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC,MMFF,0.0
+1285,Prednicarbate,success,,CCOC(=O)OC1(C(=O)COC(=O)CC)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,MMFF,0.0
+1286,Prednisolone,success,,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,MMFF,0.0
+1287,Prednisone,success,,CC12C=CC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,MMFF,0.0
+1288,Pregabalin,success,,CC(C)CC(CN)CC(=O)O,MMFF,0.0
+1289,Prilocaine,success,,CCCNC(C)C(=O)Nc1ccccc1C,MMFF,0.0
+1290,Primaquine,success,,COc1cc(NC(C)CCCN)c2ncccc2c1,MMFF,0.0
+1291,Primidone,success,,CCC1(c2ccccc2)C(=O)NCNC1=O,MMFF,0.0
+1292,Probenecid,success,,CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1,MMFF,0.0
+1293,Probucol,success,,CC(C)(Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1)Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,MMFF,0.0
+1294,Procainamide,success,,CCN(CC)CCNC(=O)c1ccc(N)cc1,MMFF,0.0
+1295,Procaine,success,,CCN(CC)CCOC(=O)c1ccc(N)cc1,MMFF,0.0
+1296,Procaine benzylpenicillin,success,,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O.CCN(CC)CCOC(=O)c1ccc(N)cc1,MMFF,0.0
+1297,Procarbazine,success,,CNNCc1ccc(C(=O)NC(C)C)cc1,MMFF,0.0
+1298,Procaterol,success,,CCC(NC(C)C)C(O)c1ccc(O)c2[nH]c(=O)ccc12,MMFF,0.0
+1299,Prochlorperazine,success,,CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1300,Procyclidine,success,,OC(CCN1CCCC1)(c1ccccc1)C1CCCCC1,MMFF,0.0
+1301,Profenamine,success,,CCN(CC)C(C)CN1c2ccccc2Sc2ccccc21,MMFF,0.0
+1302,Progabide,success,,NC(=O)CCCN=C(c1ccc(Cl)cc1)c1cc(F)ccc1O,MMFF,0.0
+1303,Progesterone,success,,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,MMFF,0.0
+1304,Proguanil,success,,CC(C)N=C(N)N=C(N)Nc1ccc(Cl)cc1,MMFF,0.0
+1305,Promazine,success,,CN(C)CCCN1c2ccccc2Sc2ccccc21,MMFF,0.0
+1306,Promethazine,success,,CC(CN1c2ccccc2Sc2ccccc21)N(C)C,MMFF,0.0
+1307,Propacetamol,success,,CCN(CC)CC(=O)Oc1ccc(NC(C)=O)cc1,MMFF,0.0
+1308,Propafenone,success,,CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1,MMFF,0.0
+1309,Propantheline,success,,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C,MMFF,0.0
+1310,Proparacaine,success,,CCCOc1ccc(C(=O)OCCN(CC)CC)cc1N,MMFF,0.0
+1311,Propiverine,success,,CCCOC(C(=O)OC1CCN(C)CC1)(c1ccccc1)c1ccccc1,MMFF,0.0
+1312,Propofol,success,,CC(C)c1cccc(C(C)C)c1O,MMFF,0.0
+1313,Propoxycaine,success,,CCCOc1cc(N)ccc1C(=O)OCCN(CC)CC,MMFF,0.0
+1314,Propranolol,success,,CC(C)NCC(O)COc1cccc2ccccc12,MMFF,0.0
+1315,Propylthiouracil,success,,CCCc1cc(=O)[nH]c(=S)[nH]1,MMFF,0.0
+1316,Protocatechualdehyde,success,,O=Cc1ccc(O)c(O)c1,MMFF,0.0
+1317,Protriptyline,success,,CNCCCC1c2ccccc2C=Cc2ccccc21,MMFF,0.0
+1318,Prucalopride,success,,COCCCN1CCC(NC(=O)c2cc(Cl)c(N)c3c2OCC3)CC1,MMFF,0.0
+1319,Pseudoephedrine,success,,CNC(C)C(O)c1ccccc1,MMFF,0.0
+1320,Pyrantel,success,,CN1CCCN=C1C=Cc1cccs1,MMFF,0.0
+1321,Pyrazinamide,success,,NC(=O)c1cnccn1,MMFF,0.0
+1322,Pyridostigmine,success,,CN(C)C(=O)Oc1ccc[n+](C)c1,MMFF,0.0
+1323,Pyridoxine,success,,Cc1ncc(CO)c(CO)c1O,MMFF,0.0
+1324,Pyrimethamine,success,,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1,MMFF,0.0
+1325,Pyrvinium,success,,Cc1cc(C=Cc2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1,MMFF,0.0
+1326,Quazepam,success,,Fc1ccccc1C1=NCC(=S)N(CC(F)(F)F)c2ccc(Cl)cc21,MMFF,0.0
+1327,Quetiapine,success,,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,MMFF,0.0
+1328,Quinacrine,success,,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,MMFF,0.0
+1329,Quinagolide,success,,CCCN1CC(NS(=O)(=O)N(CC)CC)CC2Cc3c(O)cccc3CC21,MMFF,0.0
+1330,Quinapril,success,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2ccccc2CC1C(=O)O,MMFF,0.0
+1331,Quinestrol,success,,C#CC1(O)CCC2C3CCc4cc(OC5CCCC5)ccc4C3CCC21C,MMFF,0.0
+1332,Quinethazone,success,,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,MMFF,0.0
+1333,Quinidine,success,,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,MMFF,0.0
+1334,Quinine,success,,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,MMFF,0.0
+1335,Quinupristin,success,,CCC1NC(=O)C(NC(=O)c2ncccc2O)C(C)OC(=O)C(c2ccccc2)NC(=O)C2CC(=O)C(CSC3CN4CCC3CC4)CN2C(=O)C(Cc2ccc(N(C)C)cc2)N(C)C(=O)C2CCCN2C1=O,MMFF,1.0
+1336,Rabeprazole,success,,COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C,MMFF,0.0
+1337,Raloxifene,success,,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,MMFF,0.0
+1338,Raltegravir,success,,Cc1nnc(C(=O)NC(C)(C)c2nc(C(=O)NCc3ccc(F)cc3)c(O)c(=O)n2C)o1,MMFF,0.0
+1339,Raltitrexed,success,,Cc1nc2ccc(CN(C)c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)s3)cc2c(=O)[nH]1,MMFF,0.0
+1340,Ramelteon,success,,CCC(=O)NCCC1CCc2ccc3c(c21)CCO3,MMFF,0.0
+1341,Ramipril,success,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(C(=O)O)CC2CCCC21,MMFF,0.0
+1342,Ramosetron,success,,Cn1cc(C(=O)C2CCc3nc[nH]c3C2)c2ccccc21,MMFF,0.0
+1343,Ranitidine,success,,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,MMFF,0.0
+1344,Ranolazine,success,,COc1ccccc1OCC(O)CN1CCN(CC(=O)Nc2c(C)cccc2C)CC1,MMFF,0.0
+1345,Rasagiline,success,,C#CCNC1CCc2ccccc21,MMFF,0.0
+1346,Reboxetine,success,,CCOc1ccccc1OC(c1ccccc1)C1CNCCO1,MMFF,0.0
+1347,Regadenoson,success,,CNC(=O)c1cnn(-c2nc(N)c3ncn(C4OC(CO)C(O)C4O)c3n2)c1,MMFF,0.0
+1348,Regorafenib,success,,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1,MMFF,0.0
+1349,Remifentanil,success,,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCC(=O)OC)CC1,MMFF,0.0
+1350,Remikiren,success,,CC(C)(C)S(=O)(=O)CC(Cc1ccccc1)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC1CCCCC1)C(O)C(O)C1CC1,MMFF,0.0
+1351,Remoxipride,success,,CCN1CCCC1CNC(=O)c1c(OC)ccc(Br)c1OC,MMFF,0.0
+1352,Repaglinide,success,,CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,MMFF,1.0
+1353,Rescinnamine,success,,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)C=Cc2cc(OC)c(OC)c(OC)c2)C1OC,MMFF,0.0
+1354,Reserpine,success,,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC,MMFF,0.0
+1355,Resveratrol,success,,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,MMFF,0.0
+1356,Retapamulin,success,,C=CC1(C)CC(OC(=O)CSC2CC3CCC(C2)N3C)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O,MMFF,0.0
+1357,Ribavirin,success,,NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1,MMFF,0.0
+1358,Ribociclib,success,,CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1,MMFF,0.0
+1359,Riboflavin,success,,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,MMFF,0.0
+1360,Ribostamycin,success,,NCC1OC(OC2C(N)CC(N)C(O)C2OC2OC(CO)C(O)C2O)C(N)C(O)C1O,MMFF,0.0
+1361,Ridogrel,success,,O=C(O)CCCCON=C(c1cccnc1)c1cccc(C(F)(F)F)c1,MMFF,0.0
+1362,Rifabutin,success,,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(c4c3C2=O)=NC2(CCN(CC(C)C)CC2)N=5)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,MMFF,1.0
+1363,Rifampicin,success,,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,MMFF,0.0
+1364,Rifapentine,success,,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,MMFF,1.0
+1365,Rifaximin,success,,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,MMFF,1.0
+1366,Rilpivirine,success,,Cc1cc(C=CC#N)cc(C)c1Nc1ccnc(Nc2ccc(C#N)cc2)n1,MMFF,0.0
+1367,Riluzole,success,,Nc1nc2ccc(OC(F)(F)F)cc2s1,MMFF,0.0
+1368,Rimexolone,success,,CCC(=O)C1(C)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,MMFF,0.0
+1369,Rimonabant,success,,Cc1c(C(=O)NN2CCCCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(Cl)cc1,MMFF,0.0
+1370,Riociguat,success,,COC(=O)N(C)c1c(N)nc(-c2nn(Cc3ccccc3F)c3ncccc23)nc1N,MMFF,0.0
+1371,Risedronic acid,success,,O=P(O)(O)C(O)(Cc1cccnc1)P(=O)(O)O,MMFF,0.0
+1372,Risperidone,success,,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2,MMFF,0.0
+1373,Ritodrine,success,,CC(NCCc1ccc(O)cc1)C(O)c1ccc(O)cc1,MMFF,0.0
+1374,Ritonavir,success,,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,MMFF,1.0
+1375,Rivaroxaban,success,,O=C(NCC1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1,MMFF,0.0
+1376,Rivastigmine,success,,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,MMFF,0.0
+1377,Rizatriptan,success,,CN(C)CCc1c[nH]c2ccc(Cn3cncn3)cc12,MMFF,0.0
+1378,Rocuronium,success,,C=CC[N+]1(C2CC3C4CCC5CC(O)C(N6CCOCC6)CC5(C)C4CCC3(C)C2OC(C)=O)CCCC1,MMFF,0.0
+1379,Roflumilast,success,,O=C(Nc1c(Cl)cncc1Cl)c1ccc(OC(F)F)c(OCC2CC2)c1,MMFF,0.0
+1380,Rolapitant,success,,CC(OCC1(c2ccccc2)CCC2(CCC(=O)N2)CN1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,MMFF,0.0
+1381,Rolitetracycline,success,,CN(C)C1C(=O)C(C(=O)NCN2CCCC2)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,MMFF,0.0
+1382,Romidepsin,success,,CC=C1NC(=O)C2CSSCCC=CC(CC(=O)NC(C(C)C)C(=O)N2)OC(=O)C(C(C)C)NC1=O,MMFF,0.0
+1383,Ropinirole,success,,CCCN(CCC)CCc1cccc2c1CC(=O)N2,MMFF,0.0
+1384,Ropivacaine,success,,CCCN1CCCCC1C(=O)Nc1c(C)cccc1C,MMFF,0.0
+1385,Rosiglitazone,success,,CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1,MMFF,0.0
+1386,Rosoxacin,success,,CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21,MMFF,0.0
+1387,Rosuvastatin,success,,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O,MMFF,0.0
+1388,Rotigotine,success,,CCCN(CCc1cccs1)C1CCc2c(O)cccc2C1,MMFF,0.0
+1389,Roxatidine acetate,success,,CC(=O)OCC(=O)NCCCOc1cccc(CN2CCCCC2)c1,MMFF,0.0
+1390,Roxithromycin,success,,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O,MMFF,1.0
+1391,Rucaparib,success,,CNCc1ccc(-c2[nH]c3cc(F)cc4c3c2CCNC4=O)cc1,MMFF,0.0
+1392,Rufinamide,success,,NC(=O)c1cn(Cc2c(F)cccc2F)nn1,MMFF,0.0
+1393,Rupatadine,success,,Cc1cncc(CN2CCC(=C3c4ccc(Cl)cc4CCc4cccnc43)CC2)c1,MMFF,0.0
+1394,Ruxolitinib,success,,N#CCC(C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1,MMFF,0.0
+1395,Sacubitril,success,,CCOC(=O)C(C)CC(Cc1ccc(-c2ccccc2)cc1)NC(=O)CCC(=O)O,MMFF,0.0
+1396,Safinamide,success,,CC(NCc1ccc(OCc2cccc(F)c2)cc1)C(N)=O,MMFF,0.0
+1397,Salbutamol,success,,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1,MMFF,0.0
+1398,Salicylamide,success,,NC(=O)c1ccccc1O,MMFF,0.0
+1399,Salicylic acid,success,,O=C(O)c1ccccc1O,MMFF,0.0
+1400,Salmeterol,success,,OCc1cc(C(O)CNCCCCCCOCCCCc2ccccc2)ccc1O,MMFF,0.0
+1401,Salsalate,success,,O=C(Oc1ccccc1C(=O)O)c1ccccc1O,MMFF,0.0
+1402,Sapropterin,success,,CC(O)C(O)C1CNc2nc(N)[nH]c(=O)c2N1,MMFF,0.0
+1403,Saquinavir,success,,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,MMFF,1.0
+1404,Saxagliptin,success,,N#CC1CC2CC2N1C(=O)C(N)C12CC3CC(CC(O)(C3)C1)C2,MMFF,0.0
+1405,Scopolamine,success,,CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,MMFF,0.0
+1406,Secobarbital,success,,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O,MMFF,0.0
+1407,Selegiline,success,,C#CCN(C)C(C)Cc1ccccc1,MMFF,0.0
+1408,Selenium,success,,[Se],UFF,0.0
+1409,Selexipag,success,,CC(C)N(CCCCOCC(=O)NS(C)(=O)=O)c1cnc(-c2ccccc2)c(-c2ccccc2)n1,MMFF,0.0
+1410,Seratrodast,success,,CC1=C(C)C(=O)C(C(CCCCCC(=O)O)c2ccccc2)=C(C)C1=O,MMFF,0.0
+1411,Sertaconazole,success,,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1,MMFF,0.0
+1412,Sertindole,success,,O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1,MMFF,0.0
+1413,Sertraline,success,,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,MMFF,0.0
+1414,Sevoflurane,success,,FCOC(C(F)(F)F)C(F)(F)F,MMFF,0.0
+1415,Sibutramine,success,,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1,MMFF,0.0
+1416,Sildenafil,success,,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12,MMFF,0.0
+1417,Silodosin,success,,CC(Cc1cc2c(c(C(N)=O)c1)N(CCCO)CC2)NCCOc1ccccc1OCC(F)(F)F,MMFF,0.0
+1418,Silver sulfadiazine,failed,Neither MMFF nor UFF parameters available,Nc1ccc(S(=O)(=O)[N-]c2ncccn2)cc1.[Ag+],,
+1419,Simeprevir,success,,COc1ccc2c(OC3CC4C(=O)NC5(C(=O)NS(=O)(=O)C6CC6)CC5C=CCCCCN(C)C(=O)C4C3)cc(-c3nc(C(C)C)cs3)nc2c1C,MMFF,1.0
+1420,Simvastatin,success,,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,MMFF,0.0
+1421,Sirolimus,success,,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,MMFF,1.0
+1422,Sitagliptin,success,,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F,MMFF,0.0
+1423,Sitaxentan,success,,Cc1cc2c(cc1CC(=O)c1sccc1S(=O)(=O)Nc1onc(C)c1Cl)OCO2,MMFF,0.0
+1424,Sodium aurothiomalate,failed,Neither MMFF nor UFF parameters available,O=C([O-])CC([S-])C(=O)[O-].[Au+].[Na+].[Na+],,
+1425,Sodium bicarbonate,success,,O=C([O-])O.[Na+],MMFF,0.0
+1426,Sodium chloride,success,,[Cl-].[Na+],MMFF,0.0
+1427,Sodium citrate,success,,O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+],MMFF,0.0
+1428,Sodium glycerophosphate,success,,O=P([O-])([O-])OCC(O)CO.[Na+].[Na+],MMFF,0.0
+1429,Sodium oxybate,success,,O=C([O-])CCCO.[Na+],MMFF,0.0
+1430,"Sodium phosphate, monobasic",success,,O=P([O-])(O)O.[Na+],MMFF,0.0
+1431,Sodium stibogluconate,success,,O.O.O.O.O.O.O.O.O.O=C([O-])C1[O][Sb](=[O])([O][Sb]2(=[O])[O]C(C(=O)[O-])C(O)C(C(O)CO)[O]2)[O]C(C(O)CO)C1O.[Na+].[Na+].[Na+],UFF,0.0
+1432,Sofosbuvir,success,,CC(C)OC(=O)C(C)NP(=O)(OCC1OC(n2ccc(=O)[nH]c2=O)C(C)(F)C1O)Oc1ccccc1,MMFF,0.0
+1433,Solifenacin,success,,O=C(OC1CN2CCC1CC2)N1CCc2ccccc2C1c1ccccc1,MMFF,0.0
+1434,Somatostatin,success,,CC(N)C(=O)NCC(=O)NC1CSSCC(C(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(Cc2ccccc2)NC(=O)C(C(C)O)NC(=O)C(CCCCN)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccccc2)NC(=O)C(CC(N)=O)NC(=O)C(CCCCN)NC1=O,MMFF,1.0
+1435,Sonidegib,success,,Cc1c(C(=O)Nc2ccc(N3CC(C)OC(C)C3)nc2)cccc1-c1ccc(OC(F)(F)F)cc1,MMFF,0.0
+1436,Sorafenib,success,,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,MMFF,0.0
+1437,Sotalol,success,,CC(C)NCC(O)c1ccc(NS(C)(=O)=O)cc1,MMFF,0.0
+1438,Sparfloxacin,success,,CC1CN(c2c(F)c(N)c3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)CC(C)N1,MMFF,0.0
+1439,Spectinomycin,success,,CNC1C(O)C(NC)C2OC3(O)C(=O)CC(C)OC3OC2C1O,MMFF,0.0
+1440,Spirapril,success,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CC2(CC1C(=O)O)SCCS2,MMFF,0.0
+1441,Spironolactone,success,,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,MMFF,0.0
+1442,Stanozolol,success,,CC12Cc3cn[nH]c3CC1CCC1C2CCC2(C)C1CCC2(C)O,MMFF,0.0
+1443,Stavudine,success,,Cc1cn(C2C=CC(CO)O2)c(=O)[nH]c1=O,MMFF,0.0
+1444,Stepronin,success,,CC(SC(=O)c1cccs1)C(=O)NCC(=O)O,MMFF,0.0
+1445,Stiripentol,success,,CC(C)(C)C(O)C=Cc1ccc2c(c1)OCO2,MMFF,0.0
+1446,Streptomycin,success,,CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O,MMFF,0.0
+1447,Streptozocin,success,,CN(N=O)C(=O)NC1C(O)OC(CO)C(O)C1O,MMFF,0.0
+1448,Strontium ranelate,failed,Neither MMFF nor UFF parameters available,N#Cc1c(N(CC(=O)[O-])CC(=O)[O-])sc(C(=O)[O-])c1CC(=O)[O-].[Sr+2].[Sr+2],,
+1449,Succinylcholine,success,,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,MMFF,0.0
+1450,Sufentanil,success,,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,MMFF,0.0
+1451,Sugammadex,success,,O=C(O)CCSCC1OC2OC3C(CSCCC(=O)O)OC(OC4C(CSCCC(=O)O)OC(OC5C(CSCCC(=O)O)OC(OC6C(CSCCC(=O)O)OC(OC7C(CSCCC(=O)O)OC(OC8C(CSCCC(=O)O)OC(OC9C(CSCCC(=O)O)OC(OC1C(O)C2O)C(O)C9O)C(O)C8O)C(O)C7O)C(O)C6O)C(O)C5O)C(O)C4O)C(O)C3O,MMFF,1.0
+1452,Sulbactam,success,,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O,MMFF,0.0
+1453,Sulconazole,success,,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,MMFF,0.0
+1454,Sulfacetamide,success,,CC(=O)NS(=O)(=O)c1ccc(N)cc1,MMFF,0.0
+1455,Sulfacytine,success,,CCn1ccc(NS(=O)(=O)c2ccc(N)cc2)nc1=O,MMFF,0.0
+1456,Sulfadiazine,success,,Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1,MMFF,0.0
+1457,Sulfadimethoxine,success,,COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1,MMFF,0.0
+1458,Sulfadoxine,success,,COc1ncnc(NS(=O)(=O)c2ccc(N)cc2)c1OC,MMFF,0.0
+1459,Sulfamerazine,success,,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,MMFF,0.0
+1460,Sulfamethazine,success,,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,MMFF,0.0
+1461,Sulfamethizole,success,,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1,MMFF,0.0
+1462,Sulfamethoxazole,success,,Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1,MMFF,0.0
+1463,Sulfametopyrazine,success,,COc1nccnc1NS(=O)(=O)c1ccc(N)cc1,MMFF,0.0
+1464,Sulfamoxole,success,,Cc1nc(NS(=O)(=O)c2ccc(N)cc2)oc1C,MMFF,0.0
+1465,Sulfanilamide,success,,Nc1ccc(S(N)(=O)=O)cc1,MMFF,0.0
+1466,Sulfaphenazole,success,,Nc1ccc(S(=O)(=O)Nc2ccnn2-c2ccccc2)cc1,MMFF,0.0
+1467,Sulfapyridine,success,,Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1,MMFF,0.0
+1468,Sulfasalazine,success,,O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,MMFF,0.0
+1469,Sulfathiazole,success,,Nc1ccc(S(=O)(=O)Nc2nccs2)cc1,MMFF,0.0
+1470,Sulfinpyrazone,success,,O=C1C(CCS(=O)c2ccccc2)C(=O)N(c2ccccc2)N1c1ccccc1,MMFF,0.0
+1471,Sulfisoxazole,success,,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,MMFF,0.0
+1472,Sulindac,success,,CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc1ccc(S(C)=O)cc1,MMFF,0.0
+1473,Sulpiride,success,,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,MMFF,0.0
+1474,Sumatriptan,success,,CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1,MMFF,0.0
+1475,Sunitinib,success,,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,MMFF,0.0
+1476,Suprofen,success,,CC(C(=O)O)c1ccc(C(=O)c2cccs2)cc1,MMFF,0.0
+1477,Suramin,success,,Cc1ccc(C(=O)Nc2ccc(S(=O)(=O)O)c3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)cc1NC(=O)c1cccc(NC(=O)Nc2cccc(C(=O)Nc3cc(C(=O)Nc4ccc(S(=O)(=O)O)c5cc(S(=O)(=O)O)cc(S(=O)(=O)O)c45)ccc3C)c2)c1,MMFF,1.0
+1478,Suvorexant,success,,Cc1ccc(-n2nccn2)c(C(=O)N2CCN(c3nc4cc(Cl)ccc4o3)CCC2C)c1,MMFF,0.0
+1479,Tacrolimus,success,,C=CCC1C=C(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(O)C(OC)C3)C(C)C(O)CC1=O)C(C)CC2OC,MMFF,1.0
+1480,Tadalafil,success,,CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c2ccc3c(c2)OCO3)C1=O,MMFF,0.0
+1481,Tafluprost,success,,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(F)(F)COc1ccccc1,MMFF,0.0
+1482,Talniflumate,success,,O=C1OC(OC(=O)c2cccnc2Nc2cccc(C(F)(F)F)c2)c2ccccc21,MMFF,0.0
+1483,Tamoxifen,success,,CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,MMFF,0.0
+1484,Tamsulosin,success,,CCOc1ccccc1OCCNC(C)Cc1ccc(OC)c(S(N)(=O)=O)c1,MMFF,0.0
+1485,Tapentadol,success,,CCC(c1cccc(O)c1)C(C)CN(C)C,MMFF,0.0
+1486,Tasimelteon,success,,CCC(=O)NCC1CC1c1cccc2c1CCO2,MMFF,0.0
+1487,Tasosartan,success,,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nn[nH]n3)cc1)C(=O)CC2,MMFF,0.0
+1488,Tavaborole,success,,OB1OCc2cc(F)ccc21,UFF,0.0
+1489,Tazarotene,success,,CCOC(=O)c1ccc(C#Cc2ccc3c(c2)C(C)(C)CCS3)nc1,MMFF,1.0
+1490,Tazobactam,success,,CC1(Cn2ccnn2)C(C(=O)O)N2C(=O)CC2S1(=O)=O,MMFF,0.0
+1491,Technetium Tc-99m mebrofenin,failed,Neither MMFF nor UFF parameters available,Cc1cc(C)c(NC(=O)CN(CC(=O)[O-])CC(=O)[O-])c(C)c1Br.Cc1cc(C)c(NC(=O)CN(CC(=O)[O-])CC(=O)[O-])c(C)c1Br.[Tc+4],,
+1492,Technetium Tc-99m medronate,failed,Neither MMFF nor UFF parameters available,O.O.O=P([O-])([O-])CP(=O)([O-])[O-].[Tc+4],,
+1493,Technetium Tc-99m sestamibi,failed,Neither MMFF nor UFF parameters available,[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[Tc],,
+1494,Tedizolid phosphate,success,,Cn1nnc(-c2ccc(-c3ccc(N4CC(COP(=O)(O)O)OC4=O)cc3F)cn2)n1,MMFF,0.0
+1495,Tegafur,success,,O=c1[nH]c(=O)n(C2CCCO2)cc1F,MMFF,0.0
+1496,Telaprevir,success,,CCCC(NC(=O)C1C2CCCC2CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,MMFF,0.0
+1497,Telavancin,failed,3D conformer generation failed,CCCCCCCCCCNCCNC1(C)CC(OC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(CC(C)C)NC)C(O)c5ccc(c(Cl)c5)O4)c4ccc(O)c(c4)-c4c(cc(O)c(CNCP(=O)(O)O)c4O)C(C(=O)O)NC3=O)OC(CO)C(O)C2O)OC(C)C1O,,
+1498,Telithromycin,success,,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C,MMFF,0.0
+1499,Telmisartan,success,,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1,MMFF,0.0
+1500,Temazepam,success,,CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21,MMFF,0.0
+1501,Temoporfin,success,,Oc1cccc(-c2c3nc(c(-c4cccc(O)c4)c4ccc([nH]4)c(-c4cccc(O)c4)c4nc(c(-c5cccc(O)c5)c5ccc2[nH]5)CC4)C=C3)c1,MMFF,0.0
+1502,Temozolomide,success,,Cn1nnc2c(C(N)=O)ncn2c1=O,MMFF,0.0
+1503,Temsirolimus,success,,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OC(=O)C(C)(CO)CO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,MMFF,1.0
+1504,Teniposide,success,,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(c6cccs6)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,MMFF,0.0
+1505,Tenofovir disoproxil,success,,CC(C)OC(=O)OCOP(=O)(COC(C)Cn1cnc2c(N)ncnc21)OCOC(=O)OC(C)C,MMFF,0.0
+1506,Tenoxicam,success,,CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O,MMFF,0.0
+1507,Terazosin,success,,COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC,MMFF,0.0
+1508,Terbinafine,success,,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12,MMFF,0.0
+1509,Terbutaline,success,,CC(C)(C)NCC(O)c1cc(O)cc(O)c1,MMFF,0.0
+1510,Terconazole,success,,CC(C)N1CCN(c2ccc(OCC3COC(Cn4cncn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,MMFF,0.0
+1511,Teriflunomide,success,,CC(O)=C(C#N)C(=O)Nc1ccc(C(F)(F)F)cc1,MMFF,0.0
+1512,Terlipressin,success,,NCCCCC(NC(=O)C1CCCN1C(=O)C1CSSCC(NC(=O)CNC(=O)CNC(=O)CN)C(=O)NC(Cc2ccc(O)cc2)C(=O)NC(Cc2ccccc2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,MMFF,1.0
+1513,Tesamorelin,failed,3D conformer generation failed,CCC=CCC(=O)NC(Cc1ccc(O)cc1)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NC(C(=O)NC(CC(N)=O)C(=O)NC(CO)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)NC(CCSC)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(N)=O)C(C)CC)C(C)C)C(C)O)C(C)CC,,
+1514,Testolactone,success,,CC12CCC3C(CCC4=CC(=O)C=CC43C)C1CCC(=O)O2,MMFF,0.0
+1515,Testosterone,success,,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,MMFF,0.0
+1516,Testosterone propionate,success,,CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,MMFF,0.0
+1517,Tetrabenazine,success,,COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,MMFF,0.0
+1518,Tetracaine,success,,CCCCNc1ccc(C(=O)OCCN(C)C)cc1,MMFF,0.0
+1519,Tetracosactide,failed,3D conformer generation failed,CSCCC(NC(=O)C(CO)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(N)CO)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]cn1)C(=O)NC(Cc1ccccc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NCC(=O)NC(CCCCN)C(=O)N1CCCC1C(=O)NC(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(C(=O)NC(CCCCN)C(=O)NC(C(=O)NC(Cc1ccc(O)cc1)C(=O)N1CCCC1C(=O)O)C(C)C)C(C)C)C(C)C,,
+1520,Tetracycline,success,,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,MMFF,0.0
+1521,Tetryzoline,success,,c1ccc2c(c1)CCCC2C1=NCCN1,MMFF,0.0
+1522,Thalidomide,success,,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,MMFF,0.0
+1523,Theobromine,success,,Cn1cnc2c1c(=O)[nH]c(=O)n2C,MMFF,0.0
+1524,Theophylline,success,,Cn1c(=O)c2[nH]cnc2n(C)c1=O,MMFF,0.0
+1525,Thiabendazole,success,,c1ccc2[nH]c(-c3cscn3)nc2c1,MMFF,0.0
+1526,Thiamine,success,,Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1,MMFF,0.0
+1527,Thiamylal,success,,C=CCC1(C(C)CCC)C(=O)NC(=S)NC1=O,MMFF,0.0
+1528,Thiopental,success,,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,MMFF,0.0
+1529,Thioproperazine,success,,CN1CCN(CCCN2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,MMFF,0.0
+1530,Thioridazine,success,,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2,MMFF,0.0
+1531,Thiosulfuric acid,success,,O=S(O)(O)=S,MMFF,0.0
+1532,Thiotepa,success,,S=P(N1CC1)(N1CC1)N1CC1,MMFF,0.0
+1533,Thiothixene,success,,CN1CCN(CCC=C2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,MMFF,0.0
+1534,Thonzylamine,success,,COc1ccc(CN(CCN(C)C)c2ncccn2)cc1,MMFF,0.0
+1535,Thymol,success,,Cc1ccc(C(C)C)c(O)c1,MMFF,0.0
+1536,Tiagabine,success,,Cc1ccsc1C(=CCCN1CCCC(C(=O)O)C1)c1sccc1C,MMFF,0.0
+1537,Tianeptine,success,,CN1c2ccccc2C(NCCCCCCC(=O)O)c2ccc(Cl)cc2S1(=O)=O,MMFF,0.0
+1538,Tiapride,success,,CCN(CC)CCNC(=O)c1cc(S(C)(=O)=O)ccc1OC,MMFF,0.0
+1539,Tiaprofenic acid,success,,CC(C(=O)O)c1ccc(C(=O)c2ccccc2)s1,MMFF,0.0
+1540,Tibolone,success,,C#CC1(O)CCC2C3C(C)CC4=C(CCC(=O)C4)C3CCC21C,MMFF,0.0
+1541,Ticagrelor,success,,CCCSc1nc(NC2CC2c2ccc(F)c(F)c2)c2nnn(C3CC(OCCO)C(O)C3O)c2n1,MMFF,0.0
+1542,Ticarcillin,success,,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccsc3)C(=O)N2C1C(=O)O,MMFF,0.0
+1543,Ticlopidine,success,,Clc1ccccc1CN1CCc2sccc2C1,MMFF,0.0
+1544,Tigecycline,success,,CN(C)c1cc(NC(=O)CNC(C)(C)C)c(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,MMFF,0.0
+1545,Tiludronic acid,success,,O=P(O)(O)C(Sc1ccc(Cl)cc1)P(=O)(O)O,MMFF,0.0
+1546,Timolol,success,,CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1,MMFF,0.0
+1547,Tinidazole,success,,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,MMFF,0.0
+1548,Tioconazole,success,,Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1,MMFF,0.0
+1549,Tioguanine,success,,Nc1nc(=S)c2[nH]cnc2[nH]1,MMFF,0.0
+1550,Tiotropium,success,,C[N+]1(C)C2CC(OC(=O)C(O)(c3cccs3)c3cccs3)CC1C1OC12,MMFF,0.0
+1551,Tipiracil,success,,N=C1CCCN1Cc1[nH]c(=O)[nH]c(=O)c1Cl,MMFF,0.0
+1552,Tipranavir,success,,CCCC1(CCc2ccccc2)CC(O)=C(C(CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,MMFF,0.0
+1553,Tirofiban,success,,CCCCS(=O)(=O)NC(Cc1ccc(OCCCCC2CCNCC2)cc1)C(=O)O,MMFF,0.0
+1554,Titanium dioxide,failed,Neither MMFF nor UFF parameters available,[O]=[Ti]=[O],,
+1555,Tixocortol,success,,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CS,MMFF,0.0
+1556,Tizanidine,success,,Clc1ccc2nsnc2c1NC1=NCCN1,MMFF,0.0
+1557,Tobramycin,success,,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(N)CC1O,MMFF,0.0
+1558,Tofacitinib,success,,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,MMFF,0.0
+1559,Tofisopam,success,,CCC1C(C)=NN=C(c2ccc(OC)c(OC)c2)c2cc(OC)c(OC)cc21,MMFF,0.0
+1560,Tolazamide,success,,Cc1ccc(S(=O)(=O)NC(=O)NN2CCCCCC2)cc1,MMFF,0.0
+1561,Tolazoline,success,,c1ccc(CC2=NCCN2)cc1,MMFF,0.0
+1562,Tolbutamide,success,,CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1,MMFF,0.0
+1563,Tolcapone,success,,Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,MMFF,0.0
+1564,Tolfenamic acid,success,,Cc1c(Cl)cccc1Nc1ccccc1C(=O)O,MMFF,0.0
+1565,Tolmetin,success,,Cc1ccc(C(=O)c2ccc(CC(=O)O)n2C)cc1,MMFF,0.0
+1566,Tolnaftate,success,,Cc1cccc(N(C)C(=S)Oc2ccc3ccccc3c2)c1,MMFF,0.0
+1567,Toloxatone,success,,Cc1cccc(N2CC(CO)OC2=O)c1,MMFF,0.0
+1568,Tolperisone,success,,Cc1ccc(C(=O)C(C)CN2CCCCC2)cc1,MMFF,0.0
+1569,Tolterodine,success,,Cc1ccc(O)c(C(CCN(C(C)C)C(C)C)c2ccccc2)c1,MMFF,0.0
+1570,Tolvaptan,success,,Cc1ccccc1C(=O)Nc1ccc(C(=O)N2CCCC(O)c3cc(Cl)ccc32)c(C)c1,MMFF,0.0
+1571,Topiramate,success,,CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1,MMFF,0.0
+1572,Topiroxostat,success,,N#Cc1cc(-c2n[nH]c(-c3ccncc3)n2)ccn1,MMFF,0.0
+1573,Topotecan,success,,CCC1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1,MMFF,0.0
+1574,Torasemide,success,,Cc1cccc(Nc2ccncc2S(=O)(=O)NC(=O)NC(C)C)c1,MMFF,0.0
+1575,Toremifene,success,,CN(C)CCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1,MMFF,0.0
+1576,Trabectedin,success,,COc1cc2c(cc1O)CCNC21CSC2c3c(OC(C)=O)c(C)c4c(c3C(COC1=O)N1C(O)C3Cc5cc(C)c(OC)c(O)c5C(C21)N3C)OCO4,MMFF,0.0
+1577,Tramadol,success,,COc1cccc(C2(O)CCCCC2CN(C)C)c1,MMFF,0.0
+1578,Trametinib,success,,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1,MMFF,0.0
+1579,Trandolapril,success,,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(C(=O)O)CC2CCCCC21,MMFF,0.0
+1580,Tranexamic acid,success,,NCC1CCC(C(=O)O)CC1,MMFF,0.0
+1581,Tranilast,success,,COc1ccc(C=CC(=O)Nc2ccccc2C(=O)O)cc1OC,MMFF,0.0
+1582,Tranylcypromine,success,,NC1CC1c1ccccc1,MMFF,0.0
+1583,Trapidil,success,,CCN(CC)c1cc(C)nc2ncnn12,MMFF,0.0
+1584,Travoprost,success,,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)COc1cccc(C(F)(F)F)c1,MMFF,0.0
+1585,Trazodone,success,,O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,MMFF,0.0
+1586,Treprostinil,success,,CCCCCC(O)CCC1C(O)CC2Cc3c(cccc3OCC(=O)O)CC21,MMFF,0.0
+1587,Tretinoin,success,,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,MMFF,0.0
+1588,Triamcinolone,success,,CC12C=CC(=O)C=C1CCC1C3CC(O)C(O)(C(=O)CO)C3(C)CC(O)C12F,MMFF,0.0
+1589,Triamterene,success,,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,MMFF,0.0
+1590,Triazolam,success,,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,MMFF,0.0
+1591,Trichlormethiazide,success,,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,MMFF,0.0
+1592,Trichloroethylene,success,,ClC=C(Cl)Cl,MMFF,0.0
+1593,Triethylenetetramine,success,,NCCNCCNCCN,MMFF,0.0
+1594,Trifluoperazine,success,,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,MMFF,0.0
+1595,Triflupromazine,success,,CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21,MMFF,0.0
+1596,Trifluridine,success,,O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1C(F)(F)F,MMFF,0.0
+1597,Triflusal,success,,CC(=O)Oc1cc(C(F)(F)F)ccc1C(=O)O,MMFF,0.0
+1598,Trihexyphenidyl,success,,OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1,MMFF,0.0
+1599,Trilostane,success,,CC12CCC3C(CCC45OC4C(O)=C(C#N)CC35C)C1CCC2O,MMFF,0.0
+1600,Trimetazidine,success,,COc1ccc(CN2CCNCC2)c(OC)c1OC,MMFF,0.0
+1601,Trimethadione,success,,CN1C(=O)OC(C)(C)C1=O,MMFF,0.0
+1602,Trimethaphan,success,,O=C1N(Cc2ccccc2)C2C[S+]3CCCC3C2N1Cc1ccccc1,MMFF,0.0
+1603,Trimethobenzamide,success,,COc1cc(C(=O)NCc2ccc(OCCN(C)C)cc2)cc(OC)c1OC,MMFF,0.0
+1604,Trimethoprim,success,,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,MMFF,0.0
+1605,Trimetrexate,success,,COc1cc(NCc2ccc3nc(N)nc(N)c3c2C)cc(OC)c1OC,MMFF,0.0
+1606,Trimipramine,success,,CC(CN(C)C)CN1c2ccccc2CCc2ccccc21,MMFF,0.0
+1607,Trioxsalen,success,,Cc1cc2cc3c(C)cc(=O)oc3c(C)c2o1,MMFF,0.0
+1608,Tripelennamine,success,,CN(C)CCN(Cc1ccccc1)c1ccccn1,MMFF,0.0
+1609,Triprolidine,success,,Cc1ccc(C(=CCN2CCCC2)c2ccccn2)cc1,MMFF,0.0
+1610,Triptorelin,success,,CC(C)CC(NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(N)=O,MMFF,1.0
+1611,Trolamine,success,,OCCN(CCO)CCO,MMFF,0.0
+1612,Trolamine salicylate,success,,O=C(O)c1ccccc1O.OCCN(CCO)CCO,MMFF,0.0
+1613,Troleandomycin,success,,COC1CC(OC2C(C)C(=O)OC(C)C(C)C(OC(C)=O)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3OC(C)=O)C2C)OC(C)C1OC(C)=O,MMFF,0.0
+1614,Tromethamine,success,,NC(CO)(CO)CO,MMFF,0.0
+1615,Tropicamide,success,,CCN(Cc1ccncc1)C(=O)C(CO)c1ccccc1,MMFF,0.0
+1616,Tropisetron,success,,CN1C2CCC1CC(OC(=O)c1c[nH]c3ccccc13)C2,MMFF,0.0
+1617,Trospium,success,,O=C(OC1CC2CCC(C1)[N+]21CCCC1)C(O)(c1ccccc1)c1ccccc1,MMFF,0.0
+1618,Trovafloxacin,success,,NC1C2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)CC12,MMFF,0.0
+1619,Tryptophan,success,,NC(Cc1c[nH]c2ccccc12)C(=O)O,MMFF,0.0
+1620,Tubocurarine,success,,COc1cc2c3cc1Oc1cc(ccc1O)CC1c4c(cc(OC)c(O)c4Oc4ccc(cc4)CC3N(C)CC2)CC[N+]1(C)C,MMFF,0.0
+1621,Ubidecarenone,success,,COC1=C(OC)C(=O)C(CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)=C(C)C1=O,MMFF,1.0
+1622,Udenafil,success,,CCCOc1ccc(S(=O)(=O)NCCC2CCCN2C)cc1-c1nc2c(CCC)nn(C)c2c(=O)[nH]1,MMFF,1.0
+1623,Ulipristal,success,,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C,MMFF,0.0
+1624,Ulobetasol,success,,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CCl,MMFF,0.0
+1625,Umeclidinium,success,,OC(c1ccccc1)(c1ccccc1)C12CC[N+](CCOCc3ccccc3)(CC1)CC2,MMFF,0.0
+1626,Unoprostone,success,,CCCCCCCC(=O)CCC1C(O)CC(O)C1CC=CCCCC(=O)O,MMFF,0.0
+1627,Uracil mustard,success,,O=c1[nH]cc(N(CCCl)CCCl)c(=O)[nH]1,MMFF,0.0
+1628,Ursodeoxycholic acid,success,,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,MMFF,0.0
+1629,Valaciclovir,success,,CC(C)C(N)C(=O)OCCOCn1cnc2c(=O)[nH]c(N)nc21,MMFF,0.0
+1630,Valbenazine,success,,COc1cc2c(cc1OC)C1CC(OC(=O)C(N)C(C)C)C(CC(C)C)CN1CC2,MMFF,0.0
+1631,Valganciclovir,success,,CC(C)C(N)C(=O)OCC(CO)OCn1cnc2c(=O)[nH]c(N)nc21,MMFF,0.0
+1632,Valproic acid,success,,CCCC(CCC)C(=O)O,MMFF,0.0
+1633,Valrubicin,success,,CCCCC(=O)OCC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(NC(=O)C(F)(F)F)C(O)C(C)O2)C1)C(=O)c1c(OC)cccc1C3=O,MMFF,0.0
+1634,Valsartan,success,,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)C(C(=O)O)C(C)C,MMFF,0.0
+1635,Vancomycin,success,,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,MMFF,1.0
+1636,Vandetanib,success,,COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1,MMFF,0.0
+1637,Vapreotide,success,,CC(C)C1NC(=O)C(CCCCN)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(NC(=O)C(N)Cc2ccccc2)CSSCC(C(=O)NC(Cc2c[nH]c3ccccc23)C(N)=O)NC1=O,MMFF,1.0
+1638,Vardenafil,success,,CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12,MMFF,0.0
+1639,Varenicline,success,,c1cnc2cc3c(cc2n1)C1CNCC3C1,MMFF,0.0
+1640,Vecuronium,success,,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1N1CCCCC1,MMFF,0.0
+1641,Velpatasvir,success,,COCC1CC(c2ncc(-c3ccc4c(c3)COc3cc5c(ccc6[nH]c(C7CCC(C)N7C(=O)C(NC(=O)OC)C(C)C)nc65)cc3-4)[nH]2)N(C(=O)C(NC(=O)OC)c2ccccc2)C1,MMFF,1.0
+1642,Vemurafenib,success,,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,MMFF,0.0
+1643,Venetoclax,success,,CC1(C)CCC(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(NCC5CCOCC5)c([N+](=O)[O-])c4)c(Oc4cnc5[nH]ccc5c4)c3)CC2)=C(c2ccc(Cl)cc2)C1,MMFF,1.0
+1644,Venlafaxine,success,,COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,MMFF,0.0
+1645,Verapamil,success,,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,MMFF,0.0
+1646,Vernakalant,success,,COc1ccc(CCOC2CCCCC2N2CCC(O)C2)cc1OC,MMFF,0.0
+1647,Vigabatrin,success,,C=CC(N)CCC(=O)O,MMFF,0.0
+1648,Vilanterol,success,,OCc1cc(C(O)CNCCCCCCOCCOCc2c(Cl)cccc2Cl)ccc1O,MMFF,0.0
+1649,Vilazodone,success,,N#Cc1ccc2[nH]cc(CCCCN3CCN(c4ccc5oc(C(N)=O)cc5c4)CC3)c2c1,MMFF,0.0
+1650,Vildagliptin,success,,N#CC1CCCN1C(=O)CNC12CC3CC(CC(O)(C3)C1)C2,MMFF,0.0
+1651,Viloxazine,success,,CCOc1ccccc1OCC1CNCCO1,MMFF,0.0
+1652,Vinblastine,success,,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C)C3C(O)(C(=O)OC)C(OC(C)=O)C5(CC)C=CCN6CCC43C65)C2)C1,MMFF,0.0
+1653,Vincristine,success,,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C=O)C3C(O)(C(=O)OC)C(OC(C)=O)C5(CC)C=CCN6CCC43C65)C2)C1,MMFF,0.0
+1654,Vindesine,success,,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C)C3C(O)(C(N)=O)C(O)C5(CC)C=CCN6CCC43C65)C2)C1,MMFF,0.0
+1655,Vinflunine,success,,CCC12C=CCN3CCC4(c5cc(C6(C(=O)OC)CC7CC(C(C)(F)F)CN(Cc8c6[nH]c6ccccc86)C7)c(OC)cc5N(C)C4C(O)(C(=O)OC)C1OC(C)=O)C32,MMFF,0.0
+1656,Vinorelbine,success,,CCC1=CC2CN(C1)Cc1c([nH]c3ccccc13)C(C(=O)OC)(c1cc3c(cc1OC)N(C)C1C(O)(C(=O)OC)C(OC(C)=O)C4(CC)C=CCN5CCC31C54)C2,MMFF,0.0
+1657,Viomycin,success,,NCCCC(N)CC(=O)NC1CNC(=O)C(C2CC(O)NC(N)=N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CO)NC(=O)C(CO)NC1=O,MMFF,0.0
+1658,Vismodegib,success,,CS(=O)(=O)c1ccc(C(=O)Nc2ccc(Cl)c(-c3ccccn3)c2)c(Cl)c1,MMFF,0.0
+1659,Vitamin A,success,,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO,MMFF,0.0
+1660,Vitamin E,success,,Cc1c(C)c2c(c(C)c1O)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2.O=C([O-])CCC(=O)[O-].[Ca+2],MMFF,0.0
+1661,Voglibose,success,,OCC(CO)NC1CC(O)(CO)C(O)C(O)C1O,MMFF,0.0
+1662,Vorapaxar,success,,CCOC(=O)NC1CCC2C(C1)CC1C(=O)OC(C)C1C2C=Cc1ccc(-c2cccc(F)c2)cn1,MMFF,0.0
+1663,Voriconazole,success,,CC(c1ncncc1F)C(O)(Cn1cncn1)c1ccc(F)cc1F,MMFF,0.0
+1664,Vorinostat,success,,O=C(CCCCCCC(=O)Nc1ccccc1)NO,MMFF,0.0
+1665,Vortioxetine,success,,Cc1ccc(Sc2ccccc2N2CCNCC2)c(C)c1,MMFF,0.0
+1666,Voxilaprevir,success,,CCC1C2CN(C(=O)C(C(C)(C)C)NC(=O)OC3CC3CCCCC(F)(F)c3nc4ccc(OC)cc4nc3O2)C1C(=O)NC1(C(=O)NS(=O)(=O)C2(C)CC2)CC1C(F)F,MMFF,1.0
+1667,Warfarin,success,,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,MMFF,0.0
+1668,Ximelagatran,success,,CCOC(=O)CNC(C(=O)N1CCC1C(=O)NCc1ccc(C(N)=NO)cc1)C1CCCCC1,MMFF,1.0
+1669,Xylometazoline,success,,Cc1cc(C(C)(C)C)cc(C)c1CC1=NCCN1,MMFF,0.0
+1670,Yohimbine,success,,COC(=O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC21,MMFF,0.0
+1671,Zafirlukast,success,,COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,MMFF,0.0
+1672,Zalcitabine,success,,Nc1ccn(C2CCC(CO)O2)c(=O)n1,MMFF,0.0
+1673,Zaleplon,success,,CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1,MMFF,0.0
+1674,Zaltoprofen,success,,CC(C(=O)O)c1ccc2c(c1)CC(=O)c1ccccc1S2,MMFF,0.0
+1675,Zidovudine,success,,Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O,MMFF,0.0
+1676,Zileuton,success,,CC(c1cc2ccccc2s1)N(O)C(N)=O,MMFF,0.0
+1677,Zinc oxide,failed,Neither MMFF nor UFF parameters available,[O-2].[Zn+2],,
+1678,Zinc sulfate,success,,O=S(=O)([O-])[O-].[Zn+2],MMFF,0.0
+1679,Ziprasidone,success,,O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1,MMFF,0.0
+1680,Zoledronic acid,success,,O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O,MMFF,0.0
+1681,Zolmitriptan,success,,CN(C)CCc1c[nH]c2ccc(CC3COC(=O)N3)cc12,MMFF,0.0
+1682,Zolpidem,success,,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1,MMFF,0.0
+1683,Zonisamide,success,,NS(=O)(=O)Cc1noc2ccccc12,MMFF,0.0
+1684,Zopiclone,success,,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,MMFF,0.0
+1685,Zotepine,success,,CN(C)CCOC1=Cc2ccccc2Sc2ccc(Cl)cc21,MMFF,0.0
+1686,Zucapsaicin,success,,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,MMFF,0.0
+1687,Zuclopenthixol,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1688,Colistimethate,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1689,Iron sucrose,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1690,Ivermectin,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1691,Kaolin,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1692,Nitroprusside,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1693,Pentosan polysulfate,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1694,Polymyxin B,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1695,Polythiazide,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1696,Radium Ra 223 dichloride,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1697,Sevelamer,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1698,Spiramycin,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1699,Sucralfate,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0
+1700,Verteporfin,success,,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,MMFF,0.0

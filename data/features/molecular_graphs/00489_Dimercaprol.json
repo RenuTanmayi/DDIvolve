@@ -1,0 +1,133 @@
+{
+    "drug_name": "Dimercaprol",
+    "source_row": 488,
+    "canonical_smiles": "OCC(S)CS",
+    "number_of_nodes": 6,
+    "number_of_edges": 5,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 1,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 2
+        },
+        {
+            "atom_index": 2,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 3,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 3,
+            "symbol": "S",
+            "atomic_number": 16,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 4,
+            "symbol": "C",
+            "atomic_number": 6,
+            "degree": 2,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 4,
+            "total_hydrogens": 2
+        },
+        {
+            "atom_index": 5,
+            "symbol": "S",
+            "atomic_number": 16,
+            "degree": 1,
+            "formal_charge": 0,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 2,
+            "total_hydrogens": 1
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "bond_type": "SINGLE",
+            "bond_order": 1.0,
+            "aromatic": false,
+            "conjugated": false,
+            "in_ring": false,
+            "stereo": "STEREONONE"
+        }
+    ]
+}

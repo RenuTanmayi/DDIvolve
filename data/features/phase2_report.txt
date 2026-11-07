@@ -1,0 +1,67 @@
+
+============================================================
+                 DDIVOLVE - PHASE 2 REPORT
+============================================================
+
+INPUT DATASET
+-------------
+File: C:\DDIvolve\data\processed\clean_drugs.csv
+Total drug records: 1701
+
+PROCESSING SUMMARY
+------------------
+Successfully processed: 1663
+Failed records: 38
+Success rate: 97.77%
+
+FEATURE EXTRACTION
+------------------
+Molecular descriptors: 1663
+Morgan fingerprints: 1663
+Fingerprint radius: 2
+Fingerprint size: 2048 bits
+Molecular graphs: 1663
+2D molecular structures: 1663
+3D conformers: 1663
+
+3D OPTIMIZATION
+---------------
+MMFF optimized: 1640
+UFF optimized: 23
+
+OUTPUT FILES
+------------
+Descriptors:
+C:\DDIvolve\data\features\descriptors\molecular_descriptors.csv
+
+Fingerprints:
+C:\DDIvolve\data\features\fingerprints\morgan_fingerprints.csv
+
+Compressed fingerprints:
+C:\DDIvolve\data\features\fingerprints\morgan_fingerprints.npz
+
+Molecular graphs:
+C:\DDIvolve\data\features\molecular_graphs
+
+2D structures:
+C:\DDIvolve\data\features\structures_2d
+
+3D structures:
+C:\DDIvolve\data\features\structures_3d\all_drugs_3d.sdf
+
+Processing log:
+C:\DDIvolve\data\features\phase2_processing_log.csv
+
+EXECUTION
+---------
+Execution time: 1033.06 seconds
+
+STATUS
+------
+PHASE 2 COMPLETED WITH SOME FAILED RECORDS
+
+Note: A successful 3D optimization status of 0 indicates
+that the force-field optimization converged. Status 1
+indicates that the maximum iteration count was reached.
+
+============================================================

@@ -1,0 +1,16 @@
+# Large dataset
+data/processed/integrated_ddi_dataset.csv
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

@@ -1,0 +1,46 @@
+{
+    "drug_name": "Magnesium hydroxide",
+    "source_row": 924,
+    "canonical_smiles": "[Mg+2].[OH-].[OH-]",
+    "number_of_nodes": 3,
+    "number_of_edges": 0,
+    "nodes": [
+        {
+            "atom_index": 0,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "degree": 0,
+            "formal_charge": 2,
+            "hybridization": "S",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 0,
+            "total_hydrogens": 0
+        },
+        {
+            "atom_index": 1,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 0,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 1
+        },
+        {
+            "atom_index": 2,
+            "symbol": "O",
+            "atomic_number": 8,
+            "degree": 0,
+            "formal_charge": -1,
+            "hybridization": "SP3",
+            "aromatic": false,
+            "chiral_tag": "CHI_UNSPECIFIED",
+            "total_valence": 1,
+            "total_hydrogens": 1
+        }
+    ],
+    "edges": []
+}

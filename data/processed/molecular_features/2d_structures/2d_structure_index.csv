@@ -1,0 +1,1689 @@
+drug_name,smiles,image_file,coordinate_file,num_atoms,num_bonds
+Abacavir,Nc1nc(NC2CC2)c2ncn(C3C=CC(CO)C3)c2n1,structure_0000.png,coordinates_0000.npz,21,24
+Abemaciclib,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1,structure_0001.png,coordinates_0001.npz,37,41
+Abiraterone,CC12CCC(O)CC1=CCC1C2CCC2(C)C(c3cccnc3)=CCC12,structure_0002.png,coordinates_0002.npz,26,30
+Acarbose,CC1OC(OC2C(CO)OC(OC(C(O)CO)C(O)C(O)C=O)C(O)C2O)C(O)C(O)C1NC1C=C(CO)C(O)C(O)C1O,structure_0003.png,coordinates_0003.npz,44,46
+Acebutolol,CCCC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1,structure_0004.png,coordinates_0004.npz,24,24
+Aceclofenac,O=C(O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,structure_0005.png,coordinates_0005.npz,23,24
+Acemetacin,COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,structure_0006.png,coordinates_0006.npz,29,31
+Acenocoumarol,CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O,structure_0007.png,coordinates_0007.npz,26,28
+Acepromazine,CC(=O)c1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2,structure_0008.png,coordinates_0008.npz,23,25
+Aceprometazine,CC(=O)c1ccc2c(c1)N(CC(C)N(C)C)c1ccccc1S2,structure_0009.png,coordinates_0009.npz,23,25
+Acetaminophen,CC(=O)Nc1ccc(O)cc1,structure_0010.png,coordinates_0010.npz,11,11
+Acetazolamide,CC(=O)Nc1nnc(S(N)(=O)=O)s1,structure_0011.png,coordinates_0011.npz,13,13
+Acetohydroxamic acid,CC(=O)NO,structure_0012.png,coordinates_0012.npz,5,4
+Acetophenazine,CC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2,structure_0013.png,coordinates_0013.npz,29,32
+Acetylcholine,CC(=O)OCC[N+](C)(C)C,structure_0014.png,coordinates_0014.npz,10,9
+Acetyldigitoxin,CC(=O)OC1CC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)OC(C)C1O,structure_0015.png,coordinates_0015.npz,57,64
+Acetylsalicylic acid,CC(=O)Oc1ccccc1C(=O)O,structure_0016.png,coordinates_0016.npz,13,13
+Acipimox,Cc1cnc(C(=O)O)c[n+]1[O-],structure_0017.png,coordinates_0017.npz,11,11
+Acitretin,COc1cc(C)c(C=CC(C)=CC=CC(C)=CC(=O)O)c(C)c1C,structure_0018.png,coordinates_0018.npz,24,24
+Aclidinium,O=C(OC1C[N+]2(CCCOc3ccccc3)CCC1CC2)C(O)(c1cccs1)c1cccs1,structure_0019.png,coordinates_0019.npz,33,37
+Acrivastine,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)O)n2)cc1,structure_0020.png,coordinates_0020.npz,26,28
+Activated charcoal,[C],structure_0021.png,coordinates_0021.npz,1,0
+Acyclovir,Nc1nc2c(ncn2COCCO)c(=O)[nH]1,structure_0022.png,coordinates_0022.npz,16,17
+Adapalene,COc1ccc(-c2ccc3cc(C(=O)O)ccc3c2)cc1C12CC3CC(CC(C3)C1)C2,structure_0023.png,coordinates_0023.npz,31,36
+Adefovir dipivoxil,CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,structure_0024.png,coordinates_0024.npz,34,35
+Adenosine,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,structure_0025.png,coordinates_0025.npz,19,21
+Adinazolam,CN(C)Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,structure_0026.png,coordinates_0026.npz,25,28
+Afatinib,CN(C)CC=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC1CCOC1,structure_0027.png,coordinates_0027.npz,34,37
+Agomelatine,COc1ccc2cccc(CCNC(C)=O)c2c1,structure_0028.png,coordinates_0028.npz,18,19
+Ajmaline,CCC1C2CC3C4N(C)c5ccccc5C45CC(C2C5O)N3C1O,structure_0029.png,coordinates_0029.npz,24,29
+Albendazole,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1,structure_0030.png,coordinates_0030.npz,18,19
+Alcaftadine,CN1CCC(=C2c3ccccc3CCn3c(C=O)cnc32)CC1,structure_0031.png,coordinates_0031.npz,23,26
+Alclofenac,C=CCOc1ccc(CC(=O)O)cc1Cl,structure_0032.png,coordinates_0032.npz,15,15
+Alclometasone,CC1CC2C3C(Cl)CC4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1(O)C(=O)CO,structure_0033.png,coordinates_0033.npz,28,31
+Alectinib,CCc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O,structure_0034.png,coordinates_0034.npz,36,41
+Alendronic acid,NCCCC(O)(P(=O)(O)O)P(=O)(O)O,structure_0035.png,coordinates_0035.npz,14,13
+Alfacalcidol,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)C)CC(O)CC1O,structure_0036.png,coordinates_0036.npz,29,31
+Alfentanil,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1,structure_0037.png,coordinates_0037.npz,30,32
+Alfuzosin,COc1cc2nc(N(C)CCCNC(=O)C3CCCO3)nc(N)c2cc1OC,structure_0038.png,coordinates_0038.npz,28,30
+Alimemazine,CC(CN(C)C)CN1c2ccccc2Sc2ccccc21,structure_0039.png,coordinates_0039.npz,21,23
+Aliskiren,COCCCOc1cc(CC(CC(N)C(O)CC(C(=O)NCC(C)(C)C(N)=O)C(C)C)C(C)C)ccc1OC,structure_0040.png,coordinates_0040.npz,39,39
+Alitretinoin,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,structure_0041.png,coordinates_0041.npz,22,22
+Allopurinol,O=c1[nH]cnc2[nH]ncc12,structure_0042.png,coordinates_0042.npz,10,11
+Allylestrenol,C=CCC1(O)CCC2C3CCC4=CCCCC4C3CCC21C,structure_0043.png,coordinates_0043.npz,22,25
+Almasilate,O.[Al+3].[Al+3].[Mg+2].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-],structure_0044.png,coordinates_0044.npz,14,8
+Almotriptan,CN(C)CCc1c[nH]c2ccc(CS(=O)(=O)N3CCCC3)cc12,structure_0045.png,coordinates_0045.npz,23,25
+Alogliptin,Cn1c(=O)cc(N2CCCC(N)C2)n(Cc2ccccc2C#N)c1=O,structure_0046.png,coordinates_0046.npz,25,27
+Alosetron,Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O,structure_0047.png,coordinates_0047.npz,22,25
+Alprazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,structure_0048.png,coordinates_0048.npz,22,25
+Alprenolol,C=CCc1ccccc1OCC(O)CNC(C)C,structure_0049.png,coordinates_0049.npz,18,18
+Alprostadil,CCCCCC(O)C=CC1C(O)CC(=O)C1CCCCCCC(=O)O,structure_0050.png,coordinates_0050.npz,25,25
+Altretamine,CN(C)c1nc(N(C)C)nc(N(C)C)n1,structure_0051.png,coordinates_0051.npz,15,15
+Aluminium,[Al],structure_0052.png,coordinates_0052.npz,1,0
+Aluminum hydroxide,[Al+3].[OH-].[OH-].[OH-],structure_0053.png,coordinates_0053.npz,4,0
+Aluminum oxide,[Al+3].[Al+3].[O-2].[O-2].[O-2],structure_0054.png,coordinates_0054.npz,5,0
+Aluminum sulfate,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[Al+3],structure_0055.png,coordinates_0055.npz,17,12
+Alvimopan,CC1CN(CC(Cc2ccccc2)C(=O)NCC(=O)O)CCC1(C)c1cccc(O)c1,structure_0056.png,coordinates_0056.npz,31,33
+Amantadine,NC12CC3CC(CC(C3)C1)C2,structure_0057.png,coordinates_0057.npz,11,13
+Ambenonium,CC[N+](CC)(CCNC(=O)C(=O)NCC[N+](CC)(CC)Cc1ccccc1Cl)Cc1ccccc1Cl,structure_0058.png,coordinates_0058.npz,36,37
+Ambrisentan,COC(c1ccccc1)(c1ccccc1)C(Oc1nc(C)cc(C)n1)C(=O)O,structure_0059.png,coordinates_0059.npz,28,30
+Ambroxol,Nc1c(Br)cc(Br)cc1CNC1CCC(O)CC1,structure_0060.png,coordinates_0060.npz,18,19
+Amcinonide,CC(=O)OCC(=O)C12OC3(CCCC3)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,structure_0061.png,coordinates_0061.npz,36,41
+Amifostine,NCCCNCCSP(=O)(O)O,structure_0062.png,coordinates_0062.npz,12,11
+Amikacin,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O,structure_0063.png,coordinates_0063.npz,40,42
+Amiloride,NC(N)=NC(=O)c1nc(Cl)c(N)nc1N,structure_0064.png,coordinates_0064.npz,15,15
+Aminocaproic acid,NCCCCCC(=O)O,structure_0065.png,coordinates_0065.npz,9,8
+Aminoglutethimide,CCC1(c2ccc(N)cc2)CCC(=O)NC1=O,structure_0066.png,coordinates_0066.npz,17,18
+Aminohippuric acid,Nc1ccc(C(=O)NCC(=O)O)cc1,structure_0067.png,coordinates_0067.npz,14,14
+Aminolevulinic acid,NCC(=O)CCC(=O)O,structure_0068.png,coordinates_0068.npz,9,8
+Aminophenazone,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,structure_0069.png,coordinates_0069.npz,17,18
+Aminophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN,structure_0070.png,coordinates_0070.npz,30,31
+Aminosalicylic acid,Nc1ccc(C(=O)O)c(O)c1,structure_0071.png,coordinates_0071.npz,11,11
+Amiodarone,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,structure_0072.png,coordinates_0072.npz,31,33
+Amisulpride,CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,structure_0073.png,coordinates_0073.npz,25,26
+Amitriptyline,CN(C)CCC=C1c2ccccc2CCc2ccccc21,structure_0074.png,coordinates_0074.npz,21,23
+Amlodipine,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl,structure_0075.png,coordinates_0075.npz,28,29
+Ammonium chloride,[Cl-].[NH4+],structure_0076.png,coordinates_0076.npz,2,0
+Amobarbital,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,structure_0077.png,coordinates_0077.npz,16,16
+Amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,structure_0078.png,coordinates_0078.npz,25,27
+Amoxapine,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2,structure_0079.png,coordinates_0079.npz,22,25
+Amoxicillin,CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,structure_0080.png,coordinates_0080.npz,25,27
+Amphetamine,CC(N)Cc1ccccc1,structure_0081.png,coordinates_0081.npz,10,10
+Amphotericin B,CC1C=CC=CC=CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC(O)C(O)CCC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)O,structure_0082.png,coordinates_0082.npz,65,67
+Ampicillin,CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,structure_0083.png,coordinates_0083.npz,24,26
+Amprenavir,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1,structure_0084.png,coordinates_0084.npz,35,37
+Amrinone,Nc1cc(-c2ccncc2)c[nH]c1=O,structure_0085.png,coordinates_0085.npz,14,15
+Amrubicin,CC(=O)C1(N)Cc2c(O)c3c(c(O)c2C(OC2CC(O)C(O)CO2)C1)C(=O)c1ccccc1C3=O,structure_0086.png,coordinates_0086.npz,35,39
+Amsacrine,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12,structure_0087.png,coordinates_0087.npz,28,31
+Amyl Nitrite,CC(C)CCON=O,structure_0088.png,coordinates_0088.npz,8,7
+Anagrelide,O=C1CN2Cc3c(ccc(Cl)c3Cl)N=C2N1,structure_0089.png,coordinates_0089.npz,16,18
+Anastrozole,CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1,structure_0090.png,coordinates_0090.npz,22,23
+Anidulafungin,CCCCCOc1ccc(-c2ccc(-c3ccc(C(=O)NC4CC(O)C(O)NC(=O)C5C(O)C(C)CN5C(=O)C(C(C)O)NC(=O)C(C(O)C(O)c5ccc(O)cc5)NC(=O)C5CC(O)CN5C(=O)C(C(C)O)NC4=O)cc3)cc2)cc1,structure_0091.png,coordinates_0091.npz,82,88
+Anisotropine methylbromide,CCCC(CCC)C(=O)OC1CC2CCC(C1)[N+]2(C)C.[Br-],structure_0092.png,coordinates_0092.npz,21,21
+Antazoline,c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1,structure_0093.png,coordinates_0093.npz,20,22
+Antipyrine,Cc1cc(=O)n(-c2ccccc2)n1C,structure_0094.png,coordinates_0094.npz,14,15
+Apixaban,COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1,structure_0095.png,coordinates_0095.npz,34,38
+Apomorphine,CN1CCc2cccc3c2C1Cc1ccc(O)c(O)c1-3,structure_0096.png,coordinates_0096.npz,20,23
+Apraclonidine,Nc1cc(Cl)c(NC2=NCCN2)c(Cl)c1,structure_0097.png,coordinates_0097.npz,15,16
+Apremilast,CCOc1cc(C(CS(C)(=O)=O)N2C(=O)c3cccc(NC(C)=O)c3C2=O)ccc1OC,structure_0098.png,coordinates_0098.npz,32,34
+Aprepitant,CC(OC1OCCN(Cc2n[nH]c(=O)[nH]2)C1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,structure_0099.png,coordinates_0099.npz,37,40
+Aprindine,CCN(CC)CCCN(c1ccccc1)C1Cc2ccccc2C1,structure_0100.png,coordinates_0100.npz,24,26
+Arbekacin,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)CCC2N)C(O)C1OC1OC(CO)C(O)C(N)C1O,structure_0101.png,coordinates_0101.npz,38,40
+Arbutamine,Oc1ccc(CCCCNCC(O)c2ccc(O)c(O)c2)cc1,structure_0102.png,coordinates_0102.npz,23,24
+Arformoterol,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1,structure_0103.png,coordinates_0103.npz,25,26
+Argatroban,CC1CNc2c(cccc2S(=O)(=O)NC(CCCN=C(N)N)C(=O)N2CCC(C)CC2C(=O)O)C1,structure_0104.png,coordinates_0104.npz,35,37
+Aripiprazole,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,structure_0105.png,coordinates_0105.npz,30,33
+Armodafinil,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,structure_0106.png,coordinates_0106.npz,19,20
+Arotinolol,CC(C)(C)NCC(O)CSc1nc(-c2ccc(C(N)=O)s2)cs1,structure_0107.png,coordinates_0107.npz,23,24
+Arsenic trioxide,[As+3].[As+3].[O-2].[O-2].[O-2],structure_0108.png,coordinates_0108.npz,5,0
+Artemether,COC1OC2OC3(C)CCC4C(C)CCC(C1C)C24OO3,structure_0109.png,coordinates_0109.npz,21,24
+Artesunate,CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32OO4,structure_0110.png,coordinates_0110.npz,27,30
+Articaine,CCCNC(C)C(=O)Nc1c(C)csc1C(=O)OC,structure_0111.png,coordinates_0111.npz,19,19
+Ascorbic acid,O=C1OC(C(O)CO)C(O)=C1O,structure_0112.png,coordinates_0112.npz,12,12
+Asenapine,CN1CC2c3ccccc3Oc3ccc(Cl)cc3C2C1,structure_0113.png,coordinates_0113.npz,20,23
+Astemizole,COc1ccc(CCN2CCC(Nc3nc4ccccc4n3Cc3ccc(F)cc3)CC2)cc1,structure_0114.png,coordinates_0114.npz,34,38
+Asunaprevir,C=CC1CC1(NC(=O)C1CC(Oc2ncc(OC)c3ccc(Cl)cc23)CN1C(=O)C(NC(=O)OC(C)(C)C)C(C)(C)C)C(=O)NS(=O)(=O)C1CC1,structure_0115.png,coordinates_0115.npz,51,55
+Atazanavir,COC(=O)NC(C(=O)NC(Cc1ccccc1)C(O)CN(Cc1ccc(-c2ccccn2)cc1)NC(=O)C(NC(=O)OC)C(C)(C)C)C(C)(C)C,structure_0116.png,coordinates_0116.npz,51,53
+Atenolol,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,structure_0117.png,coordinates_0117.npz,19,19
+Atomoxetine,CNCCC(Oc1ccccc1C)c1ccccc1,structure_0118.png,coordinates_0118.npz,19,20
+Atorvastatin,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,structure_0119.png,coordinates_0119.npz,41,44
+Atovaquone,O=C1C(=O)c2ccccc2C(O)=C1C1CCC(c2ccc(Cl)cc2)CC1,structure_0120.png,coordinates_0120.npz,26,29
+Atracurium besylate,COc1ccc(CC2c3cc(OC)c(OC)cc3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCc3cc(OC)c(OC)cc3C2Cc2ccc(OC)c(OC)c2)cc1OC.O=S(=O)([O-])c1ccccc1.O=S(=O)([O-])c1ccccc1,structure_0121.png,coordinates_0121.npz,87,92
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,structure_0122.png,coordinates_0122.npz,21,23
+Avanafil,COc1ccc(CNc2nc(N3CCCC3CO)ncc2C(=O)NCc2ncccn2)cc1Cl,structure_0123.png,coordinates_0123.npz,34,37
+Avibactam,NC(=O)C1CCC2CN1C(=O)N2OS(=O)(=O)O,structure_0124.png,coordinates_0124.npz,17,18
+Axitinib,CNC(=O)c1ccccc1Sc1ccc2c(C=Cc3ccccn3)n[nH]c2c1,structure_0125.png,coordinates_0125.npz,28,31
+Azacitidine,Nc1ncn(C2OC(CO)C(O)C2O)c(=O)n1,structure_0126.png,coordinates_0126.npz,17,18
+Azatadine,CN1CCC(=C2c3ccccc3CCc3cccnc32)CC1,structure_0127.png,coordinates_0127.npz,22,25
+Azathioprine,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2nc[nH]c12,structure_0128.png,coordinates_0128.npz,19,21
+Azelaic acid,O=C(O)CCCCCCCC(=O)O,structure_0129.png,coordinates_0129.npz,13,12
+Azelastine,CN1CCCC(n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1,structure_0130.png,coordinates_0130.npz,27,30
+Azelnidipine,CC1=C(C(=O)OC(C)C)C(c2cccc([N+](=O)[O-])c2)C(C(=O)OC2CN(C(c3ccccc3)c3ccccc3)C2)=C(N)N1,structure_0131.png,coordinates_0131.npz,43,47
+Azidocillin,CC1(C)SC2C(NC(=O)C(N=[N+]=[N-])c3ccccc3)C(=O)N2C1C(=O)O,structure_0132.png,coordinates_0132.npz,26,28
+Azilsartan medoxomil,CCOc1nc2cccc(C(=O)OCc3oc(=O)oc3C)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1,structure_0133.png,coordinates_0133.npz,42,47
+Azithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O,structure_0134.png,coordinates_0134.npz,52,54
+Azlocillin,CC1(C)SC2C(NC(=O)C(NC(=O)N3CCNC3=O)c3ccccc3)C(=O)N2C1C(=O)O,structure_0135.png,coordinates_0135.npz,32,35
+Aztreonam,CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,structure_0136.png,coordinates_0136.npz,28,29
+Bacampicillin,CCOC(=O)OC(C)OC(=O)C1N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1(C)C,structure_0137.png,coordinates_0137.npz,32,34
+Bacitracin,CCC(C)C(N)C1=NC(C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(C(=O)NC2CCCCNC(=O)C(CC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(Cc3cnc[nH]3)NC(=O)C(Cc3ccccc3)NC(=O)C(C(C)CC)NC(=O)C(CCCN)NC2=O)C(C)CC)CS1,structure_0138.png,coordinates_0138.npz,100,103
+Baclofen,NCC(CC(=O)O)c1ccc(Cl)cc1,structure_0139.png,coordinates_0139.npz,14,14
+Balsalazide,O=C(O)CCNC(=O)c1ccc(N=Nc2ccc(O)c(C(=O)O)c2)cc1,structure_0140.png,coordinates_0140.npz,26,27
+Bambuterol,CN(C)C(=O)Oc1cc(OC(=O)N(C)C)cc(C(O)CNC(C)(C)C)c1,structure_0141.png,coordinates_0141.npz,26,26
+Baricitinib,CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1,structure_0142.png,coordinates_0142.npz,26,29
+Barnidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,structure_0143.png,coordinates_0143.npz,36,39
+Bazedoxifene,Cc1c(-c2ccc(O)cc2)n(Cc2ccc(OCCN3CCCCCC3)cc2)c2ccc(O)cc12,structure_0144.png,coordinates_0144.npz,35,39
+Beclomethasone dipropionate,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC21C,structure_0145.png,coordinates_0145.npz,36,39
+Bedaquiline,COc1nc2ccc(Br)cc2cc1C(c1ccccc1)C(O)(CCN(C)C)c1cccc2ccccc12,structure_0146.png,coordinates_0146.npz,37,41
+Belinostat,O=C(C=Cc1cccc(S(=O)(=O)Nc2ccccc2)c1)NO,structure_0147.png,coordinates_0147.npz,22,23
+Benazepril,CCOC(=O)C(CCc1ccccc1)NC1CCc2ccccc2N(CC(=O)O)C1=O,structure_0148.png,coordinates_0148.npz,31,33
+Bendamustine,Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21,structure_0149.png,coordinates_0149.npz,23,24
+Bendroflumethiazide,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,structure_0150.png,coordinates_0150.npz,27,29
+Benidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,structure_0151.png,coordinates_0151.npz,37,40
+Benzatropine,CN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2,structure_0152.png,coordinates_0152.npz,23,26
+Benznidazole,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,structure_0153.png,coordinates_0153.npz,19,20
+Benzocaine,CCOC(=O)c1ccc(N)cc1,structure_0154.png,coordinates_0154.npz,12,12
+Benzoctamine,CNCC12CCC(c3ccccc31)c1ccccc12,structure_0155.png,coordinates_0155.npz,19,22
+Benzoic acid,O=C(O)c1ccccc1,structure_0156.png,coordinates_0156.npz,9,9
+Benzophenone,O=C(c1ccccc1)c1ccccc1,structure_0157.png,coordinates_0157.npz,14,15
+Benzoyl peroxide,O=C(OOC(=O)c1ccccc1)c1ccccc1,structure_0158.png,coordinates_0158.npz,18,19
+Benzphetamine,CC(Cc1ccccc1)N(C)Cc1ccccc1,structure_0159.png,coordinates_0159.npz,18,19
+Benzthiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC(CSCc1ccccc1)=NS2(=O)=O,structure_0160.png,coordinates_0160.npz,26,28
+Benzydamine,CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12,structure_0161.png,coordinates_0161.npz,23,25
+Benzyl alcohol,OCc1ccccc1,structure_0162.png,coordinates_0162.npz,8,8
+Benzylpenicillin,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O,structure_0163.png,coordinates_0163.npz,23,25
+Bepridil,CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1,structure_0164.png,coordinates_0164.npz,27,29
+Besifloxacin,NC1CCCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1,structure_0165.png,coordinates_0165.npz,27,30
+Betahistine,CNCCc1ccccn1,structure_0166.png,coordinates_0166.npz,10,10
+Betamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,structure_0167.png,coordinates_0167.npz,28,31
+Betaxolol,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1,structure_0168.png,coordinates_0168.npz,22,23
+Bethanechol,CC(C[N+](C)(C)C)OC(N)=O,structure_0169.png,coordinates_0169.npz,11,10
+Bethanidine,CN=C(NC)NCc1ccccc1,structure_0170.png,coordinates_0170.npz,13,13
+Betrixaban,COc1ccc(NC(=O)c2ccc(C(=N)N(C)C)cc2)c(C(=O)Nc2ccc(Cl)cn2)c1,structure_0171.png,coordinates_0171.npz,32,34
+Bevantolol,COc1ccc(CCNCC(O)COc2cccc(C)c2)cc1OC,structure_0172.png,coordinates_0172.npz,25,26
+Bexarotene,C=C(c1ccc(C(=O)O)cc1)c1cc2c(cc1C)C(C)(C)CCC2(C)C,structure_0173.png,coordinates_0173.npz,26,28
+Bezafibrate,CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(=O)O,structure_0174.png,coordinates_0174.npz,25,26
+Bicalutamide,CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1,structure_0175.png,coordinates_0175.npz,29,30
+Bifonazole,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1,structure_0176.png,coordinates_0176.npz,24,27
+Bimatoprost,CCNC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)CCc1ccccc1,structure_0177.png,coordinates_0177.npz,30,31
+Biperiden,OC(CCN1CCCCC1)(c1ccccc1)C1CC2C=CC1C2,structure_0178.png,coordinates_0178.npz,23,26
+Bisacodyl,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1,structure_0179.png,coordinates_0179.npz,27,29
+Bismuth subcitrate potassium,O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-].O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-].[Bi+3].[K+].[K+].[K+].[K+].[K+],structure_0180.png,coordinates_0180.npz,32,24
+Bismuth subsalicylate,O=C([O-])c1ccccc1[O-].[Bi+3].[OH-],structure_0181.png,coordinates_0181.npz,12,10
+Bisoprolol,CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1,structure_0182.png,coordinates_0182.npz,23,23
+Bivalirudin,CCC(C)C(NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(Cc1ccccc1)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(N)=O)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)C1CCCN1C(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(N)Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CC(C)C)C(=O)O,structure_0183.png,coordinates_0183.npz,155,160
+Bleomycin,Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1cnc[nH]1,structure_0184.png,coordinates_0184.npz,96,101
+Blonanserin,CCN1CCN(c2cc(-c3ccc(F)cc3)c3c(n2)CCCCCC3)CC1,structure_0185.png,coordinates_0185.npz,27,30
+Boceprevir,CC(C)(C)NC(=O)NC(C(=O)N1CC2C(C1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C,structure_0186.png,coordinates_0186.npz,37,39
+Bopindolol,Cc1cc2c(OCC(CNC(C)(C)C)OC(=O)c3ccccc3)cccc2[nH]1,structure_0187.png,coordinates_0187.npz,28,30
+Bortezomib,CC(C)CC(NC(=O)C(Cc1ccccc1)NC(=O)c1cnccn1)B(O)O,structure_0188.png,coordinates_0188.npz,28,29
+Bosentan,COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)nc(-c2ncccn2)nc1OCCO,structure_0189.png,coordinates_0189.npz,39,42
+Bosutinib,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl,structure_0190.png,coordinates_0190.npz,36,39
+Bretylium,CC[N+](C)(C)Cc1ccccc1Br,structure_0191.png,coordinates_0191.npz,13,13
+Brexpiprazole,O=c1ccc2ccc(OCCCCN3CCN(c4cccc5sccc45)CC3)cc2[nH]1,structure_0192.png,coordinates_0192.npz,31,35
+Brigatinib,COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2P(C)(C)=O)n1,structure_0193.png,coordinates_0193.npz,40,44
+Brimonidine,Brc1c(NC2=NCCN2)ccc2nccnc12,structure_0194.png,coordinates_0194.npz,17,19
+Brinzolamide,CCNC1CN(CCCOC)S(=O)(=O)c2sc(S(N)(=O)=O)cc21,structure_0195.png,coordinates_0195.npz,23,24
+Brivaracetam,CCCC1CC(=O)N(C(CC)C(N)=O)C1,structure_0196.png,coordinates_0196.npz,15,15
+Bromazepam,O=C1CN=C(c2ccccn2)c2cc(Br)ccc2N1,structure_0197.png,coordinates_0197.npz,19,21
+Bromfenac,Nc1c(CC(=O)O)cccc1C(=O)c1ccc(Br)cc1,structure_0198.png,coordinates_0198.npz,20,21
+Bromocriptine,CC(C)CC1C(=O)N2CCCC2C2(O)OC(NC(=O)C3C=C4c5cccc6[nH]c(Br)c(c56)CC4N(C)C3)(C(C)C)C(=O)N12,structure_0199.png,coordinates_0199.npz,43,49
+Bromopride,CCN(CC)CCNC(=O)c1cc(Br)c(N)cc1OC,structure_0200.png,coordinates_0200.npz,20,20
+Brompheniramine,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1,structure_0201.png,coordinates_0201.npz,19,20
+Brotizolam,Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1Cl)=NC2,structure_0202.png,coordinates_0202.npz,22,25
+Buclizine,CC(C)(C)c1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1,structure_0203.png,coordinates_0203.npz,31,34
+Budesonide,CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,structure_0204.png,coordinates_0204.npz,31,35
+Bumetanide,CCCCNc1cc(C(=O)O)cc(S(N)(=O)=O)c1Oc1ccccc1,structure_0205.png,coordinates_0205.npz,25,26
+Bupivacaine,CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C,structure_0206.png,coordinates_0206.npz,21,22
+Bupranolol,Cc1ccc(Cl)c(OCC(O)CNC(C)(C)C)c1,structure_0207.png,coordinates_0207.npz,18,18
+Buprenorphine,COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,structure_0208.png,coordinates_0208.npz,34,40
+Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,structure_0209.png,coordinates_0209.npz,16,16
+Buspirone,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,structure_0210.png,coordinates_0210.npz,28,31
+Busulfan,CS(=O)(=O)OCCCCOS(C)(=O)=O,structure_0211.png,coordinates_0211.npz,14,13
+Butabarbital,CCC(C)C1(CC)C(=O)NC(=O)NC1=O,structure_0212.png,coordinates_0212.npz,15,15
+Butalbital,C=CCC1(CC(C)C)C(=O)NC(=O)NC1=O,structure_0213.png,coordinates_0213.npz,16,16
+Butamben,CCCCOC(=O)c1ccc(N)cc1,structure_0214.png,coordinates_0214.npz,14,14
+Butenafine,CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12,structure_0215.png,coordinates_0215.npz,24,26
+Butobarbital,CCCCC1(CC)C(=O)NC(=O)NC1=O,structure_0216.png,coordinates_0216.npz,15,15
+Butoconazole,Clc1ccc(CCC(Cn2ccnc2)Sc2c(Cl)cccc2Cl)cc1,structure_0217.png,coordinates_0217.npz,25,27
+Butorphanol,Oc1ccc2c(c1)C13CCCCC1(O)C(C2)N(CC1CCC1)CC3,structure_0218.png,coordinates_0218.npz,24,28
+Butylscopolamine,CCCC[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,structure_0219.png,coordinates_0219.npz,26,29
+Cabazitaxel,COC1C(=O)C2(C)C(OC)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C1C2(C)C,structure_0220.png,coordinates_0220.npz,60,65
+Cabergoline,C=CCN1CC(C(=O)N(CCCN(C)C)C(=O)NCC)CC2c3cccc4[nH]cc(c34)CC21,structure_0221.png,coordinates_0221.npz,33,36
+Cabozantinib,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC,structure_0222.png,coordinates_0222.npz,37,41
+Caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O,structure_0223.png,coordinates_0223.npz,14,15
+Calcifediol,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)CCCC(C)(C)O,structure_0224.png,coordinates_0224.npz,29,31
+Calcipotriol,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(O)C2CC2)CC(O)CC1O,structure_0225.png,coordinates_0225.npz,30,33
+Calcitriol,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O,structure_0226.png,coordinates_0226.npz,30,32
+Calcium acetate,CC(=O)[O-].CC(=O)[O-].[Ca+2],structure_0227.png,coordinates_0227.npz,9,6
+Calcium carbonate,O=C([O-])[O-].[Ca+2],structure_0228.png,coordinates_0228.npz,5,3
+Calcium chloride,[Ca+2].[Cl-].[Cl-],structure_0229.png,coordinates_0229.npz,3,0
+Calcium citrate,O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Ca+2].[Ca+2].[Ca+2],structure_0230.png,coordinates_0230.npz,29,24
+Calcium glubionate anhydrous,O=C([O-])C(O)C(O)C(O)C(O)CO.O=C([O-])C(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO.[Ca+2],structure_0231.png,coordinates_0231.npz,38,36
+Calcium glucoheptonate,O=C([O-])C(O)C(O)C(O)C(O)C(O)CO.O=C([O-])C(O)C(O)C(O)C(O)C(O)CO.[Ca+2],structure_0232.png,coordinates_0232.npz,31,28
+Calcium gluconate,O=C([O-])C(O)C(O)C(O)C(O)CO.O=C([O-])C(O)C(O)C(O)C(O)CO.[Ca+2],structure_0233.png,coordinates_0233.npz,27,24
+Calcium lactate,CC(O)C(=O)[O-].CC(O)C(=O)[O-].[Ca+2],structure_0234.png,coordinates_0234.npz,13,10
+Calcium Phosphate,O=P([O-])([O-])[O-].O=P([O-])([O-])[O-].[Ca+2].[Ca+2].[Ca+2],structure_0235.png,coordinates_0235.npz,13,8
+Camazepam,CN(C)C(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O,structure_0236.png,coordinates_0236.npz,26,28
+Canagliflozin,Cc1ccc(C2OC(CO)C(O)C(O)C2O)cc1Cc1ccc(-c2ccc(F)cc2)s1,structure_0237.png,coordinates_0237.npz,31,34
+Candesartan cilexetil,CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,structure_0238.png,coordinates_0238.npz,45,50
+Cangrelor,CSCCNc1nc(SCCC(F)(F)F)nc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)C(Cl)(Cl)P(=O)(O)O)C(O)C1O,structure_0239.png,coordinates_0239.npz,44,46
+Cannabidiol,C=C(C)C1CCC(C)=CC1c1c(O)cc(CCCCC)cc1O,structure_0240.png,coordinates_0240.npz,23,24
+Canrenoic acid,CC12CCC(=O)C=C1C=CC1C2CCC2(C)C1CCC2(O)CCC(=O)O,structure_0241.png,coordinates_0241.npz,26,29
+Capecitabine,CCCCCOC(=O)Nc1nc(=O)n(C2OC(C)C(O)C2O)cc1F,structure_0242.png,coordinates_0242.npz,25,26
+Capreomycin,CC1NC(=O)C(N)CNC(=O)C(C2CCN=C(N)N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CNC(=O)CC(N)CCCN)NC1=O.NCCCC(N)CC(=O)NCC1NC(=O)C(CO)NC(=O)C(N)CNC(=O)C(C2CCN=C(N)N2)NC(=O)C(=CNC(N)=O)NC1=O,structure_0243.png,coordinates_0243.npz,93,95
+Capsaicin,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,structure_0244.png,coordinates_0244.npz,22,22
+Captodiame,CCCCSc1ccc(C(SCCN(C)C)c2ccccc2)cc1,structure_0245.png,coordinates_0245.npz,24,25
+Captopril,CC(CS)C(=O)N1CCCC1C(=O)O,structure_0246.png,coordinates_0246.npz,14,14
+Carbamazepine,NC(=O)N1c2ccccc2C=Cc2ccccc21,structure_0247.png,coordinates_0247.npz,18,20
+Carbamoylcholine,C[N+](C)(C)CCOC(N)=O,structure_0248.png,coordinates_0248.npz,10,9
+Carbenicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O,structure_0249.png,coordinates_0249.npz,26,28
+Carbetocin,CCC(C)C1NC(=O)C(Cc2ccc(OC)cc2)NC(=O)CCCSCC(C(=O)N2CCCC2C(=O)NC(CC(C)C)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(CCC(N)=O)NC1=O,structure_0250.png,coordinates_0250.npz,69,71
+Carbidopa,CC(Cc1ccc(O)c(O)c1)(NN)C(=O)O,structure_0251.png,coordinates_0251.npz,16,16
+Carbimazole,CCOC(=O)n1ccn(C)c1=S,structure_0252.png,coordinates_0252.npz,12,12
+Carbinoxamine,CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1,structure_0253.png,coordinates_0253.npz,20,21
+Carbocisteine,NC(CSCC(=O)O)C(=O)O,structure_0254.png,coordinates_0254.npz,11,10
+Carboplatin,O=C(O)C1(C(=O)O)CCC1.[NH2-].[NH2-].[Pt+2],structure_0255.png,coordinates_0255.npz,13,10
+Carboprost tromethamine,CCCCCC(C)(O)C=CC1C(O)CC(O)C1CC=CCCCC(=O)O.NC(CO)(CO)CO,structure_0256.png,coordinates_0256.npz,34,33
+Carfilzomib,CC(C)CC(NC(=O)C(CCc1ccccc1)NC(=O)CN1CCOCC1)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(C)C)C(=O)C1(C)CO1,structure_0257.png,coordinates_0257.npz,52,55
+Cariprazine,CN(C)C(=O)NC1CCC(CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1,structure_0258.png,coordinates_0258.npz,28,30
+Carisoprodol,CCCC(C)(COC(N)=O)COC(=O)NC(C)C,structure_0259.png,coordinates_0259.npz,18,17
+Carmustine,O=NN(CCCl)C(=O)NCCCl,structure_0260.png,coordinates_0260.npz,12,11
+Carprofen,CC(C(=O)O)c1ccc2c(c1)[nH]c1ccc(Cl)cc12,structure_0261.png,coordinates_0261.npz,19,21
+Carteolol,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2,structure_0262.png,coordinates_0262.npz,21,22
+Carvedilol,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,structure_0263.png,coordinates_0263.npz,30,33
+Caspofungin,CCC(C)CC(C)CCCCCCCCC(=O)NC1CC(O)C(NCCN)NC(=O)C2C(O)CCN2C(=O)C(C(O)CCN)NC(=O)C(C(O)C(O)c2ccc(O)cc2)NC(=O)C2CC(O)CN2C(=O)C(C(C)O)NC1=O,structure_0264.png,coordinates_0264.npz,77,80
+Cefacetrile,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)CC#N)C2SC1,structure_0265.png,coordinates_0265.npz,23,24
+Cefaclor,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CSC12)c1ccccc1,structure_0266.png,coordinates_0266.npz,24,26
+Cefadroxil,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccc(O)cc3)C2SC1,structure_0267.png,coordinates_0267.npz,25,27
+Cefaloridine,O=C(Cc1cccs1)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12,structure_0268.png,coordinates_0268.npz,28,31
+Cefalotin,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3cccs3)C2SC1,structure_0269.png,coordinates_0269.npz,26,28
+Cefamandole,Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(O)c3ccccc3)C2SC1,structure_0270.png,coordinates_0270.npz,31,34
+Cefapirin,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)CSc3ccncc3)C2SC1,structure_0271.png,coordinates_0271.npz,28,30
+Cefazolin,Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1,structure_0272.png,coordinates_0272.npz,29,32
+Cefdinir,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NO)c3csc(N)n3)C2SC1,structure_0273.png,coordinates_0273.npz,26,28
+Cefditoren,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C=Cc3scnc3C)CSC12)c1csc(N)n1,structure_0274.png,coordinates_0274.npz,33,36
+Cefepime,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1,structure_0275.png,coordinates_0275.npz,32,35
+Cefixime,C=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOCC(=O)O)c3csc(N)n3)C2SC1,structure_0276.png,coordinates_0276.npz,30,32
+Cefmenoxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC12)c1csc(N)n1,structure_0277.png,coordinates_0277.npz,33,36
+Cefmetazole,COC1(NC(=O)CSCC#N)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,structure_0278.png,coordinates_0278.npz,30,32
+Cefonicid,O=C(O)C1=C(CSc2nnnn2CS(=O)(=O)O)CSC2C(NC(=O)C(O)c3ccccc3)C(=O)N12,structure_0279.png,coordinates_0279.npz,35,38
+Cefoperazone,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CSC23)c2ccc(O)cc2)C(=O)C1=O,structure_0280.png,coordinates_0280.npz,44,48
+Ceforanide,NCc1ccccc1CC(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3CC(=O)O)CSC12,structure_0281.png,coordinates_0281.npz,35,38
+Cefotaxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1csc(N)n1,structure_0282.png,coordinates_0282.npz,30,32
+Cefotetan,COC1(NC(=O)C2SC(=C(C(N)=O)C(=O)O)S2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,structure_0283.png,coordinates_0283.npz,36,39
+Cefotiam,CN(C)CCn1nnnc1SCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3csc(N)n3)C2SC1,structure_0284.png,coordinates_0284.npz,34,37
+Cefoxitin,COC1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC21,structure_0285.png,coordinates_0285.npz,28,30
+Cefpiramide,Cc1cc(=O)c(C(=O)NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CSC23)c2ccc(O)cc2)c[nH]1,structure_0286.png,coordinates_0286.npz,42,46
+Cefpodoxime,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1,structure_0287.png,coordinates_0287.npz,28,30
+Cefprozil,CC=CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccc(O)cc3)C2SC1,structure_0288.png,coordinates_0288.npz,27,29
+Cefradine,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)C3=CCC=CC3)C2SC1,structure_0289.png,coordinates_0289.npz,24,26
+Ceftazidime,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O,structure_0290.png,coordinates_0290.npz,37,40
+Ceftibuten,Nc1nc(C(=CCC(=O)O)C(=O)NC2C(=O)N3C(C(=O)O)=CCSC23)cs1,structure_0291.png,coordinates_0291.npz,27,29
+Ceftizoxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=CCSC12)c1csc(N)n1,structure_0292.png,coordinates_0292.npz,25,27
+Ceftobiprole,Nc1nc(C(=NO)C(=O)NC2C(=O)N3C(C(=O)O)=C(C=C4CCN(C5CCNC5)C4=O)CSC23)ns1,structure_0293.png,coordinates_0293.npz,36,40
+Ceftriaxone,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CSC12)c1csc(N)n1,structure_0294.png,coordinates_0294.npz,36,39
+Cefuroxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1,structure_0295.png,coordinates_0295.npz,29,31
+Celecoxib,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,structure_0296.png,coordinates_0296.npz,26,28
+Celiprolol,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1,structure_0297.png,coordinates_0297.npz,27,27
+Cephalexin,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1,structure_0298.png,coordinates_0298.npz,24,26
+Cephaloglycin,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1,structure_0299.png,coordinates_0299.npz,28,30
+Ceritinib,Cc1cc(Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)c(OC(C)C)cc1C1CCNCC1,structure_0300.png,coordinates_0300.npz,38,41
+Cerulenin,CC=CCC=CCCC(=O)C1OC1C(N)=O,structure_0301.png,coordinates_0301.npz,16,16
+Cetirizine,O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,structure_0302.png,coordinates_0302.npz,27,29
+Cevimeline,CC1OC2(CS1)CN1CCC2CC1,structure_0303.png,coordinates_0303.npz,13,15
+Chenodeoxycholic acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,structure_0304.png,coordinates_0304.npz,28,31
+Chloral hydrate,OC(O)C(Cl)(Cl)Cl,structure_0305.png,coordinates_0305.npz,7,6
+Chlorambucil,O=C(O)CCCc1ccc(N(CCCl)CCCl)cc1,structure_0306.png,coordinates_0306.npz,19,19
+Chloramphenicol,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,structure_0307.png,coordinates_0307.npz,20,20
+Chlordiazepoxide,CN=C1CN(O)C(c2ccccc2)=c2cc(Cl)ccc2=N1,structure_0308.png,coordinates_0308.npz,21,23
+Chlormezanone,CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1,structure_0309.png,coordinates_0309.npz,17,18
+Chloroprocaine,CCN(CC)CCOC(=O)c1ccc(N)cc1Cl,structure_0310.png,coordinates_0310.npz,18,18
+Chloropyramine,CN(C)CCN(Cc1ccc(Cl)cc1)c1ccccn1,structure_0311.png,coordinates_0311.npz,20,21
+Chloroquine,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,structure_0312.png,coordinates_0312.npz,22,23
+Chlorothiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC=NS2(=O)=O,structure_0313.png,coordinates_0313.npz,17,18
+Chloroxine,Oc1c(Cl)cc(Cl)c2cccnc12,structure_0314.png,coordinates_0314.npz,13,14
+Chloroxylenol,Cc1cc(O)cc(C)c1Cl,structure_0315.png,coordinates_0315.npz,10,10
+Chlorphenesin,OCC(O)COc1ccc(Cl)cc1,structure_0316.png,coordinates_0316.npz,13,13
+Chlorpheniramine,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,structure_0317.png,coordinates_0317.npz,19,20
+Chlorpromazine,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,structure_0318.png,coordinates_0318.npz,21,23
+Chlorpropamide,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,structure_0319.png,coordinates_0319.npz,17,17
+Chlorprothixene,CN(C)CCC=C1c2ccccc2Sc2ccc(Cl)cc21,structure_0320.png,coordinates_0320.npz,21,23
+Chlortetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12,structure_0321.png,coordinates_0321.npz,33,36
+Chlorthalidone,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,structure_0322.png,coordinates_0322.npz,22,24
+Chlorzoxazone,O=c1[nH]c2cc(Cl)ccc2o1,structure_0323.png,coordinates_0323.npz,11,12
+Cholecalciferol,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)CCCC(C)C,structure_0324.png,coordinates_0324.npz,28,30
+Cholic Acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,structure_0325.png,coordinates_0325.npz,29,32
+Choline,C[N+](C)(C)CCO,structure_0326.png,coordinates_0326.npz,7,6
+Choline C 11,C[N+](C)(C)CCO,structure_0327.png,coordinates_0327.npz,7,6
+Choline magnesium trisalicylate,C[N+](C)(C)CCO.O=C(O)c1ccccc1[O-].O=C(O)c1ccccc1[O-].O=C(O)c1ccccc1[O-].[Mg+2],structure_0328.png,coordinates_0328.npz,38,36
+Chromium,[Cr],structure_0329.png,coordinates_0329.npz,1,0
+Ciclesonide,CC(C)C(=O)OCC(=O)C12OC(C3CCCCC3)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,structure_0330.png,coordinates_0330.npz,39,44
+Ciclopirox,Cc1cc(C2CCCCC2)n(O)c(=O)c1,structure_0331.png,coordinates_0331.npz,15,16
+Cidofovir,Nc1ccn(CC(CO)OCP(=O)(O)O)c(=O)n1,structure_0332.png,coordinates_0332.npz,18,18
+Cilastatin,CC1(C)CC1C(=O)NC(=CCCCCSCC(N)C(=O)O)C(=O)O,structure_0333.png,coordinates_0333.npz,24,24
+Cilazapril,CCOC(=O)C(CCc1ccccc1)NC1CCCN2CCCC(C(=O)O)N2C1=O,structure_0334.png,coordinates_0334.npz,30,32
+Cilnidipine,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC=Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,structure_0335.png,coordinates_0335.npz,36,38
+Cilostazol,O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1,structure_0336.png,coordinates_0336.npz,27,30
+Cimetidine,CN=C(NC#N)NCCSCc1nc[nH]c1C,structure_0337.png,coordinates_0337.npz,17,17
+Cinacalcet,CC(NCCCc1cccc(C(F)(F)F)c1)c1cccc2ccccc12,structure_0338.png,coordinates_0338.npz,26,28
+Cinchocaine,CCCCOc1cc(C(=O)NCCN(CC)CC)c2ccccc2n1,structure_0339.png,coordinates_0339.npz,25,26
+Cinnarizine,C(=Cc1ccccc1)CN1CCN(C(c2ccccc2)c2ccccc2)CC1,structure_0340.png,coordinates_0340.npz,28,31
+Cinoxacin,CCn1nc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,structure_0341.png,coordinates_0341.npz,19,21
+Ciprofloxacin,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O,structure_0342.png,coordinates_0342.npz,24,27
+Cisapride,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC,structure_0343.png,coordinates_0343.npz,32,34
+Cisatracurium,COc1ccc(CC2c3cc(OC)c(OC)cc3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCc3cc(OC)c(OC)cc3C2Cc2ccc(OC)c(OC)c2)cc1OC,structure_0344.png,coordinates_0344.npz,67,72
+Cisplatin,N.N.[Cl][Pt][Cl],structure_0345.png,coordinates_0345.npz,5,2
+Citalopram,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,structure_0346.png,coordinates_0346.npz,24,26
+Citric acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,structure_0347.png,coordinates_0347.npz,13,12
+Cladribine,Nc1nc(Cl)nc2c1ncn2C1CC(O)C(CO)O1,structure_0348.png,coordinates_0348.npz,19,21
+Clarithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,structure_0349.png,coordinates_0349.npz,52,54
+Clavulanic acid,O=C(O)C1C(=CCO)OC2CC(=O)N21,structure_0350.png,coordinates_0350.npz,14,15
+Clemastine,CN1CCCC1CCOC(C)(c1ccccc1)c1ccc(Cl)cc1,structure_0351.png,coordinates_0351.npz,24,26
+Clenbuterol,CC(C)(C)NCC(O)c1cc(Cl)c(N)c(Cl)c1,structure_0352.png,coordinates_0352.npz,17,17
+Clevidipine,CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,structure_0353.png,coordinates_0353.npz,30,31
+Clidinium,C[N+]12CCC(CC1)C(OC(=O)C(O)(c1ccccc1)c1ccccc1)C2,structure_0354.png,coordinates_0354.npz,26,29
+Clindamycin,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,structure_0355.png,coordinates_0355.npz,27,28
+Clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,structure_0356.png,coordinates_0356.npz,21,23
+Clobetasol propionate,CCC(=O)OC1(C(=O)CCl)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,structure_0357.png,coordinates_0357.npz,32,35
+Clobetasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(=O)CC2(C)C1(O)C(=O)CCl,structure_0358.png,coordinates_0358.npz,28,31
+Clocortolone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1C(=O)CO,structure_0359.png,coordinates_0359.npz,28,31
+Clodronic acid,O=P(O)(O)C(Cl)(Cl)P(=O)(O)O,structure_0360.png,coordinates_0360.npz,11,10
+Clofarabine,Nc1nc(Cl)nc2c1ncn2C1OC(CO)C(O)C1F,structure_0361.png,coordinates_0361.npz,20,22
+Clofazimine,CC(C)N=c1cc2n(-c3ccc(Cl)cc3)c3ccccc3nc-2cc1Nc1ccc(Cl)cc1,structure_0362.png,coordinates_0362.npz,33,37
+Clofibrate,CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1,structure_0363.png,coordinates_0363.npz,16,16
+Clomifene,CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,structure_0364.png,coordinates_0364.npz,29,31
+Clomipramine,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,structure_0365.png,coordinates_0365.npz,22,24
+Clomocycline,CN(C)C1C(=O)C(C(=O)NCO)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(C)(O)C3CC12,structure_0366.png,coordinates_0366.npz,35,38
+Clonazepam,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,structure_0367.png,coordinates_0367.npz,22,24
+Clonidine,Clc1cccc(Cl)c1NC1=NCCN1,structure_0368.png,coordinates_0368.npz,14,15
+Clonixin,Cc1c(Cl)cccc1Nc1ncccc1C(=O)O,structure_0369.png,coordinates_0369.npz,18,19
+Clopidogrel,COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1,structure_0370.png,coordinates_0370.npz,21,23
+Clorazepic acid,O=C(O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O,structure_0371.png,coordinates_0371.npz,22,24
+Clotiazepam,CCc1cc2c(s1)N(C)C(=O)CN=C2c1ccccc1Cl,structure_0372.png,coordinates_0372.npz,21,23
+Clotrimazole,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,structure_0373.png,coordinates_0373.npz,25,28
+Cloxacillin,Cc1onc(-c2ccccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,structure_0374.png,coordinates_0374.npz,29,32
+Cloxazolam,O=C1CN2CCOC2(c2ccccc2Cl)c2cc(Cl)ccc2N1,structure_0375.png,coordinates_0375.npz,23,26
+Clozapine,CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1,structure_0376.png,coordinates_0376.npz,23,26
+Cobicistat,CC(C)c1nc(CN(C)C(=O)NC(CCN2CCOCC2)C(=O)NC(CCC(Cc2ccccc2)NC(=O)OCc2cncs2)Cc2ccccc2)cs1,structure_0377.png,coordinates_0377.npz,54,58
+Cobimetinib,O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1,structure_0378.png,coordinates_0378.npz,30,33
+Cocaine,COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,structure_0379.png,coordinates_0379.npz,22,24
+Codeine,COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,structure_0380.png,coordinates_0380.npz,22,26
+Colchicine,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,structure_0381.png,coordinates_0381.npz,29,31
+Colistin,CCC(C)CCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,structure_0382.png,coordinates_0382.npz,81,81
+Conivaptan,Cc1nc2c([nH]1)CCN(C(=O)c1ccc(NC(=O)c3ccccc3-c3ccccc3)cc1)c1ccccc1-2,structure_0383.png,coordinates_0383.npz,38,43
+Copanlisib,COc1c(OCCCN2CCOCC2)ccc2c3n(c(=NC(=O)c4cnc(N)nc4)nc12)CCN3,structure_0384.png,coordinates_0384.npz,35,39
+Copper,[Cu],structure_0385.png,coordinates_0385.npz,1,0
+Corticorelin ovine triflutate,CCC(C)C(NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(N)=O)NC(=O)C(CO)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(C)NC(=O)C(CCC(N)=O)NC(=O)C(CCC(N)=O)NC(=O)C(C)NC(=O)C(CC(C)C)NC(=O)C(CCC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(NC(=O)C(CCSC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(CCC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(NC(=O)C1CCCN1C(=O)C1CCCN1C(=O)C(CCC(=O)O)NC(=O)C(CCC(N)=O)NC(=O)C(N)CO)C(C)CC)C(C)O)C(C)C)C(C)O)C(=O)NC(C)C(N)=O,structure_0386.png,coordinates_0386.npz,328,332
+Cortisone acetate,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(=O)CC21C,structure_0387.png,coordinates_0387.npz,29,32
+Crisaborole,N#Cc1ccc(Oc2ccc3c(c2)COB3O)cc1,structure_0388.png,coordinates_0388.npz,19,21
+Crizotinib,CC(Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,structure_0389.png,coordinates_0389.npz,30,33
+Cyamemazine,CC(CN(C)C)CN1c2ccccc2Sc2ccc(C#N)cc21,structure_0390.png,coordinates_0390.npz,23,25
+Cyanocobalamin,CC1=C2N=C(C=C3NC(=C(C)C4=NC(C)(C5N=C1C(C)(CCC(=O)NCC(C)OP(=O)(O)OC1C(CO)OC([n+]6c[nH]c7cc(C)c(C)cc76)C1O)C5CC(N)=O)C(C)(CC(N)=O)C4CCC(=N)[O-])C(C)(CC(N)=O)C3CCC(=N)[O-])C(C)(C)C2CCC(=N)[O-].[C]#N.[Co+2],structure_0391.png,coordinates_0391.npz,93,98
+Cyclacillin,CC1(C)SC2C(NC(=O)C3(N)CCCCC3)C(=O)N2C1C(=O)O,structure_0392.png,coordinates_0392.npz,23,25
+Cyclizine,CN1CCN(C(c2ccccc2)c2ccccc2)CC1,structure_0393.png,coordinates_0393.npz,20,22
+Cyclobenzaprine,CN(C)CCC=C1c2ccccc2C=Cc2ccccc21,structure_0394.png,coordinates_0394.npz,21,23
+Cyclopentolate,CN(C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1,structure_0395.png,coordinates_0395.npz,21,22
+Cyclophosphamide,O=P1(N(CCCl)CCCl)NCCCO1,structure_0396.png,coordinates_0396.npz,14,14
+Cycloserine,NC1CONC1=O,structure_0397.png,coordinates_0397.npz,7,7
+Cyclosporine,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,structure_0398.png,coordinates_0398.npz,85,85
+Cyclothiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC(C1CC3C=CC1C3)NS2(=O)=O,structure_0399.png,coordinates_0399.npz,24,27
+Cyproheptadine,CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1,structure_0400.png,coordinates_0400.npz,22,25
+Cyproterone acetate,CC(=O)OC1(C(C)=O)CCC2C3C=C(Cl)C4=CC(=O)C5CC5C4(C)C3CCC21C,structure_0401.png,coordinates_0401.npz,29,33
+Cysteamine,NCCS,structure_0402.png,coordinates_0402.npz,4,3
+Cytarabine,Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1,structure_0403.png,coordinates_0403.npz,17,18
+Dabigatran etexilate,CCCCCCOC(=O)NC(=N)c1ccc(NCc2nc3cc(C(=O)N(CCC(=O)OCC)c4ccccn4)ccc3n2C)cc1,structure_0404.png,coordinates_0404.npz,46,49
+Dabrafenib,CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1,structure_0405.png,coordinates_0405.npz,35,38
+Dacarbazine,CN(C)N=Nc1nc[nH]c1C(N)=O,structure_0406.png,coordinates_0406.npz,13,13
+Daclatasvir,COC(=O)NC(C(=O)N1CCCC1c1ncc(-c2ccc(-c3ccc(-c4cnc(C5CCCN5C(=O)C(NC(=O)OC)C(C)C)[nH]4)cc3)cc2)[nH]1)C(C)C,structure_0407.png,coordinates_0407.npz,54,59
+Dactinomycin,Cc1c2oc3c(C)ccc(C(=O)NC4C(=O)NC(C(C)C)C(=O)N5CCCC5C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC4C)c3nc-2c(C(=O)NC2C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c(N)c1=O,structure_0408.png,coordinates_0408.npz,90,96
+Dalfampridine,Nc1ccncc1,structure_0409.png,coordinates_0409.npz,7,7
+Dalfopristin,CCN(CC)CCS(=O)(=O)C1CCN2C(=O)c3coc(n3)CC(=O)CC(O)C=C(C)C=CCNC(=O)C=CC(C)C(C(C)C)OC(=O)C12,structure_0410.png,coordinates_0410.npz,48,50
+Danazol,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,structure_0411.png,coordinates_0411.npz,25,29
+Dantrolene,O=C1CN(N=Cc2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1,structure_0412.png,coordinates_0412.npz,23,25
+Dapagliflozin,CCOc1ccc(Cc2cc(C3OC(CO)C(O)C(O)C3O)ccc2Cl)cc1,structure_0413.png,coordinates_0413.npz,28,30
+Dapiprazole,Cc1ccccc1N1CCN(CCc2nnc3n2CCCC3)CC1,structure_0414.png,coordinates_0414.npz,24,27
+Dapsone,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,structure_0415.png,coordinates_0415.npz,17,18
+Daptomycin,CCCCCCCCCC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC1C(=O)NCC(=O)NC(CCCN)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CO)C(=O)NC(C(C)CC(=O)O)C(=O)NC(CC(=O)c2ccccc2N)C(=O)OC1C,structure_0416.png,coordinates_0416.npz,115,118
+Darifenacin,NC(=O)C(c1ccccc1)(c1ccccc1)C1CCN(CCc2ccc3c(c2)CCO3)C1,structure_0417.png,coordinates_0417.npz,32,36
+Darunavir,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1,structure_0418.png,coordinates_0418.npz,38,41
+Dasabuvir,COc1c(-c2ccc3cc(NS(C)(=O)=O)ccc3c2)cc(-n2ccc(=O)[nH]c2=O)cc1C(C)(C)C,structure_0419.png,coordinates_0419.npz,35,38
+Dasatinib,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,structure_0420.png,coordinates_0420.npz,33,36
+Daunorubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(C)=O)CC3OC1CC(N)C(O)C(C)O1,structure_0421.png,coordinates_0421.npz,38,42
+Debrisoquine,N=C(N)N1CCc2ccccc2C1,structure_0422.png,coordinates_0422.npz,13,14
+Decamethonium,C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C,structure_0423.png,coordinates_0423.npz,18,17
+Decitabine,Nc1ncn(C2CC(O)C(CO)O2)c(=O)n1,structure_0424.png,coordinates_0424.npz,16,17
+Deferasirox,O=C(O)c1ccc(-n2nc(-c3ccccc3O)nc2-c2ccccc2O)cc1,structure_0425.png,coordinates_0425.npz,28,31
+Deferiprone,Cc1c(O)c(=O)ccn1C,structure_0426.png,coordinates_0426.npz,10,10
+Deferoxamine,CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN,structure_0427.png,coordinates_0427.npz,39,38
+Deflazacort,CC(=O)OCC(=O)C12N=C(C)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,structure_0428.png,coordinates_0428.npz,32,36
+Degarelix,CC(=O)NC(Cc1ccc2ccccc2c1)C(=O)NC(Cc1ccc(Cl)cc1)C(=O)NC(Cc1cccnc1)C(=O)NC(CO)C(=O)NC(Cc1ccc(NC(=O)C2CC(=O)NC(=O)N2)cc1)C(=O)NC(Cc1ccc(NC(N)=O)cc1)C(=O)NC(CC(C)C)C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(N)=O,structure_0429.png,coordinates_0429.npz,117,124
+Delafloxacin,Nc1nc(-n2cc(C(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1F,structure_0430.png,coordinates_0430.npz,30,33
+Delavirdine,CC(C)Nc1cccnc1N1CCN(C(=O)c2cc3cc(NS(C)(=O)=O)ccc3[nH]2)CC1,structure_0431.png,coordinates_0431.npz,32,35
+Delorazepam,O=C1CN=C(c2ccccc2Cl)c2cc(Cl)ccc2N1,structure_0432.png,coordinates_0432.npz,20,22
+Demecarium,CN(CCCCCCCCCCN(C)C(=O)Oc1cccc([N+](C)(C)C)c1)C(=O)Oc1cccc([N+](C)(C)C)c1,structure_0433.png,coordinates_0433.npz,40,41
+Demeclocycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,structure_0434.png,coordinates_0434.npz,32,35
+Deoxycholic acid,CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C,structure_0435.png,coordinates_0435.npz,28,31
+Deserpidine,COC(=O)C1C2CC3c4[nH]c5ccccc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC,structure_0436.png,coordinates_0436.npz,42,47
+Desflurane,FC(F)OC(F)C(F)(F)F,structure_0437.png,coordinates_0437.npz,10,9
+Desipramine,CNCCCN1c2ccccc2CCc2ccccc21,structure_0438.png,coordinates_0438.npz,20,22
+Deslanoside,CC1OC(OC2CCC3(C)C(CCC4C3CC(O)C3(C)C(C5=CC(=O)OC5)CCC43O)C2)CC(O)C1OC1CC(O)C(OC2CC(O)C(OC3OC(CO)C(O)C(O)C3O)C(C)O2)C(C)O1,structure_0439.png,coordinates_0439.npz,66,74
+Desloratadine,Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1,structure_0440.png,coordinates_0440.npz,22,25
+Desmopressin,NC(=O)CCC1NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccc(O)cc2)NC(=O)CCSSCC(C(=O)N2CCCC2C(=O)NC(CCCN=C(N)N)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC1=O,structure_0441.png,coordinates_0441.npz,74,77
+Desogestrel,C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,structure_0442.png,coordinates_0442.npz,23,26
+Desonide,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,structure_0443.png,coordinates_0443.npz,30,34
+Desoximetasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1C(=O)CO,structure_0444.png,coordinates_0444.npz,27,30
+Desvenlafaxine,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1,structure_0445.png,coordinates_0445.npz,19,20
+Deutetrabenazine,COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,structure_0446.png,coordinates_0446.npz,23,25
+Dexamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,structure_0447.png,coordinates_0447.npz,28,31
+Dexbrompheniramine,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1,structure_0448.png,coordinates_0448.npz,19,20
+Dexchlorpheniramine maleate,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1.O=C(O)C=CC(=O)O,structure_0449.png,coordinates_0449.npz,27,27
+Dexfenfluramine,CCNC(C)Cc1cccc(C(F)(F)F)c1,structure_0450.png,coordinates_0450.npz,16,16
+Dexketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,structure_0451.png,coordinates_0451.npz,19,20
+Dexlansoprazole,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1,structure_0452.png,coordinates_0452.npz,25,27
+Dexmedetomidine,Cc1cccc(C(C)c2cnc[nH]2)c1C,structure_0453.png,coordinates_0453.npz,15,16
+Dexmethylphenidate,COC(=O)C(c1ccccc1)C1CCCCN1,structure_0454.png,coordinates_0454.npz,17,18
+Dexrazoxane,CC(CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1,structure_0455.png,coordinates_0455.npz,19,20
+Dextroamphetamine,CC(N)Cc1ccccc1,structure_0456.png,coordinates_0456.npz,10,10
+Dextromethorphan,COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3,structure_0457.png,coordinates_0457.npz,20,23
+Dextropropoxyphene,CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C,structure_0458.png,coordinates_0458.npz,25,26
+Dezocine,CC12CCCCCC(Cc3ccc(O)cc31)C2N,structure_0459.png,coordinates_0459.npz,18,20
+Diacerein,CC(=O)Oc1cccc2c1C(=O)c1c(OC(C)=O)cc(C(=O)O)cc1C2=O,structure_0460.png,coordinates_0460.npz,27,29
+Diamorphine,CC(=O)Oc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341,structure_0461.png,coordinates_0461.npz,27,31
+Diatrizoate,CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I,structure_0462.png,coordinates_0462.npz,20,20
+Diazepam,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,structure_0463.png,coordinates_0463.npz,20,22
+Diazoxide,CC1=NS(=O)(=O)c2cc(Cl)ccc2N1,structure_0464.png,coordinates_0464.npz,14,15
+Diclofenac,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,structure_0465.png,coordinates_0465.npz,19,20
+Diclofenamide,NS(=O)(=O)c1cc(Cl)c(Cl)c(S(N)(=O)=O)c1,structure_0466.png,coordinates_0466.npz,16,16
+Dicloxacillin,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,structure_0467.png,coordinates_0467.npz,30,33
+Dicoumarol,O=c1oc2ccccc2c(O)c1Cc1c(O)c2ccccc2oc1=O,structure_0468.png,coordinates_0468.npz,25,28
+Dicyclomine,CCN(CC)CCOC(=O)C1(C2CCCCC2)CCCCC1,structure_0469.png,coordinates_0469.npz,22,23
+Didanosine,O=c1[nH]cnc2c1ncn2C1CCC(CO)O1,structure_0470.png,coordinates_0470.npz,17,19
+Dienestrol,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,structure_0471.png,coordinates_0471.npz,20,21
+Dienogest,CC12CCC3=C4CCC(=O)C=C4CCC3C1CCC2(O)CC#N,structure_0472.png,coordinates_0472.npz,23,26
+Diethylcarbamazine,CCN(CC)C(=O)N1CCN(C)CC1,structure_0473.png,coordinates_0473.npz,14,14
+Diethylpropion,CCN(CC)C(C)C(=O)c1ccccc1,structure_0474.png,coordinates_0474.npz,15,15
+Diethylstilbestrol,CCC(=C(CC)c1ccc(O)cc1)c1ccc(O)cc1,structure_0475.png,coordinates_0475.npz,20,21
+Difenoxin,N#CC(CCN1CCC(C(=O)O)(c2ccccc2)CC1)(c1ccccc1)c1ccccc1,structure_0476.png,coordinates_0476.npz,32,35
+Diflorasone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,structure_0477.png,coordinates_0477.npz,29,32
+Diflunisal,O=C(O)c1cc(-c2ccc(F)cc2F)ccc1O,structure_0478.png,coordinates_0478.npz,18,19
+Difluocortolone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1C(=O)CO,structure_0479.png,coordinates_0479.npz,28,31
+Difluprednate,CCCC(=O)OC1(C(=O)COC(C)=O)CCC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,structure_0480.png,coordinates_0480.npz,36,39
+Digitoxin,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,structure_0481.png,coordinates_0481.npz,54,61
+Digoxin,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,structure_0482.png,coordinates_0482.npz,55,62
+Dihydrocodeine,COc1ccc2c3c1OC1C(O)CCC4C(C2)N(C)CCC341,structure_0483.png,coordinates_0483.npz,22,26
+Dihydroergotamine,CN1CC(C(=O)NC2(C)OC3(O)C4CCCN4C(=O)C(Cc4ccccc4)N3C2=O)CC2c3cccc4[nH]cc(c34)CC21,structure_0484.png,coordinates_0484.npz,43,50
+Dihydrotachysterol,CC1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)C=CC(C)C(C)C,structure_0485.png,coordinates_0485.npz,29,31
+Diltiazem,COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1,structure_0486.png,coordinates_0486.npz,29,31
+Dimenhydrinate,CN(C)CCOC(c1ccccc1)c1ccccc1.Cn1c(=O)c2[nH]c(Cl)nc2n(C)c1=O,structure_0487.png,coordinates_0487.npz,33,35
+Dimercaprol,OCC(S)CS,structure_0488.png,coordinates_0488.npz,6,5
+Dimetacrine,CN(C)CCCN1c2ccccc2C(C)(C)c2ccccc21,structure_0489.png,coordinates_0489.npz,22,24
+Dimethyl fumarate,COC(=O)C=CC(=O)OC,structure_0490.png,coordinates_0490.npz,10,9
+Dimethyl sulfoxide,CS(C)=O,structure_0491.png,coordinates_0491.npz,4,3
+Dimetindene,CC(C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1,structure_0492.png,coordinates_0492.npz,22,24
+Dimetotiazine,CC(CN1c2ccccc2Sc2ccc(S(=O)(=O)N(C)C)cc21)N(C)C,structure_0493.png,coordinates_0493.npz,26,28
+Dinoprost tromethamine,CCCCCC(O)C=CC1C(O)CC(O)C1CC=CCCCC(=O)O.NC(CO)(CO)CO,structure_0494.png,coordinates_0494.npz,33,32
+Dinoprostone,CCCCCC(O)C=CC1C(O)CC(=O)C1CC=CCCCC(=O)O,structure_0495.png,coordinates_0495.npz,25,25
+Diphenhydramine,CN(C)CCOC(c1ccccc1)c1ccccc1,structure_0496.png,coordinates_0496.npz,19,20
+Diphenoxylate,CCOC(=O)C1(c2ccccc2)CCN(CCC(C#N)(c2ccccc2)c2ccccc2)CC1,structure_0497.png,coordinates_0497.npz,34,37
+Dipivefrin,CNCC(O)c1ccc(OC(=O)C(C)(C)C)c(OC(=O)C(C)(C)C)c1,structure_0498.png,coordinates_0498.npz,25,25
+Dipotassium phosphate,O=P([O-])([O-])O.[K+].[K+],structure_0499.png,coordinates_0499.npz,7,4
+Dipyridamole,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,structure_0500.png,coordinates_0500.npz,36,39
+Dirithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C2NC(COCCOC)OC(C2C)C1(C)O,structure_0501.png,coordinates_0501.npz,58,61
+Disopyramide,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C,structure_0502.png,coordinates_0502.npz,25,26
+Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,structure_0503.png,coordinates_0503.npz,16,15
+Ditazole,OCCN(CCO)c1nc(-c2ccccc2)c(-c2ccccc2)o1,structure_0504.png,coordinates_0504.npz,24,26
+Dobutamine,CC(CCc1ccc(O)cc1)NCCc1ccc(O)c(O)c1,structure_0505.png,coordinates_0505.npz,22,23
+Docetaxel,CC(=O)OC12COC1CC(O)C1(C)C(=O)C(O)C3=C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,structure_0506.png,coordinates_0506.npz,58,63
+Doconexent,CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,structure_0507.png,coordinates_0507.npz,24,23
+Dofetilide,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1,structure_0508.png,coordinates_0508.npz,29,30
+Dolasetron,O=C(OC1CC2CC3CC(C1)N2CC3=O)c1c[nH]c2ccccc12,structure_0509.png,coordinates_0509.npz,24,28
+Dolutegravir,CC1CCOC2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c(O)c3C(=O)N12,structure_0510.png,coordinates_0510.npz,30,33
+Domperidone,O=c1[nH]c2ccccc2n1CCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1,structure_0511.png,coordinates_0511.npz,30,34
+Donepezil,COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,structure_0512.png,coordinates_0512.npz,28,31
+Dopamine,NCCc1ccc(O)c(O)c1,structure_0513.png,coordinates_0513.npz,11,11
+Doripenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(CNS(N)(=O)=O)C3)C(C)C12,structure_0514.png,coordinates_0514.npz,27,29
+Dorzolamide,CCNC1CC(C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21,structure_0515.png,coordinates_0515.npz,19,20
+Dosulepin,CN(C)CCC=C1c2ccccc2CSc2ccccc21,structure_0516.png,coordinates_0516.npz,21,23
+Dotatate gallium Ga-68,CC(O)C(NC(=O)C1CSSCC(NC(=O)C(Cc2ccccc2)NC(=O)CN2CCN(CC(=O)[O-])CCN(CC(=O)[O-])CCN(CC(=O)[O-])CC2)C(=O)NC(Cc2ccc(O)cc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)N1)C(=O)O.[Ga+3],structure_0517.png,coordinates_0517.npz,101,105
+Doxacurium,COc1cc(CC2c3c(cc(OC)c(OC)c3OC)CC[N+]2(C)CCCOC(=O)CCC(=O)OCCC[N+]2(C)CCc3cc(OC)c(OC)c(OC)c3C2Cc2cc(OC)c(OC)c(OC)c2)cc(OC)c1OC,structure_0518.png,coordinates_0518.npz,74,79
+Doxapram,CCN1CC(CCN2CCOCC2)C(c2ccccc2)(c2ccccc2)C1=O,structure_0519.png,coordinates_0519.npz,28,31
+Doxazosin,COc1cc2nc(N3CCN(C(=O)C4COc5ccccc5O4)CC3)nc(N)c2cc1OC,structure_0520.png,coordinates_0520.npz,33,37
+Doxepin,CN(C)CCC=C1c2ccccc2COc2ccccc21,structure_0521.png,coordinates_0521.npz,21,23
+Doxercalciferol,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(C)C(C)C)CC(O)CC1O,structure_0522.png,coordinates_0522.npz,30,32
+Doxofylline,Cn1c(=O)c2c(ncn2CC2OCCO2)n(C)c1=O,structure_0523.png,coordinates_0523.npz,19,21
+Doxorubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1,structure_0524.png,coordinates_0524.npz,39,43
+Doxycycline,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21,structure_0525.png,coordinates_0525.npz,32,35
+Doxylamine,CN(C)CCOC(C)(c1ccccc1)c1ccccn1,structure_0526.png,coordinates_0526.npz,20,21
+Dronabinol,CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21,structure_0527.png,coordinates_0527.npz,23,25
+Dronedarone,CCCCc1oc2ccc(NS(C)(=O)=O)cc2c1C(=O)c1ccc(OCCCN(CCCC)CCCC)cc1,structure_0528.png,coordinates_0528.npz,39,41
+Droperidol,O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1,structure_0529.png,coordinates_0529.npz,28,31
+Drospirenone,CC12CCC(=O)C=C1C1CC1C1C2CCC2(C)C1C1CC1C21CCC(=O)O1,structure_0530.png,coordinates_0530.npz,27,33
+Droxicam,CN1c2c(oc(=O)n(-c3ccccn3)c2=O)-c2ccccc2S1(=O)=O,structure_0531.png,coordinates_0531.npz,25,28
+Droxidopa,NC(C(=O)O)C(O)c1ccc(O)c(O)c1,structure_0532.png,coordinates_0532.npz,15,15
+Duloxetine,CNCCC(Oc1cccc2ccccc12)c1cccs1,structure_0533.png,coordinates_0533.npz,21,23
+Dutasteride,CC12C=CC(=O)NC1CCC1C2CCC2(C)C(C(=O)Nc3cc(C(F)(F)F)ccc3C(F)(F)F)CCC12,structure_0534.png,coordinates_0534.npz,37,41
+Dyclonine,CCCCOc1ccc(C(=O)CCN2CCCCC2)cc1,structure_0535.png,coordinates_0535.npz,21,22
+Dydrogesterone,CC(=O)C1CCC2C3C=CC4=CC(=O)CCC4(C)C3CCC12C,structure_0536.png,coordinates_0536.npz,23,26
+Dyphylline,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O,structure_0537.png,coordinates_0537.npz,18,19
+Ecabet,CC(C)c1cc2c(cc1S(=O)(=O)O)C1(C)CCCC(C)(C(=O)O)C1CC2,structure_0538.png,coordinates_0538.npz,26,28
+Echothiophate,CCOP(=O)(OCC)SCC[N+](C)(C)C,structure_0539.png,coordinates_0539.npz,15,14
+Econazole,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,structure_0540.png,coordinates_0540.npz,24,26
+Edetic acid,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,structure_0541.png,coordinates_0541.npz,20,19
+Edoxaban,CN1CCc2nc(C(=O)NC3CC(C(=O)N(C)C)CCC3NC(=O)C(=O)Nc3ccc(Cl)cn3)sc2C1,structure_0542.png,coordinates_0542.npz,37,40
+Edrophonium,CC[N+](C)(C)c1cccc(O)c1,structure_0543.png,coordinates_0543.npz,12,12
+Efavirenz,O=C1Nc2ccc(Cl)cc2C(C#CC2CC2)(C(F)(F)F)O1,structure_0544.png,coordinates_0544.npz,21,23
+Efinaconazole,C=C1CCN(C(C)C(O)(Cn2cncn2)c2ccc(F)cc2F)CC1,structure_0545.png,coordinates_0545.npz,25,27
+Eflornithine,NCCCC(N)(C(=O)O)C(F)F,structure_0546.png,coordinates_0546.npz,12,11
+Efonidipine,CC1=C(C(=O)OCCN(Cc2ccccc2)c2ccccc2)C(c2cccc([N+](=O)[O-])c2)C(P2(=O)OCC(C)(C)CO2)=C(C)N1,structure_0547.png,coordinates_0547.npz,45,49
+Elbasvir,COC(=O)NC(C(=O)N1CCCC1c1ncc(-c2ccc3c(c2)OC(c2ccccc2)n2c-3cc3cc(-c4cnc(C5CCCN5C(=O)C(NC(=O)OC)C(C)C)[nH]4)ccc32)[nH]1)C(C)C,structure_0548.png,coordinates_0548.npz,65,73
+Eletriptan,CN1CCCC1Cc1c[nH]c2ccc(CCS(=O)(=O)c3ccccc3)cc12,structure_0549.png,coordinates_0549.npz,27,30
+Eliglustat,CCCCCCCC(=O)NC(CN1CCCC1)C(O)c1ccc2c(c1)OCCO2,structure_0550.png,coordinates_0550.npz,29,31
+Eltrombopag,Cc1ccc(-n2[nH]c(C)c(N=Nc3cccc(-c4cccc(C(=O)O)c4)c3O)c2=O)cc1C,structure_0551.png,coordinates_0551.npz,33,36
+Eluxadoline,COc1ccc(CN(C(=O)C(N)Cc2c(C)cc(C(N)=O)cc2C)C(C)c2ncc(-c3ccccc3)[nH]2)cc1C(=O)O,structure_0552.png,coordinates_0552.npz,42,45
+Elvitegravir,COc1cc2c(cc1Cc1cccc(Cl)c1F)c(=O)c(C(=O)O)cn2C(CO)C(C)C,structure_0553.png,coordinates_0553.npz,31,33
+Emedastine,CCOCCn1c(N2CCCN(C)CC2)nc2ccccc21,structure_0554.png,coordinates_0554.npz,22,24
+Empagliflozin,OCC1OC(c2ccc(Cl)c(Cc3ccc(OC4CCOC4)cc3)c2)C(O)C(O)C1O,structure_0555.png,coordinates_0555.npz,31,34
+Emtricitabine,Nc1nc(=O)n(C2CSC(CO)O2)cc1F,structure_0556.png,coordinates_0556.npz,16,17
+Enalapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O,structure_0557.png,coordinates_0557.npz,27,28
+Enalaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,structure_0558.png,coordinates_0558.npz,25,26
+Enasidenib,CC(C)(O)CNc1nc(Nc2ccnc(C(F)(F)F)c2)nc(-c2cccc(C(F)(F)F)n2)n1,structure_0559.png,coordinates_0559.npz,33,35
+Encainide,COc1ccc(C(=O)Nc2ccccc2CCC2CCCCN2C)cc1,structure_0560.png,coordinates_0560.npz,26,28
+Enflurane,FC(F)OC(F)(F)C(F)Cl,structure_0561.png,coordinates_0561.npz,10,9
+Enoxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21,structure_0562.png,coordinates_0562.npz,23,25
+Entacapone,CCN(CC)C(=O)C(C#N)=Cc1cc(O)c(O)c([N+](=O)[O-])c1,structure_0563.png,coordinates_0563.npz,22,22
+Entecavir,C=C1C(CO)C(O)CC1n1cnc2c(=O)[nH]c(N)nc21,structure_0564.png,coordinates_0564.npz,20,22
+Enviomycin,NCCC(O)C(N)CC(=O)NC1CNC(=O)C(C2CCNC(N)=N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CO)NC(=O)C(CO)NC1=O,structure_0565.png,coordinates_0565.npz,48,49
+Enzalutamide,CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,structure_0566.png,coordinates_0566.npz,32,34
+Eperisone,CCc1ccc(C(=O)C(C)CN2CCCCC2)cc1,structure_0567.png,coordinates_0567.npz,19,20
+Ephedrine,CNC(C)C(O)c1ccccc1,structure_0568.png,coordinates_0568.npz,12,12
+Epinastine,NC1=NCC2c3ccccc3Cc3ccccc3N12,structure_0569.png,coordinates_0569.npz,19,22
+Epinephrine,CNCC(O)c1ccc(O)c(O)c1,structure_0570.png,coordinates_0570.npz,13,13
+Epirizole,COc1cc(C)nc(-n2nc(C)cc2OC)n1,structure_0571.png,coordinates_0571.npz,17,18
+Epirubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1,structure_0572.png,coordinates_0572.npz,39,43
+Eplerenone,COC(=O)C1CC2=CC(=O)CCC2(C)C23OC2CC2(C)C(CCC24CCC(=O)O4)C13,structure_0573.png,coordinates_0573.npz,30,35
+Epoprostenol,CCCCCC(O)C=CC1C(O)CC2OC(=CCCCC(=O)O)CC21,structure_0574.png,coordinates_0574.npz,25,26
+Eprosartan,CCCCc1ncc(C=C(Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1,structure_0575.png,coordinates_0575.npz,30,32
+Equilin,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,structure_0576.png,coordinates_0576.npz,20,23
+Ergocalciferol,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)C=CC(C)C(C)C,structure_0577.png,coordinates_0577.npz,29,31
+Ergometrine,CC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,structure_0578.png,coordinates_0578.npz,24,27
+Ergotamine,CN1CC(C(=O)NC2(C)OC3(O)C4CCCN4C(=O)C(Cc4ccccc4)N3C2=O)C=C2c3cccc4[nH]cc(c34)CC21,structure_0579.png,coordinates_0579.npz,43,50
+Eribulin,C=C1CC2CCC34CC5OC6C(OC7CCC(CC(=O)CC8C(CC9OC(CCC1O2)CC(C)C9=C)OC(CC(O)CN)C8OC)OC7C6O3)C5O4,structure_0580.png,coordinates_0580.npz,52,60
+Erlotinib,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,structure_0581.png,coordinates_0581.npz,29,31
+Ertapenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)C(C)C12,structure_0582.png,coordinates_0582.npz,33,36
+Erythrityl tetranitrate,O=[N+]([O-])OCC(O[N+](=O)[O-])C(CO[N+](=O)[O-])O[N+](=O)[O-],structure_0583.png,coordinates_0583.npz,20,19
+Erythromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,structure_0584.png,coordinates_0584.npz,51,53
+Escitalopram,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,structure_0585.png,coordinates_0585.npz,24,26
+Eslicarbazepine acetate,CC(=O)OC1Cc2ccccc2N(C(N)=O)c2ccccc21,structure_0586.png,coordinates_0586.npz,22,24
+Esmolol,COC(=O)CCc1ccc(OCC(O)CNC(C)C)cc1,structure_0587.png,coordinates_0587.npz,21,21
+Esomeprazole,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,structure_0588.png,coordinates_0588.npz,24,26
+Estazolam,Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2,structure_0589.png,coordinates_0589.npz,21,24
+Estradiol,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O,structure_0590.png,coordinates_0590.npz,20,23
+Estramustine,CC12CCC3c4ccc(OC(=O)N(CCCl)CCCl)cc4CCC3C1CCC2O,structure_0591.png,coordinates_0591.npz,29,32
+Estriol,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,structure_0592.png,coordinates_0592.npz,21,24
+Estrone,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,structure_0593.png,coordinates_0593.npz,20,23
+Estrone sulfate,CC12CCC3c4ccc(OS(=O)(=O)O)cc4CCC3C1CCC2=O,structure_0594.png,coordinates_0594.npz,24,27
+Eszopiclone,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,structure_0595.png,coordinates_0595.npz,27,30
+Etacrynic acid,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl,structure_0596.png,coordinates_0596.npz,19,19
+Ethambutol,CCC(CO)NCCNC(CC)CO,structure_0597.png,coordinates_0597.npz,14,13
+Ethanol,CCO,structure_0598.png,coordinates_0598.npz,3,2
+Ethanolamine oleate,CCCCCCCCC=CCCCCCCCC(=O)O.NCCO,structure_0599.png,coordinates_0599.npz,24,22
+Ethchlorvynol,C#CC(O)(C=CCl)CC,structure_0600.png,coordinates_0600.npz,9,8
+Ethinylestradiol,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,structure_0601.png,coordinates_0601.npz,22,25
+Ethionamide,CCc1cc(C(N)=S)ccn1,structure_0602.png,coordinates_0602.npz,11,11
+Ethosuximide,CCC1(C)CC(=O)NC1=O,structure_0603.png,coordinates_0603.npz,10,10
+Ethotoin,CCN1C(=O)NC(c2ccccc2)C1=O,structure_0604.png,coordinates_0604.npz,15,16
+Ethyl loflazepate,CCOC(=O)C1N=C(c2ccccc2F)c2cc(Cl)ccc2NC1=O,structure_0605.png,coordinates_0605.npz,25,27
+Ethylmorphine,CCOc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,structure_0606.png,coordinates_0606.npz,23,27
+Ethynodiol diacetate,C#CC1(OC(C)=O)CCC2C3CCC4=CC(OC(C)=O)CCC4C3CCC21C,structure_0607.png,coordinates_0607.npz,28,31
+Etidocaine,CCCN(CC)C(CC)C(=O)Nc1c(C)cccc1C,structure_0608.png,coordinates_0608.npz,20,20
+Etidronic acid,CC(O)(P(=O)(O)O)P(=O)(O)O,structure_0609.png,coordinates_0609.npz,11,10
+Etizolam,CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,structure_0610.png,coordinates_0610.npz,23,26
+Etodolac,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3,structure_0611.png,coordinates_0611.npz,21,23
+Etofenamate,O=C(OCCOCCO)c1ccccc1Nc1cccc(C(F)(F)F)c1,structure_0612.png,coordinates_0612.npz,26,27
+Etofibrate,CC(C)(Oc1ccc(Cl)cc1)C(=O)OCCOC(=O)c1cccnc1,structure_0613.png,coordinates_0613.npz,25,26
+Etomidate,CCOC(=O)c1cncn1C(C)c1ccccc1,structure_0614.png,coordinates_0614.npz,18,19
+Etonogestrel,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3C(=C)CC21CC,structure_0615.png,coordinates_0615.npz,24,27
+Etoposide,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,structure_0616.png,coordinates_0616.npz,42,48
+Etoricoxib,Cc1ccc(-c2ncc(Cl)cc2-c2ccc(S(C)(=O)=O)cc2)cn1,structure_0617.png,coordinates_0617.npz,24,26
+Etravirine,Cc1cc(C#N)cc(C)c1Oc1nc(Nc2ccc(C#N)cc2)nc(N)c1Br,structure_0618.png,coordinates_0618.npz,28,30
+Everolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,structure_0619.png,coordinates_0619.npz,68,71
+Exemestane,C=C1CC2C(CCC3(C)C(=O)CCC23)C2(C)C=CC(=O)C=C12,structure_0620.png,coordinates_0620.npz,22,25
+Ezetimibe,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc(O)cc2)N1c1ccc(F)cc1,structure_0621.png,coordinates_0621.npz,30,33
+Ezogabine,CCOC(=O)Nc1ccc(NCc2ccc(F)cc2)cc1N,structure_0622.png,coordinates_0622.npz,22,23
+Famciclovir,CC(=O)OCC(CCn1cnc2cnc(N)nc21)COC(C)=O,structure_0623.png,coordinates_0623.npz,23,24
+Famotidine,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,structure_0624.png,coordinates_0624.npz,20,20
+Febuxostat,Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O,structure_0625.png,coordinates_0625.npz,22,23
+Felbamate,NC(=O)OCC(COC(N)=O)c1ccccc1,structure_0626.png,coordinates_0626.npz,17,17
+Felodipine,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,structure_0627.png,coordinates_0627.npz,25,26
+Fenbufen,O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1,structure_0628.png,coordinates_0628.npz,19,20
+Fencamfamin,CCNC1C2CCC(C2)C1c1ccccc1,structure_0629.png,coordinates_0629.npz,16,18
+Fenofibrate,CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,structure_0630.png,coordinates_0630.npz,25,26
+Fenofibric acid,CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)O,structure_0631.png,coordinates_0631.npz,22,23
+Fenoldopam,Oc1ccc(C2CNCCc3c2cc(O)c(O)c3Cl)cc1,structure_0632.png,coordinates_0632.npz,21,23
+Fenoprofen,CC(C(=O)O)c1cccc(Oc2ccccc2)c1,structure_0633.png,coordinates_0633.npz,18,19
+Fenoterol,CC(Cc1ccc(O)cc1)NCC(O)c1cc(O)cc(O)c1,structure_0634.png,coordinates_0634.npz,22,23
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,structure_0635.png,coordinates_0635.npz,25,27
+Ferric pyrophosphate,O=P([O-])([O-])OP(=O)([O-])[O-].O=P([O-])([O-])OP(=O)([O-])[O-].O=P([O-])([O-])OP(=O)([O-])[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3],structure_0636.png,coordinates_0636.npz,31,24
+Fesoterodine,CC(C)C(=O)Oc1ccc(CO)cc1C(CCN(C(C)C)C(C)C)c1ccccc1,structure_0637.png,coordinates_0637.npz,30,31
+Fexofenadine,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,structure_0638.png,coordinates_0638.npz,37,40
+Fidaxomicin,CCc1c(Cl)c(O)c(Cl)c(O)c1C(=O)OC1C(C)OC(OCC2=CC=CCC(O)C(C)=CC(CC)C(OC3OC(C)(C)C(OC(=O)C(C)C)C(O)C3O)C(C)=CC(C)=CCC(C(C)O)OC2=O)C(OC)C1O,structure_0639.png,coordinates_0639.npz,72,75
+Fimasartan,CCCCc1nc(C)c(CC(=S)N(C)C)c(=O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,structure_0640.png,coordinates_0640.npz,36,39
+Finafloxacin,N#Cc1c(N2CC3NCCOC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,structure_0641.png,coordinates_0641.npz,29,33
+Finasteride,CC(C)(C)NC(=O)C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C,structure_0642.png,coordinates_0642.npz,27,30
+Fingolimod,CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1,structure_0643.png,coordinates_0643.npz,22,22
+Flecainide,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F,structure_0644.png,coordinates_0644.npz,28,29
+Fleroxacin,CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(CCF)c3c2F)CC1,structure_0645.png,coordinates_0645.npz,26,28
+Flibanserin,O=c1[nH]c2ccccc2n1CCN1CCN(c2cccc(C(F)(F)F)c2)CC1,structure_0646.png,coordinates_0646.npz,28,31
+Floctafenine,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2c(C(F)(F)F)cccc12,structure_0647.png,coordinates_0647.npz,29,31
+Floxuridine,O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1F,structure_0648.png,coordinates_0648.npz,17,18
+Flubendazole,COC(=O)Nc1nc2ccc(C(=O)c3ccc(F)cc3)cc2[nH]1,structure_0649.png,coordinates_0649.npz,23,25
+Fluciclovine (18F),NC1(C(=O)O)CC(F)C1,structure_0650.png,coordinates_0650.npz,9,9
+Flucloxacillin,Cc1onc(-c2c(F)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,structure_0651.png,coordinates_0651.npz,30,33
+Fluconazole,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,structure_0652.png,coordinates_0652.npz,22,24
+Flucytosine,Nc1[nH]c(=O)ncc1F,structure_0653.png,coordinates_0653.npz,9,9
+Fludarabine,Nc1nc(F)nc2c1ncn2C1OC(CO)C(O)C1O,structure_0654.png,coordinates_0654.npz,20,22
+Fludiazepam,CN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,structure_0655.png,coordinates_0655.npz,21,23
+Fludrocortisone,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,structure_0656.png,coordinates_0656.npz,27,30
+Flumazenil,CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc1-2,structure_0657.png,coordinates_0657.npz,22,24
+Flumethasone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,structure_0658.png,coordinates_0658.npz,29,32
+Flunarizine,Fc1ccc(C(c2ccc(F)cc2)N2CCN(CC=Cc3ccccc3)CC2)cc1,structure_0659.png,coordinates_0659.npz,30,33
+Flunisolide,CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,structure_0660.png,coordinates_0660.npz,31,35
+Flunitrazepam,CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21,structure_0661.png,coordinates_0661.npz,23,25
+Fluocinolone acetonide,CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,structure_0662.png,coordinates_0662.npz,32,36
+Fluocinonide,CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,structure_0663.png,coordinates_0663.npz,35,39
+Fluocortolone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1C(=O)CO,structure_0664.png,coordinates_0664.npz,27,30
+Fluorometholone,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,structure_0665.png,coordinates_0665.npz,27,30
+Fluorouracil,O=c1[nH]cc(F)c(=O)[nH]1,structure_0666.png,coordinates_0666.npz,9,9
+Fluoxetine,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,structure_0667.png,coordinates_0667.npz,22,23
+Fluoxymesterone,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3(F)C(O)CC21C,structure_0668.png,coordinates_0668.npz,24,27
+Flupentixol,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,structure_0669.png,coordinates_0669.npz,30,33
+Fluphenazine,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,structure_0670.png,coordinates_0670.npz,30,33
+Fluprednidene,C=C1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,structure_0671.png,coordinates_0671.npz,28,31
+Flurandrenolide,CC1(C)OC2CC3C4CC(F)C5=CC(=O)CCC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,structure_0672.png,coordinates_0672.npz,31,35
+Flurazepam,CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,structure_0673.png,coordinates_0673.npz,27,29
+Flurbiprofen,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,structure_0674.png,coordinates_0674.npz,18,19
+Fluspirilene,O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2,structure_0675.png,coordinates_0675.npz,35,39
+Flutamide,CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,structure_0676.png,coordinates_0676.npz,19,19
+Fluticasone furoate,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(OC(=O)c1ccco1)C(=O)SCF,structure_0677.png,coordinates_0677.npz,37,41
+Fluticasone propionate,CCC(=O)OC1(C(=O)SCF)C(C)CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,structure_0678.png,coordinates_0678.npz,34,37
+Fluvastatin,CC(C)n1c(C=CC(O)CC(O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21,structure_0679.png,coordinates_0679.npz,30,32
+Fluvoxamine,COCCCCC(=NOCCN)c1ccc(C(F)(F)F)cc1,structure_0680.png,coordinates_0680.npz,22,22
+Folic acid,Nc1nc2ncc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)nc2c(=O)[nH]1,structure_0681.png,coordinates_0681.npz,32,34
+Fomepizole,Cc1cn[nH]c1,structure_0682.png,coordinates_0682.npz,6,6
+Fondaparinux,COC1OC(COS(=O)(=O)O)C(OC2OC(C(=O)O)C(OC3OC(COS(=O)(=O)O)C(OC4OC(C(=O)O)C(OC5OC(COS(=O)(=O)O)C(O)C(O)C5NS(=O)(=O)O)C(O)C4O)C(OS(=O)(=O)O)C3NS(=O)(=O)O)C(O)C2OS(=O)(=O)O)C(O)C1NS(=O)(=O)O,structure_0683.png,coordinates_0683.npz,91,95
+Formestane,CC12CCC3C(CCC4=C(O)C(=O)CCC43C)C1CCC2=O,structure_0684.png,coordinates_0684.npz,22,25
+Formoterol,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1,structure_0685.png,coordinates_0685.npz,25,26
+Fosamprenavir,CC(C)CN(CC(OP(=O)(O)O)C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1,structure_0686.png,coordinates_0686.npz,39,41
+Fosaprepitant,CC(OC1OCCN(Cc2nn(P(=O)(O)O)c(=O)[nH]2)C1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,structure_0687.png,coordinates_0687.npz,41,44
+Foscarnet,O=C(O)P(=O)(O)O,structure_0688.png,coordinates_0688.npz,7,6
+Fosfomycin,CC1OC1P(=O)(O)O,structure_0689.png,coordinates_0689.npz,8,8
+Fosinopril,CCC(=O)OC(OP(=O)(CCCCc1ccccc1)CC(=O)N1CC(C2CCCCC2)CC1C(=O)O)C(C)C,structure_0690.png,coordinates_0690.npz,39,41
+Fosphenytoin,O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1COP(=O)(O)O,structure_0691.png,coordinates_0691.npz,25,27
+Fospropofol,CC(C)c1cccc(C(C)C)c1OCOP(=O)(O)O,structure_0692.png,coordinates_0692.npz,19,19
+Framycetin,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CN)C(O)C(O)C3N)C2O)C(N)C(O)C1O,structure_0693.png,coordinates_0693.npz,42,45
+Frovatriptan,CNC1CCc2[nH]c3ccc(C(N)=O)cc3c2C1,structure_0694.png,coordinates_0694.npz,18,20
+Fulvestrant,CC12CCC3c4ccc(O)cc4CC(CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)C3C1CCC2O,structure_0695.png,coordinates_0695.npz,41,44
+Furazolidone,O=C1OCCN1N=Cc1ccc([N+](=O)[O-])o1,structure_0696.png,coordinates_0696.npz,16,17
+Furosemide,NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl,structure_0697.png,coordinates_0697.npz,21,22
+Fusafungine,CC(C)C1OC(=O)C(C(C)C)N(C)C(=O)C(C(C)C)OC(=O)C(C(C)C)N(C)C(=O)C(C(C)C)OC(=O)C(C(C)C)N(C)C1=O,structure_0698.png,coordinates_0698.npz,45,45
+Fusidic acid,CC(=O)OC1CC2(C)C(CC(O)C3C4(C)CCC(O)C(C)C4CCC32C)C1=C(CCC=C(C)C)C(=O)O,structure_0699.png,coordinates_0699.npz,37,40
+Gabapentin,NCC1(CC(=O)O)CCCCC1,structure_0700.png,coordinates_0700.npz,12,12
+Gabapentin enacarbil,CC(OC(=O)NCC1(CC(=O)O)CCCCC1)OC(=O)C(C)C,structure_0701.png,coordinates_0701.npz,23,23
+Gadobenic acid,O=C([O-])CN(CCN(CC(=O)[O-])CC(=O)[O-])CCN(CC(=O)[O-])C(COCc1ccccc1)C(=O)[O-].[Gd+3].[H+].[H+],structure_0702.png,coordinates_0702.npz,39,36
+Gadoxetic acid,CCOc1ccc(CC(CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])cc1.[Gd+3].[H+].[H+],structure_0703.png,coordinates_0703.npz,40,37
+Galantamine,COc1ccc2c3c1OC1CC(O)C=CC31CCN(C)C2,structure_0704.png,coordinates_0704.npz,21,24
+Gallamine triethiodide,CC[N+](CC)(CC)CCOc1cccc(OCC[N+](CC)(CC)CC)c1OCC[N+](CC)(CC)CC.[I-].[I-].[I-],structure_0705.png,coordinates_0705.npz,39,36
+Gallium nitrate,O=[N+]([O-])[O-].O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ga+3],structure_0706.png,coordinates_0706.npz,13,9
+gamma-Hydroxybutyric acid,O=C(O)CCCO,structure_0707.png,coordinates_0707.npz,7,6
+Ganciclovir,Nc1nc2c(ncn2COC(CO)CO)c(=O)[nH]1,structure_0708.png,coordinates_0708.npz,18,19
+Gatifloxacin,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,structure_0709.png,coordinates_0709.npz,27,30
+Gefitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,structure_0710.png,coordinates_0710.npz,31,34
+Gemcitabine,Nc1ccn(C2OC(CO)C(O)C2(F)F)c(=O)n1,structure_0711.png,coordinates_0711.npz,18,19
+Gemeprost,CCCCC(C)(C)C(O)C=CC1C(O)CC(=O)C1CCCCC=CC(=O)OC,structure_0712.png,coordinates_0712.npz,28,28
+Gemfibrozil,Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1,structure_0713.png,coordinates_0713.npz,18,18
+Gemifloxacin,CON=C1CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1CN,structure_0714.png,coordinates_0714.npz,28,31
+Gentamicin,CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(O)C(NC)C3O)C2O)O1,structure_0715.png,coordinates_0715.npz,33,35
+Gestodene,C#CC1(O)C=CC2C3CCC4=CC(=O)CCC4C3CCC21CC,structure_0716.png,coordinates_0716.npz,23,26
+Gestrinone,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C=CC21CC,structure_0717.png,coordinates_0717.npz,23,26
+Gimeracil,O=c1cc(O)c(Cl)c[nH]1,structure_0718.png,coordinates_0718.npz,9,9
+Glecaprevir,CC(C)(C)C1NC(=O)OC2CCCC2OCC=CC(F)(F)c2nc3ccccc3nc2OC2CC(C(=O)NC3(C(=O)NS(=O)(=O)C4(C)CC4)CC3C(F)F)N(C2)C1=O,structure_0719.png,coordinates_0719.npz,58,64
+Gliclazide,Cc1ccc(S(=O)(=O)NC(=O)NN2CC3CCCC3C2)cc1,structure_0720.png,coordinates_0720.npz,22,24
+Glimepiride,CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)C1=O,structure_0721.png,coordinates_0721.npz,34,36
+Glipizide,Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1,structure_0722.png,coordinates_0722.npz,31,33
+Gliquidone,COc1ccc2c(c1)C(=O)N(CCc1ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc1)C(=O)C2(C)C,structure_0723.png,coordinates_0723.npz,37,40
+Glisoxepide,Cc1cc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NN3CCCCCC3)cc2)no1,structure_0724.png,coordinates_0724.npz,31,33
+Glucosamine,NC1C(O)OC(CO)C(O)C1O,structure_0725.png,coordinates_0725.npz,12,12
+Glutamic acid,NC(CCC(=O)O)C(=O)O,structure_0726.png,coordinates_0726.npz,10,9
+Glutethimide,CCC1(c2ccccc2)CCC(=O)NC1=O,structure_0727.png,coordinates_0727.npz,16,17
+Glyburide,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,structure_0728.png,coordinates_0728.npz,33,35
+Glycerin,OCC(O)CO,structure_0729.png,coordinates_0729.npz,6,5
+Glycerol phenylbutyrate,O=C(CCCc1ccccc1)OCC(COC(=O)CCCc1ccccc1)OC(=O)CCCc1ccccc1,structure_0730.png,coordinates_0730.npz,39,41
+Glycopyrronium,C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)C1,structure_0731.png,coordinates_0731.npz,23,25
+Goserelin,CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(N)=O,structure_0732.png,coordinates_0732.npz,91,96
+Gramicidin D,CC(C)CC(NC(=O)CNC(=O)C(NC=O)C(C)C)C(=O)NC(C)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NCCO)C(C)C)C(C)C)C(C)C,structure_0733.png,coordinates_0733.npz,131,138
+Granisetron,CN1C2CCCC1CC(NC(=O)c1nn(C)c3ccccc13)C2,structure_0734.png,coordinates_0734.npz,23,26
+Grazoprevir,C=CC1CC1(NC(=O)C1CC2CN1C(=O)C(C(C)(C)C)NC(=O)OC1CC1CCCCCc1nc3ccc(OC)cc3nc1O2)C(=O)NS(=O)(=O)C1CC1,structure_0735.png,coordinates_0735.npz,54,60
+Griseofulvin,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,structure_0736.png,coordinates_0736.npz,24,26
+Guanabenz,NC(N)=NN=Cc1c(Cl)cccc1Cl,structure_0737.png,coordinates_0737.npz,14,14
+Guanadrel,NC(N)=NCC1COC2(CCCCC2)O1,structure_0738.png,coordinates_0738.npz,15,16
+Guanethidine,NC(N)=NCCN1CCCCCCC1,structure_0739.png,coordinates_0739.npz,14,14
+Guanfacine,NC(N)=NC(=O)Cc1c(Cl)cccc1Cl,structure_0740.png,coordinates_0740.npz,15,15
+Halazepam,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1CC(F)(F)F,structure_0741.png,coordinates_0741.npz,24,26
+Halcinonide,CC1(C)OC2CC3C4CCC5=CC(=O)CCC5(C)C4(F)C(O)CC3(C)C2(C(=O)CCl)O1,structure_0742.png,coordinates_0742.npz,31,35
+Halofantrine,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c2cc(C(F)(F)F)ccc12,structure_0743.png,coordinates_0743.npz,33,35
+Haloperidol,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,structure_0744.png,coordinates_0744.npz,26,28
+Haloprogin,Clc1cc(Cl)c(OCC#CI)cc1Cl,structure_0745.png,coordinates_0745.npz,14,14
+Halothane,FC(F)(F)C(Cl)Br,structure_0746.png,coordinates_0746.npz,7,6
+Hesperetin,COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O,structure_0747.png,coordinates_0747.npz,22,24
+Hexaminolevulinate,CCCCCCOC(=O)CCC(=O)CN,structure_0748.png,coordinates_0748.npz,15,14
+Hexetidine,CCCCC(CC)CN1CN(CC(CC)CCCC)CC(C)(N)C1,structure_0749.png,coordinates_0749.npz,24,24
+Hexobarbital,CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O,structure_0750.png,coordinates_0750.npz,17,18
+Hexoprenaline,Oc1ccc(C(O)CNCCCCCCNCC(O)c2ccc(O)c(O)c2)cc1O,structure_0751.png,coordinates_0751.npz,30,31
+Hexylresorcinol,CCCCCCc1ccc(O)cc1O,structure_0752.png,coordinates_0752.npz,14,14
+Histamine,NCCc1cnc[nH]1,structure_0753.png,coordinates_0753.npz,8,8
+Histrelin,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(Cc1cn(Cc2ccccc2)cn1)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1,structure_0754.png,coordinates_0754.npz,96,103
+Hydralazine,NNc1nncc2ccccc12,structure_0755.png,coordinates_0755.npz,12,13
+Hydrochlorothiazide,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,structure_0756.png,coordinates_0756.npz,17,18
+Hydrocodone,COc1ccc2c3c1OC1C(=O)CCC4C(C2)N(C)CCC314,structure_0757.png,coordinates_0757.npz,22,26
+Hydrocortamate,CCN(CC)CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,structure_0758.png,coordinates_0758.npz,34,37
+Hydrocortisone,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,structure_0759.png,coordinates_0759.npz,26,29
+Hydroflumethiazide,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O,structure_0760.png,coordinates_0760.npz,20,21
+Hydromorphone,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5,structure_0761.png,coordinates_0761.npz,21,25
+Hydroxyamphetamine,CC(N)Cc1ccc(O)cc1,structure_0762.png,coordinates_0762.npz,11,11
+Hydroxychloroquine,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12,structure_0763.png,coordinates_0763.npz,23,24
+Hydroxyprogesterone caproate,CCCCCC(=O)OC1(C(C)=O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,structure_0764.png,coordinates_0764.npz,31,34
+Hydroxyurea,NC(=O)NO,structure_0765.png,coordinates_0765.npz,5,4
+Hydroxyzine,OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,structure_0766.png,coordinates_0766.npz,26,28
+Hyoscyamine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,structure_0767.png,coordinates_0767.npz,21,23
+Ibandronate,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,structure_0768.png,coordinates_0768.npz,19,18
+Ibrutinib,C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,structure_0769.png,coordinates_0769.npz,33,37
+Ibudilast,CC(C)C(=O)c1c(C(C)C)nn2ccccc12,structure_0770.png,coordinates_0770.npz,17,18
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,structure_0771.png,coordinates_0771.npz,15,15
+Ibutilide,CCCCCCCN(CC)CCCC(O)c1ccc(NS(C)(=O)=O)cc1,structure_0772.png,coordinates_0772.npz,26,26
+Icatibant,NC(N)=NCCCC(N)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)N1CC(O)CC1C(=O)NCC(=O)NC(Cc1cccs1)C(=O)NC(CO)C(=O)N1Cc2ccccc2CC1C(=O)N1C(C(=O)NC(CCCN=C(N)N)C(=O)O)CC2CCCCC21,structure_0773.png,coordinates_0773.npz,92,98
+Icosapent ethyl,CCC=CCC=CCC=CCC=CCC=CCCCC(=O)OCC,structure_0774.png,coordinates_0774.npz,24,23
+Icotinib,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1,structure_0775.png,coordinates_0775.npz,29,32
+Idarubicin,CC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(N)C(O)C(C)O2)C1)C(=O)c1ccccc1C3=O,structure_0776.png,coordinates_0776.npz,36,40
+Idelalisib,CCC(Nc1ncnc2nc[nH]c12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1,structure_0777.png,coordinates_0777.npz,31,35
+Ifenprodil,CC(C(O)c1ccc(O)cc1)N1CCC(Cc2ccccc2)CC1,structure_0778.png,coordinates_0778.npz,24,26
+Ifosfamide,O=P1(NCCCl)OCCCN1CCCl,structure_0779.png,coordinates_0779.npz,14,14
+Iloperidone,COc1cc(C(C)=O)ccc1OCCCN1CCC(c2noc3cc(F)ccc23)CC1,structure_0780.png,coordinates_0780.npz,31,34
+Iloprost,CC#CCC(C)C(O)C=CC1C(O)CC2CC(=CCCCC(=O)O)CC21,structure_0781.png,coordinates_0781.npz,26,27
+Imatinib,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,structure_0782.png,coordinates_0782.npz,37,41
+Imidafenacin,Cc1nccn1CCC(C(N)=O)(c1ccccc1)c1ccccc1,structure_0783.png,coordinates_0783.npz,24,26
+Imipenem,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(SCCN=CN)C[C@H]12,structure_0784.png,coordinates_0784.npz,20,21
+Imipramine,CN(C)CCCN1c2ccccc2CCc2ccccc21,structure_0785.png,coordinates_0785.npz,21,23
+Imiquimod,CC(C)Cn1cnc2c(N)nc3ccccc3c21,structure_0786.png,coordinates_0786.npz,18,20
+Indacaterol,CCc1cc2c(cc1CC)CC(NCC(O)c1ccc(O)c3[nH]c(=O)ccc13)C2,structure_0787.png,coordinates_0787.npz,29,32
+Indapamide,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,structure_0788.png,coordinates_0788.npz,24,26
+Indinavir,CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O,structure_0789.png,coordinates_0789.npz,45,49
+Indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,structure_0790.png,coordinates_0790.npz,25,27
+Iobenguane,NC(N)=NCc1cccc(I)c1,structure_0791.png,coordinates_0791.npz,12,12
+Iodide I-131,[131I-],structure_0792.png,coordinates_0792.npz,1,0
+Iodipamide,O=C(CCCCC(=O)Nc1c(I)cc(I)c(C(=O)O)c1I)Nc1c(I)cc(I)c(C(=O)O)c1I,structure_0793.png,coordinates_0793.npz,34,35
+Iodixanol,CC(=O)N(CC(O)CN(C(C)=O)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,structure_0794.png,coordinates_0794.npz,62,63
+Ioflupane I-123,COC(=O)[C@H]1[C@@H](c2ccc([123I])cc2)C[C@@H]2CC[C@H]1N2CCCF,structure_0795.png,coordinates_0795.npz,23,25
+Iohexol,CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,structure_0796.png,coordinates_0796.npz,34,34
+Iopamidol,C[C@H](O)C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I,structure_0797.png,coordinates_0797.npz,31,31
+Iopromide,COCC(=O)Nc1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I,structure_0798.png,coordinates_0798.npz,32,32
+Ioversol,O=C(NCC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(N(CCO)C(=O)CO)c1I,structure_0799.png,coordinates_0799.npz,33,33
+Ioxilan,CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCCO)c(I)c(C(=O)NCC(O)CO)c1I,structure_0800.png,coordinates_0800.npz,32,32
+Ipratropium,CC(C)[N+]1(C)[C@@H]2CC[C@H]1CC(OC(=O)C(CO)c1ccccc1)C2,structure_0801.png,coordinates_0801.npz,24,26
+Irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,structure_0802.png,coordinates_0802.npz,32,36
+Irinotecan,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)C3(O)CC,structure_0803.png,coordinates_0803.npz,43,49
+Iron,[Fe],structure_0804.png,coordinates_0804.npz,1,0
+Isavuconazole,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1cc(F)ccc1F,structure_0805.png,coordinates_0805.npz,31,34
+Isavuconazonium,CNCC(=O)OCc1cccnc1N(C)C(=O)OC(C)[n+]1cnn(C[C@](O)(c2cc(F)ccc2F)[C@@H](C)c2nc(-c3ccc(C#N)cc3)cs2)c1,structure_0806.png,coordinates_0806.npz,51,55
+Isocarboxazid,Cc1cc(C(=O)NNCc2ccccc2)no1,structure_0807.png,coordinates_0807.npz,17,18
+Isoconazole,Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,structure_0808.png,coordinates_0808.npz,25,27
+Isoetharine,CCC(NC(C)C)C(O)c1ccc(O)c(O)c1,structure_0809.png,coordinates_0809.npz,17,17
+Isoflurane,FC(F)OC(Cl)C(F)(F)F,structure_0810.png,coordinates_0810.npz,10,9
+Isoflurophate,CC(C)OP(=O)(F)OC(C)C,structure_0811.png,coordinates_0811.npz,11,10
+Isometheptene,CNC(C)CCC=C(C)C,structure_0812.png,coordinates_0812.npz,10,9
+Isoniazid,NNC(=O)c1ccncc1,structure_0813.png,coordinates_0813.npz,10,10
+Isoprenaline,CC(C)NCC(O)c1ccc(O)c(O)c1,structure_0814.png,coordinates_0814.npz,15,15
+Isosorbide dinitrate,O=[N+]([O-])O[C@H]1CO[C@H]2[C@@H]1OC[C@H]2O[N+](=O)[O-],structure_0815.png,coordinates_0815.npz,16,17
+Isosorbide mononitrate,O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O,structure_0816.png,coordinates_0816.npz,13,14
+Isothipendyl,CC(CN1c2ccccc2Sc2cccnc21)N(C)C,structure_0817.png,coordinates_0817.npz,20,22
+Isotretinoin,CC1=C(/C=C/C(C)=C/C=C/C(C)=C\C(=O)O)C(C)(C)CCC1,structure_0818.png,coordinates_0818.npz,22,22
+Isoxsuprine,C[C@H](COc1ccccc1)N[C@H](C)[C@@H](O)c1ccc(O)cc1,structure_0819.png,coordinates_0819.npz,22,23
+Isradipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc2nonc12,structure_0820.png,coordinates_0820.npz,27,29
+Itraconazole,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OC[C@H]5CO[C@](Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,structure_0821.png,coordinates_0821.npz,49,55
+Ivabradine,COc1cc2c(cc1OC)CC(=O)N(CCCN(C)C[C@H]1Cc3cc(OC)c(OC)cc31)CC2,structure_0822.png,coordinates_0822.npz,34,37
+Ivacaftor,CC(C)(C)c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O,structure_0823.png,coordinates_0823.npz,29,31
+Ixabepilone,C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1,structure_0824.png,coordinates_0824.npz,35,37
+Ixazomib,CC(C)C[C@H](NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B(O)O,structure_0825.png,coordinates_0825.npz,23,23
+Josamycin,CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1OC(C)=O,structure_0826.png,coordinates_0826.npz,58,60
+Kanamycin,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O,structure_0827.png,coordinates_0827.npz,33,35
+Ketamine,CNC1(c2ccccc2Cl)CCCCC1=O,structure_0828.png,coordinates_0828.npz,16,17
+Ketazolam,CC1=CC(=O)N2CC(=O)N(C)c3ccc(Cl)cc3C2(c2ccccc2)O1,structure_0829.png,coordinates_0829.npz,26,29
+Ketobemidone,CCC(=O)C1(c2cccc(O)c2)CCN(C)CC1,structure_0830.png,coordinates_0830.npz,18,19
+Ketoconazole,CC(=O)N1CCN(c2ccc(OC[C@@H]3CO[C@@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,structure_0831.png,coordinates_0831.npz,36,40
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,structure_0832.png,coordinates_0832.npz,19,20
+Ketorolac,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,structure_0833.png,coordinates_0833.npz,19,21
+Ketotifen,CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1,structure_0834.png,coordinates_0834.npz,22,25
+L-Glutamine,NC(=O)CC[C@H](N)C(=O)O,structure_0835.png,coordinates_0835.npz,10,9
+Labetalol,CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1,structure_0836.png,coordinates_0836.npz,24,25
+Lacidipine,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C,structure_0837.png,coordinates_0837.npz,33,34
+Lacosamide,COC[C@@H](NC(C)=O)C(=O)NCc1ccccc1,structure_0838.png,coordinates_0838.npz,18,18
+Lactic acid,CC(O)C(=O)O,structure_0839.png,coordinates_0839.npz,6,5
+Lactulose,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](CO)O[C@](O)(CO)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O,structure_0840.png,coordinates_0840.npz,23,24
+Lamivudine,Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1,structure_0841.png,coordinates_0841.npz,15,16
+Lamotrigine,Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1,structure_0842.png,coordinates_0842.npz,16,17
+Lanreotide,CC(C)[C@@H]1NC(=O)[C@H](CCCCN)NC(=O)[C@@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](NC(=O)[C@H](N)Cc2ccc3ccccc3c2)CSSC[C@@H](C(=O)N[C@H](C(N)=O)[C@@H](C)O)NC1=O,structure_0843.png,coordinates_0843.npz,77,82
+Lansoprazole,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1,structure_0844.png,coordinates_0844.npz,25,27
+Lanthanum carbonate,O=C([O-])[O-].O=C([O-])[O-].O=C([O-])[O-].[La+3].[La+3],structure_0845.png,coordinates_0845.npz,14,9
+Lapatinib,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,structure_0846.png,coordinates_0846.npz,40,44
+Lasofoxifene,Oc1ccc2c(c1)CC[C@H](c1ccccc1)[C@@H]2c1ccc(OCCN2CCCC2)cc1,structure_0847.png,coordinates_0847.npz,31,35
+Latamoxef,CO[C@@]1(NC(=O)C(C(=O)O)c2ccc(O)cc2)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CO[C@@H]21,structure_0848.png,coordinates_0848.npz,36,39
+Latanoprost,CC(C)OC(=O)CCC/C=C\C[C@@H]1[C@@H](CC[C@@H](O)CCc2ccccc2)[C@H](O)C[C@@H]1O,structure_0849.png,coordinates_0849.npz,31,32
+Latanoprostene bunod,O=C(CCC/C=C\C[C@@H]1[C@@H](CC[C@@H](O)CCc2ccccc2)[C@H](O)C[C@@H]1O)OCCCCO[N+](=O)[O-],structure_0850.png,coordinates_0850.npz,36,37
+Ledipasvir,COC(=O)N[C@H](C(=O)N1CC2(CC2)C[C@H]1c1ncc(-c2ccc3c(c2)C(F)(F)c2cc(-c4ccc5nc([C@@H]6[C@H]7CC[C@H](C7)N6C(=O)[C@@H](NC(=O)OC)C(C)C)[nH]c5c4)ccc2-3)[nH]1)C(C)C,structure_0851.png,coordinates_0851.npz,65,74
+Leflunomide,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,structure_0852.png,coordinates_0852.npz,19,20
+Lenalidomide,Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,structure_0853.png,coordinates_0853.npz,19,21
+Lenvatinib,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O,structure_0854.png,coordinates_0854.npz,30,33
+Lercanidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,structure_0855.png,coordinates_0855.npz,45,48
+Lesinurad,O=C(O)CSc1nnc(Br)n1-c1ccc(C2CC2)c2ccccc12,structure_0856.png,coordinates_0856.npz,24,27
+Letermovir,COc1cccc(N2CCN(C3=Nc4c(F)cccc4[C@H](CC(=O)O)N3c3cc(C(F)(F)F)ccc3OC)CC2)c1,structure_0857.png,coordinates_0857.npz,41,45
+Letrozole,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1,structure_0858.png,coordinates_0858.npz,22,24
+Leucovorin,Nc1nc2c(c(=O)[nH]1)N(C=O)C(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2,structure_0859.png,coordinates_0859.npz,34,36
+Levacetylmethadol,CC[C@H](OC(C)=O)C(C[C@H](C)N(C)C)(c1ccccc1)c1ccccc1,structure_0860.png,coordinates_0860.npz,26,27
+Levallorphan,C=CCN1CC[C@]23CCCC[C@H]2[C@H]1Cc1ccc(O)cc13,structure_0861.png,coordinates_0861.npz,21,24
+Levetiracetam,CC[C@@H](C(N)=O)N1CCCC1=O,structure_0862.png,coordinates_0862.npz,12,12
+Levobunolol,CC(C)(C)NC[C@H](O)COc1cccc2c1CCCC2=O,structure_0863.png,coordinates_0863.npz,21,22
+Levobupivacaine,CCCCN1CCCC[C@H]1C(=O)Nc1c(C)cccc1C,structure_0864.png,coordinates_0864.npz,21,22
+Levocabastine,C[C@@H]1CN(C2CCC(C#N)(c3ccc(F)cc3)CC2)CC[C@]1(C(=O)O)c1ccccc1,structure_0865.png,coordinates_0865.npz,31,34
+Levocarnitine,C[N+](C)(C)C[C@H](O)CC(=O)[O-],structure_0866.png,coordinates_0866.npz,11,10
+Levocetirizine,O=C(O)COCCN1CCN([C@H](c2ccccc2)c2ccc(Cl)cc2)CC1,structure_0867.png,coordinates_0867.npz,27,29
+Levodopa,N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O,structure_0868.png,coordinates_0868.npz,14,14
+Levofloxacin,C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,structure_0869.png,coordinates_0869.npz,26,29
+Levoleucovorin,Nc1nc2c(c(=O)[nH]1)N(C=O)[C@@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2,structure_0870.png,coordinates_0870.npz,34,36
+Levomefolic acid,CN1c2c(nc(N)[nH]c2=O)NC[C@@H]1CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,structure_0871.png,coordinates_0871.npz,33,35
+Levomenol,CC(C)=CCC[C@](C)(O)[C@@H]1CC=C(C)CC1,structure_0872.png,coordinates_0872.npz,16,16
+Levomilnacipran,CCN(CC)C(=O)[C@@]1(c2ccccc2)C[C@H]1CN,structure_0873.png,coordinates_0873.npz,18,19
+Levonordefrin,C[C@H](N)[C@H](O)c1ccc(O)c(O)c1,structure_0874.png,coordinates_0874.npz,13,13
+Levonorgestrel,C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21CC,structure_0875.png,coordinates_0875.npz,23,26
+Levorphanol,CN1CC[C@]23CCCC[C@H]2[C@H]1Cc1ccc(O)cc13,structure_0876.png,coordinates_0876.npz,19,22
+Levosalbutamol,CC(C)(C)NC[C@H](O)c1ccc(O)c(CO)c1,structure_0877.png,coordinates_0877.npz,17,17
+Levosimendan,C[C@@H]1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,structure_0878.png,coordinates_0878.npz,21,22
+Levothyroxine,N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O,structure_0879.png,coordinates_0879.npz,24,25
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,structure_0880.png,coordinates_0880.npz,17,17
+Limaprost,CCCC[C@H](C)C[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCC/C=C/C(=O)O,structure_0881.png,coordinates_0881.npz,27,27
+Linagliptin,CC#CCn1c(N2CCC[C@@H](N)C2)nc2c1c(=O)n(Cc1nc(C)c3ccccc3n1)c(=O)n2C,structure_0882.png,coordinates_0882.npz,35,39
+Lincomycin,CCC[C@@H]1C[C@@H](C(=O)N[C@@H]([C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](C)O)N(C)C1,structure_0883.png,coordinates_0883.npz,27,28
+Linezolid,CC(=O)NC[C@H]1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1,structure_0884.png,coordinates_0884.npz,24,26
+Liothyronine,N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O,structure_0885.png,coordinates_0885.npz,23,24
+Liotrix,N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)[O-].N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-].[Na+].[Na+],structure_0886.png,coordinates_0886.npz,49,49
+Lipoic acid,O=C(O)CCCC[C@@H]1CCSS1,structure_0887.png,coordinates_0887.npz,12,12
+Lisdexamfetamine,C[C@@H](Cc1ccccc1)NC(=O)[C@@H](N)CCCCN,structure_0888.png,coordinates_0888.npz,19,19
+Lisinopril,NCCCC[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@H]1C(=O)O,structure_0889.png,coordinates_0889.npz,29,30
+Lisuride,CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,structure_0890.png,coordinates_0890.npz,25,28
+Lithium cation,[Li+],structure_0891.png,coordinates_0891.npz,1,0
+Lixisenatide,CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@@H](N)Cc1c[nH]cn1)[C@@H](C)O)[C@@H](C)O)C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(N)=O)C(=O)NCC(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(N)=O,structure_0892.png,coordinates_0892.npz,342,349
+Lobeglitazone,COc1ccc(Oc2cc(N(C)CCOc3ccc(CC4SC(=O)NC4=O)cc3)ncn2)cc1,structure_0893.png,coordinates_0893.npz,34,37
+Lodoxamide,N#Cc1cc(NC(=O)C(=O)O)c(Cl)c(NC(=O)C(=O)O)c1,structure_0894.png,coordinates_0894.npz,21,21
+Lofexidine,CC(Oc1c(Cl)cccc1Cl)C1=NCCN1,structure_0895.png,coordinates_0895.npz,16,17
+Lomefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21,structure_0896.png,coordinates_0896.npz,25,27
+Lomitapide,O=C(NC1CCN(CCCCC2(C(=O)NCC(F)(F)F)c3ccccc3-c3ccccc32)CC1)c1ccccc1-c1ccc(C(F)(F)F)cc1,structure_0897.png,coordinates_0897.npz,50,55
+Lomustine,O=NN(CCCl)C(=O)NC1CCCCC1,structure_0898.png,coordinates_0898.npz,15,15
+Loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,structure_0899.png,coordinates_0899.npz,34,37
+Lopinavir,Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@H](C(C)C)N1CCCNC1=O,structure_0900.png,coordinates_0900.npz,46,49
+Loratadine,CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,structure_0901.png,coordinates_0901.npz,27,30
+Lorazepam,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,structure_0902.png,coordinates_0902.npz,21,23
+Lorcaserin,C[C@H]1CNCCc2ccc(Cl)cc21,structure_0903.png,coordinates_0903.npz,13,14
+Lormetazepam,CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,structure_0904.png,coordinates_0904.npz,22,24
+Lornoxicam,CN1C(C(=O)Nc2ccccn2)=C(O)c2sc(Cl)cc2S1(=O)=O,structure_0905.png,coordinates_0905.npz,23,25
+Losartan,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,structure_0906.png,coordinates_0906.npz,30,33
+Loteprednol,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)OCCl,structure_0907.png,coordinates_0907.npz,27,30
+Lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,structure_0908.png,coordinates_0908.npz,29,31
+Loxapine,CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1,structure_0909.png,coordinates_0909.npz,23,26
+Loxoprofen,CC(C(=O)O)c1ccc(CC2CCCC2=O)cc1,structure_0910.png,coordinates_0910.npz,18,19
+Lubiprostone,CCCCC(F)(F)[C@@]1(O)CC[C@H]2[C@@H](CC(=O)[C@@H]2CCCCCCC(=O)O)O1,structure_0911.png,coordinates_0911.npz,27,28
+Lucanthone,CCN(CC)CCNc1ccc(C)c2sc3ccccc3c(=O)c12,structure_0912.png,coordinates_0912.npz,24,26
+Luliconazole,N#C/C(=C1/SC[C@@H](c2ccc(Cl)cc2Cl)S1)n1ccnc1,structure_0913.png,coordinates_0913.npz,21,23
+Lumacaftor,Cc1ccc(NC(=O)C2(c3ccc4c(c3)OC(F)(F)O4)CC2)nc1-c1cccc(C(=O)O)c1,structure_0914.png,coordinates_0914.npz,33,37
+Lumefantrine,CCCCN(CCCC)CC(O)c1cc(Cl)cc2c1-c1ccc(Cl)cc1/C2=C/c1ccc(Cl)cc1,structure_0915.png,coordinates_0915.npz,35,38
+Lumiracoxib,Cc1ccc(Nc2c(F)cccc2Cl)c(CC(=O)O)c1,structure_0916.png,coordinates_0916.npz,20,21
+Lurasidone,O=C1[C@@H]2[C@H]3CC[C@H](C3)[C@@H]2C(=O)N1C[C@@H]1CCCC[C@H]1CN1CCN(c2nsc3ccccc23)CC1,structure_0917.png,coordinates_0917.npz,35,41
+Lycopene,CC(C)=CCC/C(C)=C/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(\C)CCC=C(C)C,structure_0918.png,coordinates_0918.npz,40,39
+Lymecycline,CN(C)[C@@H]1C(=O)C(C(=O)NCNCCCC[C@H](N)C(=O)O)=C(O)[C@@]2(O)C(=O)C3=C(O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,structure_0919.png,coordinates_0919.npz,43,46
+Macitentan,CCCNS(=O)(=O)Nc1ncnc(OCCOc2ncc(Br)cn2)c1-c1ccc(Br)cc1,structure_0920.png,coordinates_0920.npz,32,34
+Mafenide,NCc1ccc(S(N)(=O)=O)cc1,structure_0921.png,coordinates_0921.npz,12,12
+Magaldrate,O.O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[Mg+2].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-],structure_0922.png,coordinates_0922.npz,57,8
+Magnesium cation,[Mg+2],structure_0923.png,coordinates_0923.npz,1,0
+Magnesium hydroxide,[Mg+2].[OH-].[OH-],structure_0924.png,coordinates_0924.npz,3,0
+Magnesium oxide,[O]=[Mg],structure_0925.png,coordinates_0925.npz,2,1
+Magnesium salicylate,O=C(O)c1ccccc1[O-].O=C(O)c1ccccc1[O-].[Mg+2],structure_0926.png,coordinates_0926.npz,21,20
+Magnesium sulfate,O=S(=O)([O-])[O-].[Mg+2],structure_0927.png,coordinates_0927.npz,6,4
+Magnesium trisilicate,O=[Si]([O-])O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2],structure_0928.png,coordinates_0928.npz,13,10
+Malathion,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,structure_0929.png,coordinates_0929.npz,19,18
+Manidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN2CCN(C(c3ccccc3)c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,structure_0930.png,coordinates_0930.npz,45,49
+Mannitol,OCC(O)C(O)C(O)C(O)CO,structure_0931.png,coordinates_0931.npz,12,11
+Maprotiline,CNCCCC12CCC(c3ccccc31)c1ccccc12,structure_0932.png,coordinates_0932.npz,21,24
+Maraviroc,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1,structure_0933.png,coordinates_0933.npz,37,41
+Masoprocol,CC(Cc1ccc(O)c(O)c1)C(C)Cc1ccc(O)c(O)c1,structure_0934.png,coordinates_0934.npz,22,23
+Mebendazole,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,structure_0935.png,coordinates_0935.npz,22,24
+Mecamylamine,CNC1(C)C2CCC(C2)C1(C)C,structure_0936.png,coordinates_0936.npz,12,13
+Mechlorethamine,CN(CCCl)CCCl,structure_0937.png,coordinates_0937.npz,8,7
+Meclizine,Cc1cccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)c1,structure_0938.png,coordinates_0938.npz,28,31
+Meclofenamic acid,Cc1ccc(Cl)c(Nc2ccccc2C(=O)O)c1Cl,structure_0939.png,coordinates_0939.npz,19,20
+Medrogestone,CC(=O)C1(C)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,structure_0940.png,coordinates_0940.npz,25,28
+Medroxyprogesterone acetate,CC(=O)OC1(C(C)=O)CCC2C3CC(C)C4=CC(=O)CCC4(C)C3CCC21C,structure_0941.png,coordinates_0941.npz,28,31
+Medrysone,CC(=O)C1CCC2C3CC(C)C4=CC(=O)CCC4(C)C3C(O)CC12C,structure_0942.png,coordinates_0942.npz,25,28
+Mefenamic acid,Cc1cccc(Nc2ccccc2C(=O)O)c1C,structure_0943.png,coordinates_0943.npz,18,19
+Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,structure_0944.png,coordinates_0944.npz,26,28
+Megestrol acetate,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,structure_0945.png,coordinates_0945.npz,28,31
+Melatonin,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,structure_0946.png,coordinates_0946.npz,17,18
+Meloxicam,Cc1cnc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1,structure_0947.png,coordinates_0947.npz,23,25
+Melperone,CC1CCN(CCCC(=O)c2ccc(F)cc2)CC1,structure_0948.png,coordinates_0948.npz,19,20
+Melphalan,NC(Cc1ccc(N(CCCl)CCCl)cc1)C(=O)O,structure_0949.png,coordinates_0949.npz,19,19
+Memantine,CC12CC3CC(C)(C1)CC(N)(C3)C2,structure_0950.png,coordinates_0950.npz,13,15
+Menadione,CC1=CC(=O)c2ccccc2C1=O,structure_0951.png,coordinates_0951.npz,13,14
+Meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,structure_0952.png,coordinates_0952.npz,18,19
+Mephentermine,CNC(C)(C)Cc1ccccc1,structure_0953.png,coordinates_0953.npz,12,12
+Mepivacaine,Cc1cccc(C)c1NC(=O)C1CCCCN1C,structure_0954.png,coordinates_0954.npz,18,19
+Meprobamate,CCCC(C)(COC(N)=O)COC(N)=O,structure_0955.png,coordinates_0955.npz,15,14
+Mepyramine,COc1ccc(CN(CCN(C)C)c2ccccn2)cc1,structure_0956.png,coordinates_0956.npz,21,22
+Mequinol,COc1ccc(O)cc1,structure_0957.png,coordinates_0957.npz,9,9
+Mequitazine,c1ccc2c(c1)Sc1ccccc1N2CC1CN2CCC1CC2,structure_0958.png,coordinates_0958.npz,23,27
+Mercaptopurine,S=c1nc[nH]c2nc[nH]c12,structure_0959.png,coordinates_0959.npz,10,11
+Meropenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12,structure_0960.png,coordinates_0960.npz,26,28
+Mersalyl,COC([CH2][Hg+])CNC(=O)c1ccccc1OCC(=O)[O-].[Na+].[OH-],structure_0961.png,coordinates_0961.npz,22,20
+Mesalazine,Nc1ccc(O)c(C(=O)O)c1,structure_0962.png,coordinates_0962.npz,11,11
+Mesoridazine,CN1CCCCC1CCN1c2ccccc2Sc2ccc(S(C)=O)cc21,structure_0963.png,coordinates_0963.npz,26,29
+Mestranol,C#CC1(O)CCC2C3CCc4cc(OC)ccc4C3CCC21C,structure_0964.png,coordinates_0964.npz,23,26
+Metacycline,C=C1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C12,structure_0965.png,coordinates_0965.npz,32,35
+Metamfetamine,CNC(C)Cc1ccccc1,structure_0966.png,coordinates_0966.npz,11,11
+Metaraminol,CC(N)C(O)c1cccc(O)c1,structure_0967.png,coordinates_0967.npz,12,12
+Metaxalone,Cc1cc(C)cc(OCC2CNC(=O)O2)c1,structure_0968.png,coordinates_0968.npz,16,17
+Metformin,CN(C)C(=N)N=C(N)N,structure_0969.png,coordinates_0969.npz,9,8
+Methacholine,CC(=O)OC(C)C[N+](C)(C)C,structure_0970.png,coordinates_0970.npz,11,10
+Methadone,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1,structure_0971.png,coordinates_0971.npz,23,24
+Methadyl acetate,CCC(OC(C)=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1,structure_0972.png,coordinates_0972.npz,26,27
+Methantheline,CC[N+](C)(CC)CCOC(=O)C1c2ccccc2Oc2ccccc21,structure_0973.png,coordinates_0973.npz,25,27
+Methazolamide,CC(=O)N=c1sc(S(N)(=O)=O)nn1C,structure_0974.png,coordinates_0974.npz,14,14
+Methenamine,C1N2CN3CN1CN(C2)C3,structure_0975.png,coordinates_0975.npz,10,12
+Methimazole,Cn1cc[nH]c1=S,structure_0976.png,coordinates_0976.npz,7,7
+Methionine,CSCCC(N)C(=O)O,structure_0977.png,coordinates_0977.npz,9,8
+Methocarbamol,COc1ccccc1OCC(O)COC(N)=O,structure_0978.png,coordinates_0978.npz,17,17
+Methohexital,C=CCC1(C(C)C#CCC)C(=O)NC(=O)N(C)C1=O,structure_0979.png,coordinates_0979.npz,19,19
+Methotrexate,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,structure_0980.png,coordinates_0980.npz,33,35
+Methotrimeprazine,COc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2,structure_0981.png,coordinates_0981.npz,23,25
+Methoxamine,COc1ccc(OC)c(C(O)C(C)N)c1,structure_0982.png,coordinates_0982.npz,15,15
+Methoxsalen,COc1c2occc2cc2ccc(=O)oc12,structure_0983.png,coordinates_0983.npz,16,18
+Methoxyflurane,COC(F)(F)C(Cl)Cl,structure_0984.png,coordinates_0984.npz,8,7
+Methscopolamine,C[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,structure_0985.png,coordinates_0985.npz,23,26
+Methscopolamine bromide,C[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12.[Br-],structure_0986.png,coordinates_0986.npz,24,26
+Methsuximide,CN1C(=O)CC(C)(c2ccccc2)C1=O,structure_0987.png,coordinates_0987.npz,15,16
+Methyclothiazide,CN1C(CCl)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,structure_0988.png,coordinates_0988.npz,20,21
+Methyl aminolevulinate,COC(=O)CCC(=O)CN,structure_0989.png,coordinates_0989.npz,10,9
+Methyl salicylate,COC(=O)c1ccccc1O,structure_0990.png,coordinates_0990.npz,11,11
+Methyldopa,CC(N)(Cc1ccc(O)c(O)c1)C(=O)O,structure_0991.png,coordinates_0991.npz,15,15
+Methylene blue,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1.[Cl-],structure_0992.png,coordinates_0992.npz,21,22
+Methylergometrine,CCC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,structure_0993.png,coordinates_0993.npz,25,28
+Methylnaltrexone,C[N+]1(CC2CC2)CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,structure_0994.png,coordinates_0994.npz,26,31
+Methylphenidate,COC(=O)C(c1ccccc1)C1CCCCN1,structure_0995.png,coordinates_0995.npz,17,18
+Methylphenobarbital,CCC1(c2ccccc2)C(=O)NC(=O)N(C)C1=O,structure_0996.png,coordinates_0996.npz,18,19
+Methylprednisolone,CC1CC2C(C(O)CC3(C)C2CCC3(O)C(=O)CO)C2(C)C=CC(=O)C=C12,structure_0997.png,coordinates_0997.npz,27,30
+Methyltestosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O,structure_0998.png,coordinates_0998.npz,22,25
+Methyprylon,CCC1(CC)C(=O)NCC(C)C1=O,structure_0999.png,coordinates_0999.npz,13,13
+Methysergide,CCC(CO)NC(=O)C1C=C2c3cccc4c3c(cn4C)CC2N(C)C1,structure_1000.png,coordinates_1000.npz,26,29
+Meticillin,COc1cccc(OC)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,structure_1001.png,coordinates_1001.npz,26,28
+Metipranolol,CC(=O)Oc1c(C)cc(OCC(O)CNC(C)C)c(C)c1C,structure_1002.png,coordinates_1002.npz,22,22
+Metixene,CN1CCCC(CC2c3ccccc3Sc3ccccc32)C1,structure_1003.png,coordinates_1003.npz,22,25
+Metoclopramide,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,structure_1004.png,coordinates_1004.npz,20,20
+Metocurine,COc1ccc2cc1Oc1cc3c(cc1OC)CC[N+](C)(C)C3Cc1ccc(cc1)Oc1c(OC)c(OC)cc3c1C(C2)[N+](C)(C)CC3,structure_1005.png,coordinates_1005.npz,48,54
+Metolazone,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,structure_1006.png,coordinates_1006.npz,24,26
+Metoprolol,COCCc1ccc(OCC(O)CNC(C)C)cc1,structure_1007.png,coordinates_1007.npz,19,19
+Metrizamide,CC(=O)Nc1c(I)c(C(=O)NC2C(O)OC(CO)C(O)C2O)c(I)c(N(C)C(C)=O)c1I,structure_1008.png,coordinates_1008.npz,32,33
+Metronidazole,Cc1ncc([N+](=O)[O-])n1CCO,structure_1009.png,coordinates_1009.npz,12,12
+Metyrapone,CC(C)(C(=O)c1cccnc1)c1cccnc1,structure_1010.png,coordinates_1010.npz,17,18
+Metyrosine,CC(N)(Cc1ccc(O)cc1)C(=O)O,structure_1011.png,coordinates_1011.npz,14,14
+Mexiletine,Cc1cccc(C)c1OCC(C)N,structure_1012.png,coordinates_1012.npz,13,13
+Mezlocillin,CC1(C)SC2C(NC(=O)C(NC(=O)N3CCN(S(C)(=O)=O)C3=O)c3ccccc3)C(=O)N2C1C(=O)O,structure_1013.png,coordinates_1013.npz,36,39
+Mianserin,CN1CCN2c3ccccc3Cc3ccccc3C2C1,structure_1014.png,coordinates_1014.npz,20,23
+Micafungin,CCCCCOc1ccc(-c2cc(-c3ccc(C(=O)NC4CC(O)C(O)NC(=O)C5C(O)C(C)CN5C(=O)C(C(O)CC(N)=O)NC(=O)C(C(O)C(O)c5ccc(O)c(OS(=O)(=O)O)c5)NC(=O)C5CC(O)CN5C(=O)C(C(C)O)NC4=O)cc3)no2)cc1,structure_1015.png,coordinates_1015.npz,89,95
+Miconazole,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,structure_1016.png,coordinates_1016.npz,25,27
+Midazolam,Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,structure_1017.png,coordinates_1017.npz,23,26
+Midodrine,COc1ccc(OC)c(C(O)CNC(=O)CN)c1,structure_1018.png,coordinates_1018.npz,18,18
+Midostaurin,COC1C(N(C)C(=O)c2ccccc2)CC2OC1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,structure_1019.png,coordinates_1019.npz,43,51
+Mifepristone,CC#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C,structure_1020.png,coordinates_1020.npz,32,36
+Miglitol,OCCN1CC(O)C(O)C(O)C1CO,structure_1021.png,coordinates_1021.npz,14,14
+Miglustat,CCCCN1CC(O)C(O)C(O)C1CO,structure_1022.png,coordinates_1022.npz,15,15
+Milnacipran,CCN(CC)C(=O)C1(c2ccccc2)CC1CN,structure_1023.png,coordinates_1023.npz,18,19
+Milrinone,Cc1[nH]c(=O)c(C#N)cc1-c1ccncc1,structure_1024.png,coordinates_1024.npz,16,17
+Miltefosine,CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C,structure_1025.png,coordinates_1025.npz,27,26
+Minaprine,Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1,structure_1026.png,coordinates_1026.npz,22,24
+Minocycline,CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,structure_1027.png,coordinates_1027.npz,33,36
+Minoxidil,N=c1nc(N2CCCCC2)cc(N)n1O,structure_1028.png,coordinates_1028.npz,15,16
+Mipomersen,COCCOC1C(O)C(COP(=O)([O-])SC2C(COP(=O)([O-])SC3C(COP(=O)([O-])SC4C(COP(=O)([O-])SC5C(COP(=O)([O-])SC6CC(n7cc(C)c(N)nc7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(N)nc7=O)OC6COP(=O)([O-])SC6CC(n7cnc8c(=O)[nH]c(N)nc87)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(N)nc7=O)OC6COP(=O)([O-])SC6CC(n7cc(C)c(=O)[nH]c7=O)OC6COP(=O)([O-])SC6CC(n7cnc8c(=O)[nH]c(N)nc87)OC6COP(=O)([O-])SC6CC(n7cnc8c(N)ncnc87)OC6COP(=O)([O-])SC6C(COP(=O)([O-])SC7C(COP(=O)([O-])SC8C(COP(=O)([O-])SC9C(COP(=O)([O-])SC%10C(CO)OC(n%11cnc%12c(=O)[nH]c(N)nc%12%11)C%10OCCOC)OC(n%10cc(C)c(N)nc%10=O)C9OCCOC)OC(n9cc(C)c(N)nc9=O)C8OCCOC)OC(n8cc(C)c(=O)[nH]c8=O)C7OCCOC)OC(n7cc(C)c(N)nc7=O)C6OCCOC)OC(n6cnc7c(=O)[nH]c(N)nc76)C5OCCOC)OC(n5cc(C)c(N)nc5=O)C4OCCOC)OC(n4cnc5c(N)ncnc54)C3OCCOC)OC(n3cc(C)c(N)nc3=O)C2OCCOC)OC1n1cc(C)c(N)nc1=O,structure_1029.png,coordinates_1029.npz,457,502
+Mirabegron,Nc1nc(CC(=O)Nc2ccc(CCNCC(O)c3ccccc3)cc2)cs1,structure_1030.png,coordinates_1030.npz,28,30
+Mirtazapine,CN1CCN2c3ncccc3Cc3ccccc3C2C1,structure_1031.png,coordinates_1031.npz,20,23
+Misoprostol,CCCCC(C)(O)CC=CC1C(O)CC(=O)C1CCCCCCC(=O)OC,structure_1032.png,coordinates_1032.npz,27,27
+Mitiglinide,O=C(O)C(CC(=O)N1CC2CCCCC2C1)Cc1ccccc1,structure_1033.png,coordinates_1033.npz,23,25
+Mitomycin,COC12C(COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1CC1NC12,structure_1034.png,coordinates_1034.npz,24,27
+Mitotane,Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,structure_1035.png,coordinates_1035.npz,18,19
+Mitoxantrone,O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21,structure_1036.png,coordinates_1036.npz,32,34
+Mivacurium,COc1cc2c(cc1OC)C(Cc1cc(OC)c(OC)c(OC)c1)[N+](C)(CCCOC(=O)CCC=CCCC(=O)OCCC[N+]1(C)CCc3cc(OC)c(OC)cc3C1Cc1cc(OC)c(OC)c(OC)c1)CC2,structure_1037.png,coordinates_1037.npz,74,79
+Moclobemide,O=C(NCCN1CCOCC1)c1ccc(Cl)cc1,structure_1038.png,coordinates_1038.npz,18,19
+Modafinil,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,structure_1039.png,coordinates_1039.npz,19,20
+Moexipril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2cc(OC)c(OC)cc2CC1C(=O)O,structure_1040.png,coordinates_1040.npz,36,38
+Molindone,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2,structure_1041.png,coordinates_1041.npz,20,22
+Molsidomine,CCOC([O-])=Nc1c[n+](N2CCOCC2)no1,structure_1042.png,coordinates_1042.npz,17,18
+Mometasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CCl,structure_1043.png,coordinates_1043.npz,28,31
+Montelukast,CC(C)(O)c1ccccc1CCC(SCC1(CC(=O)O)CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,structure_1044.png,coordinates_1044.npz,41,45
+Moricizine,CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2,structure_1045.png,coordinates_1045.npz,30,33
+Morniflumate,O=C(OCCN1CCOCC1)c1cccnc1Nc1cccc(C(F)(F)F)c1,structure_1046.png,coordinates_1046.npz,28,30
+Morphine,CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,structure_1047.png,coordinates_1047.npz,21,25
+Moxifloxacin,COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,structure_1048.png,coordinates_1048.npz,29,33
+Moxonidine,COc1nc(C)nc(Cl)c1NC1=NCCN1,structure_1049.png,coordinates_1049.npz,16,17
+Mupirocin,CC(=CC(=O)OCCCCCCCCC(=O)O)CC1OCC(CC2OC2C(C)C(C)O)C(O)C1O,structure_1050.png,coordinates_1050.npz,35,36
+Mycophenolate mofetil,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)OCCN1CCOCC1)C(=O)OC2,structure_1051.png,coordinates_1051.npz,31,33
+Mycophenolic acid,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)O)C(=O)OC2,structure_1052.png,coordinates_1052.npz,23,24
+Nabilone,CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1CCC(=O)CC21,structure_1053.png,coordinates_1053.npz,27,29
+Nabumetone,COc1ccc2cc(CCC(C)=O)ccc2c1,structure_1054.png,coordinates_1054.npz,17,18
+Nadolol,CC(C)(C)NCC(O)COc1cccc2c1CC(O)C(O)C2,structure_1055.png,coordinates_1055.npz,22,23
+Nafamostat,N=C(N)c1ccc2cc(OC(=O)c3ccc(N=C(N)N)cc3)ccc2c1,structure_1056.png,coordinates_1056.npz,26,28
+Nafarelin,CC(C)CC(NC(=O)C(Cc1ccc2ccccc2c1)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(N)=O,structure_1057.png,coordinates_1057.npz,96,103
+Nafcillin,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,structure_1058.png,coordinates_1058.npz,29,32
+Naftifine,CN(CC=Cc1ccccc1)Cc1cccc2ccccc12,structure_1059.png,coordinates_1059.npz,22,24
+Nalbuphine,Oc1ccc2c3c1OC1C(O)CCC4(O)C(C2)N(CC2CCC2)CCC314,structure_1060.png,coordinates_1060.npz,26,31
+Naldemedine,CC(C)(NC(=O)C1=C(O)C2Oc3c(O)ccc4c3C23CCN(CC2CC2)C(C4)C3(O)C1)c1nc(-c2ccccc2)no1,structure_1061.png,coordinates_1061.npz,42,49
+Nalidixic acid,CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21,structure_1062.png,coordinates_1062.npz,17,18
+Naloxegol,C=CCN1CCC23c4c5ccc(O)c4OC2C(OCCOCCOCCOCCOCCOCCOCCOC)CCC3(O)C1C5,structure_1063.png,coordinates_1063.npz,46,50
+Naloxone,C=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,structure_1064.png,coordinates_1064.npz,24,28
+Naltrexone,O=C1CCC2(O)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)C1O5,structure_1065.png,coordinates_1065.npz,25,30
+Nandrolone decanoate,CCCCCCCCCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4C3CCC12C,structure_1066.png,coordinates_1066.npz,31,34
+Naphazoline,c1ccc2c(CC3=NCCN3)cccc2c1,structure_1067.png,coordinates_1067.npz,16,18
+Naproxen,COc1ccc2cc(C(C)C(=O)O)ccc2c1,structure_1068.png,coordinates_1068.npz,17,18
+Naratriptan,CNS(=O)(=O)CCc1ccc2[nH]cc(C3CCN(C)CC3)c2c1,structure_1069.png,coordinates_1069.npz,23,25
+Natamycin,CC1CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC3OC3C=CC(=O)O1)CC(O)C2C(=O)O,structure_1070.png,coordinates_1070.npz,47,50
+Nateglinide,CC(C)C1CCC(C(=O)NC(Cc2ccccc2)C(=O)O)CC1,structure_1071.png,coordinates_1071.npz,23,24
+Nebivolol,OC(CNCC(O)C1CCc2cc(F)ccc2O1)C1CCc2cc(F)ccc2O1,structure_1072.png,coordinates_1072.npz,29,32
+Nedaplatin,N.N.O=C([O-])C[O-].[Pt+2],structure_1073.png,coordinates_1073.npz,8,4
+Nefazodone,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,structure_1074.png,coordinates_1074.npz,33,36
+Nelarabine,COc1nc(N)nc2c1ncn2C1OC(CO)C(O)C1O,structure_1075.png,coordinates_1075.npz,21,23
+Nelfinavir,Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,structure_1076.png,coordinates_1076.npz,40,43
+Neostigmine,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1,structure_1077.png,coordinates_1077.npz,16,16
+Nepafenac,NC(=O)Cc1cccc(C(=O)c2ccccc2)c1N,structure_1078.png,coordinates_1078.npz,19,20
+Neratinib,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)C=CCN(C)C,structure_1079.png,coordinates_1079.npz,40,43
+Netilmicin,CCNC1CC(N)C(OC2OC(CN)=CCC2N)C(O)C1OC1OCC(C)(O)C(NC)C1O,structure_1080.png,coordinates_1080.npz,33,35
+Netupitant,Cc1ccccc1-c1cc(N2CCN(C)CC2)ncc1N(C)C(=O)C(C)(C)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,structure_1081.png,coordinates_1081.npz,41,44
+Nevirapine,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,structure_1082.png,coordinates_1082.npz,20,23
+Niacin,O=C(O)c1cccnc1,structure_1083.png,coordinates_1083.npz,9,9
+Nicardipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,structure_1084.png,coordinates_1084.npz,35,37
+Nicergoline,COC12CC(COC(=O)c3cncc(Br)c3)CN(C)C1Cc1cn(C)c3cccc2c13,structure_1085.png,coordinates_1085.npz,31,35
+Niclosamide,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,structure_1086.png,coordinates_1086.npz,21,22
+Nicorandil,O=C(NCCO[N+](=O)[O-])c1cccnc1,structure_1087.png,coordinates_1087.npz,15,15
+Nicotinamide,NC(=O)c1cccnc1,structure_1088.png,coordinates_1088.npz,9,9
+Nicotine,CN1CCCC1c1cccnc1,structure_1089.png,coordinates_1089.npz,12,13
+Nifedipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],structure_1090.png,coordinates_1090.npz,25,26
+Niflumic acid,O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1,structure_1091.png,coordinates_1091.npz,20,21
+Nilotinib,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,structure_1092.png,coordinates_1092.npz,39,43
+Nilutamide,CC1(C)NC(=O)N(c2ccc([N+](=O)[O-])c(C(F)(F)F)c2)C1=O,structure_1093.png,coordinates_1093.npz,22,23
+Nilvadipine,COC(=O)C1=C(C#N)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,structure_1094.png,coordinates_1094.npz,28,29
+Nimesulide,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,structure_1095.png,coordinates_1095.npz,21,22
+Nimodipine,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,structure_1096.png,coordinates_1096.npz,30,31
+Nintedanib,COC(=O)c1ccc2c(C(=Nc3ccc(N(C)C(=O)CN4CCN(C)CC4)cc3)c3ccccc3)c(O)[nH]c2c1,structure_1097.png,coordinates_1097.npz,40,44
+Niraparib,NC(=O)c1cccc2cn(-c3ccc(C4CCCNC4)cc3)nc12,structure_1098.png,coordinates_1098.npz,24,27
+Nisoldipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCC(C)C)C1c1ccccc1[N+](=O)[O-],structure_1099.png,coordinates_1099.npz,28,29
+Nitrazepam,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,structure_1100.png,coordinates_1100.npz,21,23
+Nitrendipine,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,structure_1101.png,coordinates_1101.npz,26,27
+Nitric Oxide,[N]=O,structure_1102.png,coordinates_1102.npz,2,1
+Nitrofural,NC(=O)NN=Cc1ccc([N+](=O)[O-])o1,structure_1103.png,coordinates_1103.npz,14,14
+Nitrofurantoin,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,structure_1104.png,coordinates_1104.npz,17,18
+Nitroglycerin,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],structure_1105.png,coordinates_1105.npz,15,14
+Nitrous acid,O=NO,structure_1106.png,coordinates_1106.npz,3,2
+Nitrous oxide,[N-]=[N+]=O,structure_1107.png,coordinates_1107.npz,3,2
+Nitroxoline,O=[N+]([O-])c1ccc(O)c2ncccc12,structure_1108.png,coordinates_1108.npz,14,15
+Nizatidine,CNC(=C[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1,structure_1109.png,coordinates_1109.npz,21,21
+Nomegestrol,CC(=O)C1(O)CCC2C3C=C(C)C4=CC(=O)CCC4C3CCC21C,structure_1110.png,coordinates_1110.npz,24,27
+Nonoxynol-9,CCCCCCCCCc1ccc(OCCOCCOCCOCCOCCOCCOCCOCCOCCO)cc1,structure_1111.png,coordinates_1111.npz,43,43
+Norelgestromin,C#CC1(O)CCC2C3CCC4=CC(=NO)CCC4C3CCC21CC,structure_1112.png,coordinates_1112.npz,24,27
+Norepinephrine,NCC(O)c1ccc(O)c(O)c1,structure_1113.png,coordinates_1113.npz,12,12
+Norethisterone,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,structure_1114.png,coordinates_1114.npz,22,25
+Norfloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,structure_1115.png,coordinates_1115.npz,23,25
+Norgestimate,C#CC1(OC(C)=O)CCC2C3CCC4=CC(=NO)CCC4C3CCC21CC,structure_1116.png,coordinates_1116.npz,27,30
+Norgestrel,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC,structure_1117.png,coordinates_1117.npz,23,26
+Normethadone,CCC(=O)C(CCN(C)C)(c1ccccc1)c1ccccc1,structure_1118.png,coordinates_1118.npz,22,23
+Nortriptyline,CNCCC=C1c2ccccc2CCc2ccccc21,structure_1119.png,coordinates_1119.npz,20,22
+Novobiocin,COC1C(OC(N)=O)C(O)C(Oc2ccc3c(O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(=O)oc3c2C)OC1(C)C,structure_1120.png,coordinates_1120.npz,44,47
+Nylidrin,CC(CCc1ccccc1)NC(C)C(O)c1ccc(O)cc1,structure_1121.png,coordinates_1121.npz,22,23
+Nystatin,CC1C=CC=CCCC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)C(O)CCC(O)CC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)O,structure_1122.png,coordinates_1122.npz,65,67
+Obeticholic acid,CCC1C(O)C2C3CCC(C(C)CCC(=O)O)C3(C)CCC2C2(C)CCC(O)CC12,structure_1123.png,coordinates_1123.npz,30,33
+Octreotide,CC(O)C(CO)NC(=O)C1CSSCC(NC(=O)C(N)Cc2ccccc2)C(=O)NC(Cc2ccccc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)N1,structure_1124.png,coordinates_1124.npz,71,75
+Ofloxacin,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,structure_1125.png,coordinates_1125.npz,26,29
+Olanzapine,Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1,structure_1126.png,coordinates_1126.npz,22,25
+Olaparib,O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(C(=O)C2CC2)CC1,structure_1127.png,coordinates_1127.npz,32,36
+Olmesartan,CCCc1nc(C(C)(C)O)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,structure_1128.png,coordinates_1128.npz,33,36
+Olodaterol,COc1ccc(CC(C)(C)NCC(O)c2cc(O)cc3c2OCC(=O)N3)cc1,structure_1129.png,coordinates_1129.npz,28,30
+Olopatadine,CN(C)CCC=C1c2ccccc2COc2ccc(CC(=O)O)cc21,structure_1130.png,coordinates_1130.npz,25,27
+Olsalazine,O=C(O)c1cc(N=Nc2ccc(O)c(C(=O)O)c2)ccc1O,structure_1131.png,coordinates_1131.npz,22,23
+Omacetaxine mepesuccinate,COC(=O)CC(O)(CCCC(C)(C)O)C(=O)OC1C(OC)=CC23CCCN2CCc2cc4c(cc2C13)OCO4,structure_1132.png,coordinates_1132.npz,39,43
+Ombitasvir,COC(=O)NC(C(=O)N1CCCC1C(=O)Nc1ccc(C2CCC(c3ccc(NC(=O)C4CCCN4C(=O)C(NC(=O)OC)C(C)C)cc3)N2c2ccc(C(C)(C)C)cc2)cc1)C(C)C,structure_1133.png,coordinates_1133.npz,65,70
+Omeprazole,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,structure_1134.png,coordinates_1134.npz,24,26
+Ondansetron,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,structure_1135.png,coordinates_1135.npz,22,25
+Orciprenaline,CC(C)NCC(O)c1cc(O)cc(O)c1,structure_1136.png,coordinates_1136.npz,15,15
+Oritavancin,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(OC3CC(C)(N)C(O)C(C)O3)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(NCc3ccc(-c4ccc(Cl)cc4)cc3)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,structure_1137.png,coordinates_1137.npz,125,137
+Orlistat,CCCCCCCCCCCC(CC1OC(=O)C1CCCCCC)OC(=O)C(CC(C)C)NC=O,structure_1138.png,coordinates_1138.npz,35,35
+Orphenadrine,Cc1ccccc1C(OCCN(C)C)c1ccccc1,structure_1139.png,coordinates_1139.npz,20,21
+Oseltamivir,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1,structure_1140.png,coordinates_1140.npz,22,22
+Osimertinib,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C,structure_1141.png,coordinates_1141.npz,37,40
+Ospemifene,OCCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1,structure_1142.png,coordinates_1142.npz,27,29
+Ouabain,CC1OC(OC2CC(O)C3(CO)C4C(O)CC5(C)C(C6=CC(=O)OC6)CCC5(O)C4CCC3(O)C2)C(O)C(O)C1O,structure_1143.png,coordinates_1143.npz,41,46
+Oxacillin,Cc1onc(-c2ccccc2)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,structure_1144.png,coordinates_1144.npz,28,31
+Oxaliplatin,O=C(O)C(=O)O.[NH-]C1CCCCC1[NH-].[Pt+2],structure_1145.png,coordinates_1145.npz,15,13
+Oxamniquine,CC(C)NCC1CCc2cc(CO)c([N+](=O)[O-])cc2N1,structure_1146.png,coordinates_1146.npz,20,21
+Oxandrolone,CC12COC(=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,structure_1147.png,coordinates_1147.npz,22,25
+Oxaprozin,O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1,structure_1148.png,coordinates_1148.npz,22,24
+Oxazepam,O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,structure_1149.png,coordinates_1149.npz,20,22
+Oxcarbazepine,NC(=O)N1c2ccccc2CC(=O)c2ccccc21,structure_1150.png,coordinates_1150.npz,19,21
+Oxetacaine,CN(C(=O)CN(CCO)CC(=O)N(C)C(C)(C)Cc1ccccc1)C(C)(C)Cc1ccccc1,structure_1151.png,coordinates_1151.npz,34,35
+Oxiconazole,Clc1ccc(CON=C(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,structure_1152.png,coordinates_1152.npz,26,28
+Oxilofrine,CNC(C)C(O)c1ccc(O)cc1,structure_1153.png,coordinates_1153.npz,13,13
+Oxitriptan,NC(Cc1c[nH]c2ccc(O)cc12)C(=O)O,structure_1154.png,coordinates_1154.npz,16,17
+Oxprenolol,C=CCOc1ccccc1OCC(O)CNC(C)C,structure_1155.png,coordinates_1155.npz,19,19
+Oxtriphylline,C[N+](C)(C)CCO.Cn1c2ncnc-2c([O-])n(C)c1=O,structure_1156.png,coordinates_1156.npz,20,20
+Oxybuprocaine,CCCCOc1cc(C(=O)OCCN(CC)CC)ccc1N,structure_1157.png,coordinates_1157.npz,22,22
+Oxybutynin,CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,structure_1158.png,coordinates_1158.npz,26,27
+Oxycodone,COc1ccc2c3c1OC1C(=O)CCC4(O)C(C2)N(C)CCC314,structure_1159.png,coordinates_1159.npz,23,27
+Oxymetazoline,Cc1cc(C(C)(C)C)c(O)c(C)c1CC1=NCCN1,structure_1160.png,coordinates_1160.npz,19,20
+Oxymetholone,CC12CC(=CO)C(=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,structure_1161.png,coordinates_1161.npz,24,27
+Oxymorphone,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,structure_1162.png,coordinates_1162.npz,22,26
+Oxyphenbutazone,CCCCC1C(=O)N(c2ccccc2)N(c2ccc(O)cc2)C1=O,structure_1163.png,coordinates_1163.npz,24,26
+Oxyphenonium,CC[N+](C)(CC)CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,structure_1164.png,coordinates_1164.npz,25,26
+Oxytetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12,structure_1165.png,coordinates_1165.npz,33,36
+Ozenoxacin,CNc1ncc(-c2ccc3c(=O)c(C(=O)O)cn(C4CC4)c3c2C)cc1C,structure_1166.png,coordinates_1166.npz,27,30
+Paclitaxel,CC(=O)OC1C(=O)C2(C)C(O)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)C(C)=C1C2(C)C,structure_1167.png,coordinates_1167.npz,62,68
+Palbociclib,CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O,structure_1168.png,coordinates_1168.npz,33,37
+Paliperidone,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O,structure_1169.png,coordinates_1169.npz,31,35
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,structure_1170.png,coordinates_1170.npz,18,17
+Palonosetron,O=C1c2cccc3c2C(CCC3)CN1C1CN2CCC1CC2,structure_1171.png,coordinates_1171.npz,22,26
+Pamidronic acid,NCCC(O)(P(=O)(O)O)P(=O)(O)O,structure_1172.png,coordinates_1172.npz,13,12
+Pancuronium,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1[N+]1(C)CCCCC1,structure_1173.png,coordinates_1173.npz,41,46
+Panobinostat,Cc1[nH]c2ccccc2c1CCNCc1ccc(C=CC(=O)NO)cc1,structure_1174.png,coordinates_1174.npz,26,28
+Pantoprazole,COc1ccnc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC,structure_1175.png,coordinates_1175.npz,26,28
+Papaverine,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,structure_1176.png,coordinates_1176.npz,25,27
+Paraldehyde,CC1OC(C)OC(C)O1,structure_1177.png,coordinates_1177.npz,9,9
+Paramethadione,CCC1(C)OC(=O)N(C)C1=O,structure_1178.png,coordinates_1178.npz,11,11
+Paramethasone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3C(O)CC2(C)C1(O)C(=O)CO,structure_1179.png,coordinates_1179.npz,28,31
+Parecoxib,CCC(=O)NS(=O)(=O)c1ccc(-c2c(-c3ccccc3)noc2C)cc1,structure_1180.png,coordinates_1180.npz,26,28
+Pargyline,C#CCN(C)Cc1ccccc1,structure_1181.png,coordinates_1181.npz,12,12
+Paricalcitol,CC(C=CC(C)C(C)(C)O)C1CCC2C(=CC=C3CC(O)CC(O)C3)CCCC21C,structure_1182.png,coordinates_1182.npz,30,32
+Paritaprevir,Cc1cnc(C(=O)NC2CCCCCC=CC3CC3(C(=O)NS(=O)(=O)C3CC3)NC(=O)C3CC(Oc4nc5ccccc5c5ccccc45)CN3C2=O)cn1,structure_1183.png,coordinates_1183.npz,55,62
+Paromomycin,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CO)C(O)C(O)C3N)C2O)C(N)C(O)C1O,structure_1184.png,coordinates_1184.npz,42,45
+Paroxetine,Fc1ccc(C2CCNCC2COc2ccc3c(c2)OCO3)cc1,structure_1185.png,coordinates_1185.npz,24,27
+Pasireotide,NCCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)C2CC(OC(=O)NCCN)CN2C(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccc(OCc3ccccc3)cc2)NC1=O,structure_1186.png,coordinates_1186.npz,77,84
+Pazopanib,Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O,structure_1187.png,coordinates_1187.npz,31,34
+Pefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21,structure_1188.png,coordinates_1188.npz,24,26
+Pemetrexed,Nc1nc2[nH]cc(CCc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)c2c(=O)[nH]1,structure_1189.png,coordinates_1189.npz,31,33
+Pemirolast,Cc1cccn2c(=O)c(-c3nn[nH]n3)cnc12,structure_1190.png,coordinates_1190.npz,17,19
+Penbutolol,CC(C)(C)NCC(O)COc1ccccc1C1CCCC1,structure_1191.png,coordinates_1191.npz,21,22
+Penicillamine,CC(C)(S)C(N)C(=O)O,structure_1192.png,coordinates_1192.npz,9,8
+Pentaerythritol tetranitrate,O=[N+]([O-])OCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-],structure_1193.png,coordinates_1193.npz,21,20
+Pentamidine,N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1,structure_1194.png,coordinates_1194.npz,25,26
+Pentazocine,CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C,structure_1195.png,coordinates_1195.npz,21,23
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,structure_1196.png,coordinates_1196.npz,16,16
+Pentolinium,C[N+]1(CCCCC[N+]2(C)CCCC2)CCCC1,structure_1197.png,coordinates_1197.npz,17,18
+Pentostatin,OCC1OC(n2cnc3c2NC=NCC3O)CC1O,structure_1198.png,coordinates_1198.npz,19,21
+Pentoxifylline,CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,structure_1199.png,coordinates_1199.npz,20,21
+Perampanel,N#Cc1ccccc1-c1cc(-c2ccccn2)cn(-c2ccccc2)c1=O,structure_1200.png,coordinates_1200.npz,27,30
+Perflutren,FC(F)(F)C(F)(F)C(F)(F)F,structure_1201.png,coordinates_1201.npz,11,10
+Pergolide,CCCN1CC(CSC)CC2c3cccc4[nH]cc(c34)CC21,structure_1202.png,coordinates_1202.npz,22,25
+Perhexiline,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,structure_1203.png,coordinates_1203.npz,20,22
+Periciazine,N#Cc1ccc2c(c1)N(CCCN1CCC(O)CC1)c1ccccc1S2,structure_1204.png,coordinates_1204.npz,26,29
+Perindopril,CCCC(NC(C)C(=O)N1C(C(=O)O)CC2CCCCC21)C(=O)OCC,structure_1205.png,coordinates_1205.npz,26,27
+Permethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,structure_1206.png,coordinates_1206.npz,26,28
+Perospirone,O=C1C2CCCCC2C(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1,structure_1207.png,coordinates_1207.npz,30,34
+Perphenazine,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,structure_1208.png,coordinates_1208.npz,27,30
+Phenacemide,NC(=O)NC(=O)Cc1ccccc1,structure_1209.png,coordinates_1209.npz,13,13
+Phenazopyridine,Nc1ccc(N=Nc2ccccc2)c(N)n1,structure_1210.png,coordinates_1210.npz,16,17
+Phendimetrazine,CC1C(c2ccccc2)OCCN1C,structure_1211.png,coordinates_1211.npz,14,15
+Phenelzine,NNCCc1ccccc1,structure_1212.png,coordinates_1212.npz,10,10
+Phenformin,NC(N)=NC(N)=NCCc1ccccc1,structure_1213.png,coordinates_1213.npz,15,15
+Phenindamine,CN1CCC2=C(C1)C(c1ccccc1)c1ccccc12,structure_1214.png,coordinates_1214.npz,20,23
+Phenindione,O=C1c2ccccc2C(=O)C1c1ccccc1,structure_1215.png,coordinates_1215.npz,17,19
+Pheniramine,CN(C)CCC(c1ccccc1)c1ccccn1,structure_1216.png,coordinates_1216.npz,18,19
+Phenmetrazine,CC1NCCOC1c1ccccc1,structure_1217.png,coordinates_1217.npz,13,14
+Phenobarbital,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,structure_1218.png,coordinates_1218.npz,17,18
+Phenoxybenzamine,CC(COc1ccccc1)N(CCCl)Cc1ccccc1,structure_1219.png,coordinates_1219.npz,21,22
+Phenoxymethylpenicillin,CC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)O,structure_1220.png,coordinates_1220.npz,24,26
+Phenprocoumon,CCC(c1ccccc1)c1c(O)c2ccccc2oc1=O,structure_1221.png,coordinates_1221.npz,21,23
+Phensuximide,CN1C(=O)CC(c2ccccc2)C1=O,structure_1222.png,coordinates_1222.npz,14,15
+Phentermine,CC(C)(N)Cc1ccccc1,structure_1223.png,coordinates_1223.npz,11,11
+Phentolamine,Cc1ccc(N(CC2=NCCN2)c2cccc(O)c2)cc1,structure_1224.png,coordinates_1224.npz,21,23
+Phenylacetic acid,O=C(O)Cc1ccccc1,structure_1225.png,coordinates_1225.npz,10,10
+Phenylalanine,NC(Cc1ccccc1)C(=O)O,structure_1226.png,coordinates_1226.npz,12,12
+Phenylbutazone,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,structure_1227.png,coordinates_1227.npz,23,25
+Phenylbutyric acid,O=C(O)CCCc1ccccc1,structure_1228.png,coordinates_1228.npz,12,12
+Phenylephrine,CNCC(O)c1cccc(O)c1,structure_1229.png,coordinates_1229.npz,12,12
+Phenylpropanolamine,CC(N)C(O)c1ccccc1,structure_1230.png,coordinates_1230.npz,11,11
+Phenytoin,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,structure_1231.png,coordinates_1231.npz,19,21
+Pholcodine,CN1CCC23c4c5ccc(OCCN6CCOCC6)c4OC2C(O)C=CC3C1C5,structure_1232.png,coordinates_1232.npz,29,34
+Phylloquinone,CC(=CCC1=C(C)C(=O)c2ccccc2C1=O)CCCC(C)CCCC(C)CCCC(C)C,structure_1233.png,coordinates_1233.npz,33,34
+Physostigmine,CNC(=O)Oc1ccc2c(c1)C1(C)CCN(C)C1N2C,structure_1234.png,coordinates_1234.npz,20,22
+Pibrentasvir,COC(=O)NC(C(=O)N1CCCC1c1nc2cc(F)c(C3CCC(c4cc5[nH]c(C6CCCN6C(=O)C(NC(=O)OC)C(C)OC)nc5cc4F)N3c3cc(F)c(N4CCC(c5ccc(F)cc5)CC4)c(F)c3)cc2[nH]1)C(C)OC,structure_1235.png,coordinates_1235.npz,80,89
+Picosulfuric acid,O=S(=O)(O)Oc1ccc(C(c2ccc(OS(=O)(=O)O)cc2)c2ccccn2)cc1,structure_1236.png,coordinates_1236.npz,29,31
+Pilocarpine,CCC1C(=O)OCC1Cc1cncn1C,structure_1237.png,coordinates_1237.npz,15,16
+Pimavanserin,CC(C)COc1ccc(CNC(=O)N(Cc2ccc(F)cc2)C2CCN(C)CC2)cc1,structure_1238.png,coordinates_1238.npz,31,33
+Pimecrolimus,CCC1C=C(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(Cl)C(OC)C3)C(C)C(O)CC1=O)C(C)CC2OC,structure_1239.png,coordinates_1239.npz,56,59
+Pimozide,O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,structure_1240.png,coordinates_1240.npz,34,38
+Pinaverium,COc1cc(Br)c(C[N+]2(CCOCCC3CCC4CC3C4(C)C)CCOCC2)cc1OC,structure_1241.png,coordinates_1241.npz,32,35
+Pindolol,CC(C)NCC(O)COc1cccc2[nH]ccc12,structure_1242.png,coordinates_1242.npz,18,19
+Pioglitazone,CCc1ccc(CCOc2ccc(CC3SC(=O)NC3=O)cc2)nc1,structure_1243.png,coordinates_1243.npz,25,27
+Pipamperone,NC(=O)C1(N2CCCCC2)CCN(CCCC(=O)c2ccc(F)cc2)CC1,structure_1244.png,coordinates_1244.npz,27,29
+Pipazethate,O=C(OCCOCCN1CCCCC1)N1c2ccccc2Sc2cccnc21,structure_1245.png,coordinates_1245.npz,28,31
+Pipecuronium,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC(N3CC[N+](C)(C)CC3)C4OC(C)=O)C2(C)CC1N1CC[N+](C)(C)CC1,structure_1246.png,coordinates_1246.npz,43,48
+Piperacillin,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)O)c2ccccc2)C(=O)C1=O,structure_1247.png,coordinates_1247.npz,36,39
+Piperazine,C1CNCCN1,structure_1248.png,coordinates_1248.npz,6,6
+Pipobroman,O=C(CCBr)N1CCN(C(=O)CCBr)CC1,structure_1249.png,coordinates_1249.npz,16,16
+Pipotiazine,CN(C)S(=O)(=O)c1ccc2c(c1)N(CCCN1CCC(CCO)CC1)c1ccccc1S2,structure_1250.png,coordinates_1250.npz,32,35
+Piracetam,NC(=O)CN1CCCC1=O,structure_1251.png,coordinates_1251.npz,10,10
+Pirbuterol,CC(C)(C)NCC(O)c1ccc(O)c(CO)n1,structure_1252.png,coordinates_1252.npz,17,17
+Pirenzepine,CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)CC1,structure_1253.png,coordinates_1253.npz,26,29
+Pirfenidone,Cc1ccc(=O)n(-c2ccccc2)c1,structure_1254.png,coordinates_1254.npz,14,15
+Pirlindole,Cc1ccc2c(c1)c1c3n2CCNC3CCC1,structure_1255.png,coordinates_1255.npz,17,20
+Piroxicam,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,structure_1256.png,coordinates_1256.npz,23,25
+Pitavastatin,O=C(O)CC(O)CC(O)C=Cc1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1,structure_1257.png,coordinates_1257.npz,31,34
+Pivampicillin,CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1(C)C,structure_1258.png,coordinates_1258.npz,32,34
+Pivmecillinam,CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)C(N=CN3CCCCCC3)C2SC1(C)C,structure_1259.png,coordinates_1259.npz,30,32
+Pixantrone,NCCNc1ccc(NCCN)c2c1C(=O)c1ccncc1C2=O,structure_1260.png,coordinates_1260.npz,24,26
+Pizotifen,CN1CCC(=C2c3ccccc3CCc3sccc32)CC1,structure_1261.png,coordinates_1261.npz,21,24
+Plicamycin,COC(C(=O)C(O)C(C)O)C1Cc2cc3cc(OC4CC(OC5CC(O)C(O)C(C)O5)C(O)C(C)O4)c(C)c(O)c3c(O)c2C(=O)C1OC1CC(OC2CC(OC3CC(C)(O)C(O)C(C)O3)C(O)C(C)O2)C(O)C(C)O1,structure_1262.png,coordinates_1262.npz,76,83
+Podofilox,COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC,structure_1263.png,coordinates_1263.npz,30,34
+Podophyllin,COc1cc(C2c3cc4c(cc3C(O)C(CO)C2C(=O)O)OCO4)cc(OC)c1OC.COc1cc(C2c3cc4c(cc3C(O)C(CO)C2C(=O)O)OCO4)cc(OC)c1OC.COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC.COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC,structure_1264.png,coordinates_1264.npz,122,136
+Polaprezinc,NCCC(=O)NC(Cc1c[n-]cn1)C(=O)[O-].[Zn+2],structure_1265.png,coordinates_1265.npz,17,16
+Pomalidomide,Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,structure_1266.png,coordinates_1266.npz,20,22
+Ponatinib,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,structure_1267.png,coordinates_1267.npz,39,43
+Posaconazole,CCC(C(C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O,structure_1268.png,coordinates_1268.npz,51,57
+Potassium alum,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[K+],structure_1269.png,coordinates_1269.npz,12,8
+Potassium cation,[K+],structure_1270.png,coordinates_1270.npz,1,0
+Potassium chloride,[Cl-].[K+],structure_1271.png,coordinates_1271.npz,2,0
+Potassium citrate,O.O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[K+].[K+].[K+],structure_1272.png,coordinates_1272.npz,17,12
+Potassium Iodide,[I-].[K+],structure_1273.png,coordinates_1273.npz,2,0
+Practolol,CC(=O)Nc1ccc(OCC(O)CNC(C)C)cc1,structure_1274.png,coordinates_1274.npz,19,19
+Pralatrexate,C#CCC(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,structure_1275.png,coordinates_1275.npz,35,37
+Pramipexole,CCCNC1CCc2nc(N)sc2C1,structure_1276.png,coordinates_1276.npz,14,15
+Pramocaine,CCCCOc1ccc(OCCCN2CCOCC2)cc1,structure_1277.png,coordinates_1277.npz,21,22
+Pranlukast,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,structure_1278.png,coordinates_1278.npz,36,40
+Prasterone,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,structure_1279.png,coordinates_1279.npz,21,24
+Prasugrel,CC(=O)Oc1cc2c(s1)CCN(C(C(=O)C1CC1)c1ccccc1F)C2,structure_1280.png,coordinates_1280.npz,26,29
+Pravastatin,CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,structure_1281.png,coordinates_1281.npz,30,31
+Prazepam,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1CC1CC1,structure_1282.png,coordinates_1282.npz,23,26
+Praziquantel,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,structure_1283.png,coordinates_1283.npz,23,26
+Prazosin,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC,structure_1284.png,coordinates_1284.npz,28,31
+Prednicarbate,CCOC(=O)OC1(C(=O)COC(=O)CC)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,structure_1285.png,coordinates_1285.npz,35,38
+Prednisolone,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,structure_1286.png,coordinates_1286.npz,26,29
+Prednisone,CC12C=CC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,structure_1287.png,coordinates_1287.npz,26,29
+Pregabalin,CC(C)CC(CN)CC(=O)O,structure_1288.png,coordinates_1288.npz,11,10
+Prilocaine,CCCNC(C)C(=O)Nc1ccccc1C,structure_1289.png,coordinates_1289.npz,16,16
+Primaquine,COc1cc(NC(C)CCCN)c2ncccc2c1,structure_1290.png,coordinates_1290.npz,19,20
+Primidone,CCC1(c2ccccc2)C(=O)NCNC1=O,structure_1291.png,coordinates_1291.npz,16,17
+Probenecid,CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1,structure_1292.png,coordinates_1292.npz,19,19
+Probucol,CC(C)(Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1)Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,structure_1293.png,coordinates_1293.npz,35,36
+Procainamide,CCN(CC)CCNC(=O)c1ccc(N)cc1,structure_1294.png,coordinates_1294.npz,17,17
+Procaine,CCN(CC)CCOC(=O)c1ccc(N)cc1,structure_1295.png,coordinates_1295.npz,17,17
+Procaine benzylpenicillin,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O.CCN(CC)CCOC(=O)c1ccc(N)cc1,structure_1296.png,coordinates_1296.npz,40,42
+Procarbazine,CNNCc1ccc(C(=O)NC(C)C)cc1,structure_1297.png,coordinates_1297.npz,16,16
+Procaterol,CCC(NC(C)C)C(O)c1ccc(O)c2[nH]c(=O)ccc12,structure_1298.png,coordinates_1298.npz,21,22
+Prochlorperazine,CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,structure_1299.png,coordinates_1299.npz,25,28
+Procyclidine,OC(CCN1CCCC1)(c1ccccc1)C1CCCCC1,structure_1300.png,coordinates_1300.npz,21,23
+Profenamine,CCN(CC)C(C)CN1c2ccccc2Sc2ccccc21,structure_1301.png,coordinates_1301.npz,22,24
+Progabide,NC(=O)CCCN=C(c1ccc(Cl)cc1)c1cc(F)ccc1O,structure_1302.png,coordinates_1302.npz,23,24
+Progesterone,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,structure_1303.png,coordinates_1303.npz,23,26
+Proguanil,CC(C)N=C(N)N=C(N)Nc1ccc(Cl)cc1,structure_1304.png,coordinates_1304.npz,17,17
+Promazine,CN(C)CCCN1c2ccccc2Sc2ccccc21,structure_1305.png,coordinates_1305.npz,20,22
+Promethazine,CC(CN1c2ccccc2Sc2ccccc21)N(C)C,structure_1306.png,coordinates_1306.npz,20,22
+Propacetamol,CCN(CC)CC(=O)Oc1ccc(NC(C)=O)cc1,structure_1307.png,coordinates_1307.npz,19,19
+Propafenone,CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1,structure_1308.png,coordinates_1308.npz,25,26
+Propantheline,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C,structure_1309.png,coordinates_1309.npz,27,29
+Proparacaine,CCCOc1ccc(C(=O)OCCN(CC)CC)cc1N,structure_1310.png,coordinates_1310.npz,21,21
+Propiverine,CCCOC(C(=O)OC1CCN(C)CC1)(c1ccccc1)c1ccccc1,structure_1311.png,coordinates_1311.npz,27,29
+Propofol,CC(C)c1cccc(C(C)C)c1O,structure_1312.png,coordinates_1312.npz,13,13
+Propoxycaine,CCCOc1cc(N)ccc1C(=O)OCCN(CC)CC,structure_1313.png,coordinates_1313.npz,21,21
+Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,structure_1314.png,coordinates_1314.npz,19,20
+Propylthiouracil,CCCc1cc(=O)[nH]c(=S)[nH]1,structure_1315.png,coordinates_1315.npz,11,11
+Protocatechualdehyde,O=Cc1ccc(O)c(O)c1,structure_1316.png,coordinates_1316.npz,10,10
+Protriptyline,CNCCCC1c2ccccc2C=Cc2ccccc21,structure_1317.png,coordinates_1317.npz,20,22
+Prucalopride,COCCCN1CCC(NC(=O)c2cc(Cl)c(N)c3c2OCC3)CC1,structure_1318.png,coordinates_1318.npz,25,27
+Pseudoephedrine,CNC(C)C(O)c1ccccc1,structure_1319.png,coordinates_1319.npz,12,12
+Pyrantel,CN1CCCN=C1C=Cc1cccs1,structure_1320.png,coordinates_1320.npz,14,15
+Pyrazinamide,NC(=O)c1cnccn1,structure_1321.png,coordinates_1321.npz,9,9
+Pyridostigmine,CN(C)C(=O)Oc1ccc[n+](C)c1,structure_1322.png,coordinates_1322.npz,13,13
+Pyridoxine,Cc1ncc(CO)c(CO)c1O,structure_1323.png,coordinates_1323.npz,12,12
+Pyrimethamine,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1,structure_1324.png,coordinates_1324.npz,17,18
+Pyrvinium,Cc1cc(C=Cc2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1,structure_1325.png,coordinates_1325.npz,29,32
+Quazepam,Fc1ccccc1C1=NCC(=S)N(CC(F)(F)F)c2ccc(Cl)cc21,structure_1326.png,coordinates_1326.npz,25,27
+Quetiapine,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,structure_1327.png,coordinates_1327.npz,27,30
+Quinacrine,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,structure_1328.png,coordinates_1328.npz,28,30
+Quinagolide,CCCN1CC(NS(=O)(=O)N(CC)CC)CC2Cc3c(O)cccc3CC21,structure_1329.png,coordinates_1329.npz,27,29
+Quinapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2ccccc2CC1C(=O)O,structure_1330.png,coordinates_1330.npz,32,34
+Quinestrol,C#CC1(O)CCC2C3CCc4cc(OC5CCCC5)ccc4C3CCC21C,structure_1331.png,coordinates_1331.npz,27,31
+Quinethazone,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,structure_1332.png,coordinates_1332.npz,18,19
+Quinidine,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,structure_1333.png,coordinates_1333.npz,24,27
+Quinine,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,structure_1334.png,coordinates_1334.npz,24,27
+Quinupristin,CCC1NC(=O)C(NC(=O)c2ncccc2O)C(C)OC(=O)C(c2ccccc2)NC(=O)C2CC(=O)C(CSC3CN4CCC3CC4)CN2C(=O)C(Cc2ccc(N(C)C)cc2)N(C)C(=O)C2CCCN2C1=O,structure_1335.png,coordinates_1335.npz,73,80
+Rabeprazole,COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C,structure_1336.png,coordinates_1336.npz,25,27
+Raloxifene,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,structure_1337.png,coordinates_1337.npz,34,38
+Raltegravir,Cc1nnc(C(=O)NC(C)(C)c2nc(C(=O)NCc3ccc(F)cc3)c(O)c(=O)n2C)o1,structure_1338.png,coordinates_1338.npz,32,34
+Raltitrexed,Cc1nc2ccc(CN(C)c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)s3)cc2c(=O)[nH]1,structure_1339.png,coordinates_1339.npz,32,34
+Ramelteon,CCC(=O)NCCC1CCc2ccc3c(c21)CCO3,structure_1340.png,coordinates_1340.npz,19,21
+Ramipril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(C(=O)O)CC2CCCC21,structure_1341.png,coordinates_1341.npz,30,32
+Ramosetron,Cn1cc(C(=O)C2CCc3nc[nH]c3C2)c2ccccc21,structure_1342.png,coordinates_1342.npz,21,24
+Ranitidine,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,structure_1343.png,coordinates_1343.npz,21,21
+Ranolazine,COc1ccccc1OCC(O)CN1CCN(CC(=O)Nc2c(C)cccc2C)CC1,structure_1344.png,coordinates_1344.npz,31,33
+Rasagiline,C#CCNC1CCc2ccccc21,structure_1345.png,coordinates_1345.npz,13,14
+Reboxetine,CCOc1ccccc1OC(c1ccccc1)C1CNCCO1,structure_1346.png,coordinates_1346.npz,23,25
+Regadenoson,CNC(=O)c1cnn(-c2nc(N)c3ncn(C4OC(CO)C(O)C4O)c3n2)c1,structure_1347.png,coordinates_1347.npz,28,31
+Regorafenib,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1,structure_1348.png,coordinates_1348.npz,33,35
+Remifentanil,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCC(=O)OC)CC1,structure_1349.png,coordinates_1349.npz,27,28
+Remikiren,CC(C)(C)S(=O)(=O)CC(Cc1ccccc1)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC1CCCCC1)C(O)C(O)C1CC1,structure_1350.png,coordinates_1350.npz,44,47
+Remoxipride,CCN1CCCC1CNC(=O)c1c(OC)ccc(Br)c1OC,structure_1351.png,coordinates_1351.npz,22,23
+Repaglinide,CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,structure_1352.png,coordinates_1352.npz,33,35
+Rescinnamine,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)C=Cc2cc(OC)c(OC)c(OC)c2)C1OC,structure_1353.png,coordinates_1353.npz,46,51
+Reserpine,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC,structure_1354.png,coordinates_1354.npz,44,49
+Resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,structure_1355.png,coordinates_1355.npz,17,18
+Retapamulin,C=CC1(C)CC(OC(=O)CSC2CC3CCC(C2)N3C)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O,structure_1356.png,coordinates_1356.npz,36,40
+Ribavirin,NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1,structure_1357.png,coordinates_1357.npz,17,18
+Ribociclib,CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1,structure_1358.png,coordinates_1358.npz,32,36
+Riboflavin,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,structure_1359.png,coordinates_1359.npz,27,29
+Ribostamycin,NCC1OC(OC2C(N)CC(N)C(O)C2OC2OC(CO)C(O)C2O)C(N)C(O)C1O,structure_1360.png,coordinates_1360.npz,31,33
+Ridogrel,O=C(O)CCCCON=C(c1cccnc1)c1cccc(C(F)(F)F)c1,structure_1361.png,coordinates_1361.npz,26,27
+Rifabutin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(c4c3C2=O)=NC2(CCN(CC(C)C)CC2)N=5)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,structure_1362.png,coordinates_1362.npz,61,66
+Rifampicin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,structure_1363.png,coordinates_1363.npz,59,63
+Rifapentine,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,structure_1364.png,coordinates_1364.npz,63,68
+Rifaximin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,structure_1365.png,coordinates_1365.npz,57,62
+Rilpivirine,Cc1cc(C=CC#N)cc(C)c1Nc1ccnc(Nc2ccc(C#N)cc2)n1,structure_1366.png,coordinates_1366.npz,28,30
+Riluzole,Nc1nc2ccc(OC(F)(F)F)cc2s1,structure_1367.png,coordinates_1367.npz,15,16
+Rimexolone,CCC(=O)C1(C)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,structure_1368.png,coordinates_1368.npz,27,30
+Rimonabant,Cc1c(C(=O)NN2CCCCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(Cl)cc1,structure_1369.png,coordinates_1369.npz,30,33
+Riociguat,COC(=O)N(C)c1c(N)nc(-c2nn(Cc3ccccc3F)c3ncccc23)nc1N,structure_1370.png,coordinates_1370.npz,31,34
+Risedronic acid,O=P(O)(O)C(O)(Cc1cccnc1)P(=O)(O)O,structure_1371.png,coordinates_1371.npz,17,17
+Risperidone,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2,structure_1372.png,coordinates_1372.npz,30,34
+Ritodrine,CC(NCCc1ccc(O)cc1)C(O)c1ccc(O)cc1,structure_1373.png,coordinates_1373.npz,21,22
+Ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,structure_1374.png,coordinates_1374.npz,50,53
+Rivaroxaban,O=C(NCC1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1,structure_1375.png,coordinates_1375.npz,29,32
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,structure_1376.png,coordinates_1376.npz,18,18
+Rizatriptan,CN(C)CCc1c[nH]c2ccc(Cn3cncn3)cc12,structure_1377.png,coordinates_1377.npz,20,22
+Rocuronium,C=CC[N+]1(C2CC3C4CCC5CC(O)C(N6CCOCC6)CC5(C)C4CCC3(C)C2OC(C)=O)CCCC1,structure_1378.png,coordinates_1378.npz,38,43
+Roflumilast,O=C(Nc1c(Cl)cncc1Cl)c1ccc(OC(F)F)c(OCC2CC2)c1,structure_1379.png,coordinates_1379.npz,26,28
+Rolapitant,CC(OCC1(c2ccccc2)CCC2(CCC(=O)N2)CN1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,structure_1380.png,coordinates_1380.npz,35,38
+Rolitetracycline,CN(C)C1C(=O)C(C(=O)NCN2CCCC2)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,structure_1381.png,coordinates_1381.npz,38,42
+Romidepsin,CC=C1NC(=O)C2CSSCCC=CC(CC(=O)NC(C(C)C)C(=O)N2)OC(=O)C(C(C)C)NC1=O,structure_1382.png,coordinates_1382.npz,36,37
+Ropinirole,CCCN(CCC)CCc1cccc2c1CC(=O)N2,structure_1383.png,coordinates_1383.npz,19,20
+Ropivacaine,CCCN1CCCCC1C(=O)Nc1c(C)cccc1C,structure_1384.png,coordinates_1384.npz,20,21
+Rosiglitazone,CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1,structure_1385.png,coordinates_1385.npz,25,27
+Rosoxacin,CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21,structure_1386.png,coordinates_1386.npz,22,24
+Rosuvastatin,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O,structure_1387.png,coordinates_1387.npz,33,34
+Rotigotine,CCCN(CCc1cccs1)C1CCc2c(O)cccc2C1,structure_1388.png,coordinates_1388.npz,22,24
+Roxatidine acetate,CC(=O)OCC(=O)NCCCOc1cccc(CN2CCCCC2)c1,structure_1389.png,coordinates_1389.npz,25,26
+Roxithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O,structure_1390.png,coordinates_1390.npz,58,60
+Rucaparib,CNCc1ccc(-c2[nH]c3cc(F)cc4c3c2CCNC4=O)cc1,structure_1391.png,coordinates_1391.npz,24,27
+Rufinamide,NC(=O)c1cn(Cc2c(F)cccc2F)nn1,structure_1392.png,coordinates_1392.npz,17,18
+Rupatadine,Cc1cncc(CN2CCC(=C3c4ccc(Cl)cc4CCc4cccnc43)CC2)c1,structure_1393.png,coordinates_1393.npz,30,34
+Ruxolitinib,N#CCC(C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1,structure_1394.png,coordinates_1394.npz,23,26
+Sacubitril,CCOC(=O)C(C)CC(Cc1ccc(-c2ccccc2)cc1)NC(=O)CCC(=O)O,structure_1395.png,coordinates_1395.npz,30,31
+Safinamide,CC(NCc1ccc(OCc2cccc(F)c2)cc1)C(N)=O,structure_1396.png,coordinates_1396.npz,22,23
+Salbutamol,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1,structure_1397.png,coordinates_1397.npz,17,17
+Salicylamide,NC(=O)c1ccccc1O,structure_1398.png,coordinates_1398.npz,10,10
+Salicylic acid,O=C(O)c1ccccc1O,structure_1399.png,coordinates_1399.npz,10,10
+Salmeterol,OCc1cc(C(O)CNCCCCCCOCCCCc2ccccc2)ccc1O,structure_1400.png,coordinates_1400.npz,30,31
+Salsalate,O=C(Oc1ccccc1C(=O)O)c1ccccc1O,structure_1401.png,coordinates_1401.npz,19,20
+Sapropterin,CC(O)C(O)C1CNc2nc(N)[nH]c(=O)c2N1,structure_1402.png,coordinates_1402.npz,17,18
+Saquinavir,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,structure_1403.png,coordinates_1403.npz,49,53
+Saxagliptin,N#CC1CC2CC2N1C(=O)C(N)C12CC3CC(CC(O)(C3)C1)C2,structure_1404.png,coordinates_1404.npz,23,27
+Scopolamine,CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,structure_1405.png,coordinates_1405.npz,22,25
+Secobarbital,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O,structure_1406.png,coordinates_1406.npz,17,17
+Selegiline,C#CCN(C)C(C)Cc1ccccc1,structure_1407.png,coordinates_1407.npz,14,14
+Selenium,[Se],structure_1408.png,coordinates_1408.npz,1,0
+Selexipag,CC(C)N(CCCCOCC(=O)NS(C)(=O)=O)c1cnc(-c2ccccc2)c(-c2ccccc2)n1,structure_1409.png,coordinates_1409.npz,35,37
+Seratrodast,CC1=C(C)C(=O)C(C(CCCCCC(=O)O)c2ccccc2)=C(C)C1=O,structure_1410.png,coordinates_1410.npz,26,27
+Sertaconazole,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1,structure_1411.png,coordinates_1411.npz,27,30
+Sertindole,O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1,structure_1412.png,coordinates_1412.npz,31,35
+Sertraline,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,structure_1413.png,coordinates_1413.npz,20,22
+Sevoflurane,FCOC(C(F)(F)F)C(F)(F)F,structure_1414.png,coordinates_1414.npz,12,11
+Sibutramine,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1,structure_1415.png,coordinates_1415.npz,19,20
+Sildenafil,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12,structure_1416.png,coordinates_1416.npz,33,36
+Silodosin,CC(Cc1cc2c(c(C(N)=O)c1)N(CCCO)CC2)NCCOc1ccccc1OCC(F)(F)F,structure_1417.png,coordinates_1417.npz,35,37
+Silver sulfadiazine,Nc1ccc(S(=O)(=O)[N-]c2ncccn2)cc1.[Ag+],structure_1418.png,coordinates_1418.npz,18,18
+Simeprevir,COc1ccc2c(OC3CC4C(=O)NC5(C(=O)NS(=O)(=O)C6CC6)CC5C=CCCCCN(C)C(=O)C4C3)cc(-c3nc(C(C)C)cs3)nc2c1C,structure_1419.png,coordinates_1419.npz,52,58
+Simvastatin,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,structure_1420.png,coordinates_1420.npz,30,32
+Sirolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,structure_1421.png,coordinates_1421.npz,65,68
+Sitagliptin,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F,structure_1422.png,coordinates_1422.npz,28,30
+Sitaxentan,Cc1cc2c(cc1CC(=O)c1sccc1S(=O)(=O)Nc1onc(C)c1Cl)OCO2,structure_1423.png,coordinates_1423.npz,29,32
+Sodium aurothiomalate,O=C([O-])CC([S-])C(=O)[O-].[Au+].[Na+].[Na+],structure_1424.png,coordinates_1424.npz,12,8
+Sodium bicarbonate,O=C([O-])O.[Na+],structure_1425.png,coordinates_1425.npz,5,3
+Sodium chloride,[Cl-].[Na+],structure_1426.png,coordinates_1426.npz,2,0
+Sodium citrate,O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+],structure_1427.png,coordinates_1427.npz,16,12
+Sodium glycerophosphate,O=P([O-])([O-])OCC(O)CO.[Na+].[Na+],structure_1428.png,coordinates_1428.npz,12,9
+Sodium oxybate,O=C([O-])CCCO.[Na+],structure_1429.png,coordinates_1429.npz,8,6
+"Sodium phosphate, monobasic",O=P([O-])(O)O.[Na+],structure_1430.png,coordinates_1430.npz,6,4
+Sodium stibogluconate,O.O.O.O.O.O.O.O.O.O=C([O-])C1[O][Sb](=[O])([O][Sb]2(=[O])[O]C(C(=O)[O-])C(O)C(C(O)CO)[O]2)[O]C(C(O)CO)C1O.[Na+].[Na+].[Na+],structure_1431.png,coordinates_1431.npz,43,32
+Sofosbuvir,CC(C)OC(=O)C(C)NP(=O)(OCC1OC(n2ccc(=O)[nH]c2=O)C(C)(F)C1O)Oc1ccccc1,structure_1432.png,coordinates_1432.npz,36,38
+Solifenacin,O=C(OC1CN2CCC1CC2)N1CCc2ccccc2C1c1ccccc1,structure_1433.png,coordinates_1433.npz,27,31
+Somatostatin,CC(N)C(=O)NCC(=O)NC1CSSCC(C(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(Cc2ccccc2)NC(=O)C(C(C)O)NC(=O)C(CCCCN)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccccc2)NC(=O)C(CC(N)=O)NC(=O)C(CCCCN)NC1=O,structure_1434.png,coordinates_1434.npz,115,120
+Sonidegib,Cc1c(C(=O)Nc2ccc(N3CC(C)OC(C)C3)nc2)cccc1-c1ccc(OC(F)(F)F)cc1,structure_1435.png,coordinates_1435.npz,35,38
+Sorafenib,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,structure_1436.png,coordinates_1436.npz,32,34
+Sotalol,CC(C)NCC(O)c1ccc(NS(C)(=O)=O)cc1,structure_1437.png,coordinates_1437.npz,18,18
+Sparfloxacin,CC1CN(c2c(F)c(N)c3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)CC(C)N1,structure_1438.png,coordinates_1438.npz,28,31
+Spectinomycin,CNC1C(O)C(NC)C2OC3(O)C(=O)CC(C)OC3OC2C1O,structure_1439.png,coordinates_1439.npz,23,25
+Spirapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CC2(CC1C(=O)O)SCCS2,structure_1440.png,coordinates_1440.npz,31,33
+Spironolactone,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,structure_1441.png,coordinates_1441.npz,29,33
+Stanozolol,CC12Cc3cn[nH]c3CC1CCC1C2CCC2(C)C1CCC2(C)O,structure_1442.png,coordinates_1442.npz,24,28
+Stavudine,Cc1cn(C2C=CC(CO)O2)c(=O)[nH]c1=O,structure_1443.png,coordinates_1443.npz,16,17
+Stepronin,CC(SC(=O)c1cccs1)C(=O)NCC(=O)O,structure_1444.png,coordinates_1444.npz,17,17
+Stiripentol,CC(C)(C)C(O)C=Cc1ccc2c(c1)OCO2,structure_1445.png,coordinates_1445.npz,17,18
+Streptomycin,CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O,structure_1446.png,coordinates_1446.npz,40,42
+Streptozocin,CN(N=O)C(=O)NC1C(O)OC(CO)C(O)C1O,structure_1447.png,coordinates_1447.npz,18,18
+Strontium ranelate,N#Cc1c(N(CC(=O)[O-])CC(=O)[O-])sc(C(=O)[O-])c1CC(=O)[O-].[Sr+2].[Sr+2],structure_1448.png,coordinates_1448.npz,25,23
+Succinylcholine,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,structure_1449.png,coordinates_1449.npz,20,19
+Sufentanil,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,structure_1450.png,coordinates_1450.npz,27,29
+Sugammadex,O=C(O)CCSCC1OC2OC3C(CSCCC(=O)O)OC(OC4C(CSCCC(=O)O)OC(OC5C(CSCCC(=O)O)OC(OC6C(CSCCC(=O)O)OC(OC7C(CSCCC(=O)O)OC(OC8C(CSCCC(=O)O)OC(OC9C(CSCCC(=O)O)OC(OC1C(O)C2O)C(O)C9O)C(O)C8O)C(O)C7O)C(O)C6O)C(O)C5O)C(O)C4O)C(O)C3O,structure_1451.png,coordinates_1451.npz,128,136
+Sulbactam,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O,structure_1452.png,coordinates_1452.npz,15,16
+Sulconazole,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,structure_1453.png,coordinates_1453.npz,24,26
+Sulfacetamide,CC(=O)NS(=O)(=O)c1ccc(N)cc1,structure_1454.png,coordinates_1454.npz,14,14
+Sulfacytine,CCn1ccc(NS(=O)(=O)c2ccc(N)cc2)nc1=O,structure_1455.png,coordinates_1455.npz,20,21
+Sulfadiazine,Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1,structure_1456.png,coordinates_1456.npz,17,18
+Sulfadimethoxine,COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1,structure_1457.png,coordinates_1457.npz,21,22
+Sulfadoxine,COc1ncnc(NS(=O)(=O)c2ccc(N)cc2)c1OC,structure_1458.png,coordinates_1458.npz,21,22
+Sulfamerazine,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,structure_1459.png,coordinates_1459.npz,18,19
+Sulfamethazine,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,structure_1460.png,coordinates_1460.npz,19,20
+Sulfamethizole,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1,structure_1461.png,coordinates_1461.npz,17,18
+Sulfamethoxazole,Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1,structure_1462.png,coordinates_1462.npz,17,18
+Sulfametopyrazine,COc1nccnc1NS(=O)(=O)c1ccc(N)cc1,structure_1463.png,coordinates_1463.npz,19,20
+Sulfamoxole,Cc1nc(NS(=O)(=O)c2ccc(N)cc2)oc1C,structure_1464.png,coordinates_1464.npz,18,19
+Sulfanilamide,Nc1ccc(S(N)(=O)=O)cc1,structure_1465.png,coordinates_1465.npz,11,11
+Sulfaphenazole,Nc1ccc(S(=O)(=O)Nc2ccnn2-c2ccccc2)cc1,structure_1466.png,coordinates_1466.npz,22,24
+Sulfapyridine,Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1,structure_1467.png,coordinates_1467.npz,17,18
+Sulfasalazine,O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,structure_1468.png,coordinates_1468.npz,28,30
+Sulfathiazole,Nc1ccc(S(=O)(=O)Nc2nccs2)cc1,structure_1469.png,coordinates_1469.npz,16,17
+Sulfinpyrazone,O=C1C(CCS(=O)c2ccccc2)C(=O)N(c2ccccc2)N1c1ccccc1,structure_1470.png,coordinates_1470.npz,29,32
+Sulfisoxazole,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,structure_1471.png,coordinates_1471.npz,18,19
+Sulindac,CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc1ccc(S(C)=O)cc1,structure_1472.png,coordinates_1472.npz,25,27
+Sulpiride,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,structure_1473.png,coordinates_1473.npz,23,24
+Sumatriptan,CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1,structure_1474.png,coordinates_1474.npz,20,21
+Sunitinib,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,structure_1475.png,coordinates_1475.npz,29,31
+Suprofen,CC(C(=O)O)c1ccc(C(=O)c2cccs2)cc1,structure_1476.png,coordinates_1476.npz,18,19
+Suramin,Cc1ccc(C(=O)Nc2ccc(S(=O)(=O)O)c3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)cc1NC(=O)c1cccc(NC(=O)Nc2cccc(C(=O)Nc3cc(C(=O)Nc4ccc(S(=O)(=O)O)c5cc(S(=O)(=O)O)cc(S(=O)(=O)O)c45)ccc3C)c2)c1,structure_1477.png,coordinates_1477.npz,86,93
+Suvorexant,Cc1ccc(-n2nccn2)c(C(=O)N2CCN(c3nc4cc(Cl)ccc4o3)CCC2C)c1,structure_1478.png,coordinates_1478.npz,32,36
+Tacrolimus,C=CCC1C=C(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(O)C(OC)C3)C(C)C(O)CC1=O)C(C)CC2OC,structure_1479.png,coordinates_1479.npz,57,60
+Tadalafil,CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c2ccc3c(c2)OCO3)C1=O,structure_1480.png,coordinates_1480.npz,29,34
+Tafluprost,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(F)(F)COc1ccccc1,structure_1481.png,coordinates_1481.npz,32,33
+Talniflumate,O=C1OC(OC(=O)c2cccnc2Nc2cccc(C(F)(F)F)c2)c2ccccc21,structure_1482.png,coordinates_1482.npz,30,33
+Tamoxifen,CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,structure_1483.png,coordinates_1483.npz,28,30
+Tamsulosin,CCOc1ccccc1OCCNC(C)Cc1ccc(OC)c(S(N)(=O)=O)c1,structure_1484.png,coordinates_1484.npz,28,29
+Tapentadol,CCC(c1cccc(O)c1)C(C)CN(C)C,structure_1485.png,coordinates_1485.npz,16,16
+Tasimelteon,CCC(=O)NCC1CC1c1cccc2c1CCO2,structure_1486.png,coordinates_1486.npz,18,20
+Tasosartan,Cc1nc(C)c2c(n1)N(Cc1ccc(-c3ccccc3-c3nn[nH]n3)cc1)C(=O)CC2,structure_1487.png,coordinates_1487.npz,31,35
+Tavaborole,OB1OCc2cc(F)ccc21,structure_1488.png,coordinates_1488.npz,11,12
+Tazarotene,CCOC(=O)c1ccc(C#Cc2ccc3c(c2)C(C)(C)CCS3)nc1,structure_1489.png,coordinates_1489.npz,25,27
+Tazobactam,CC1(Cn2ccnn2)C(C(=O)O)N2C(=O)CC2S1(=O)=O,structure_1490.png,coordinates_1490.npz,20,22
+Technetium Tc-99m mebrofenin,Cc1cc(C)c(NC(=O)CN(CC(=O)[O-])CC(=O)[O-])c(C)c1Br.Cc1cc(C)c(NC(=O)CN(CC(=O)[O-])CC(=O)[O-])c(C)c1Br.[Tc+4],structure_1491.png,coordinates_1491.npz,47,46
+Technetium Tc-99m medronate,O.O.O=P([O-])([O-])CP(=O)([O-])[O-].[Tc+4],structure_1492.png,coordinates_1492.npz,12,8
+Technetium Tc-99m sestamibi,[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[Tc],structure_1493.png,coordinates_1493.npz,49,42
+Tedizolid phosphate,Cn1nnc(-c2ccc(-c3ccc(N4CC(COP(=O)(O)O)OC4=O)cc3F)cn2)n1,structure_1494.png,coordinates_1494.npz,31,34
+Tegafur,O=c1[nH]c(=O)n(C2CCCO2)cc1F,structure_1495.png,coordinates_1495.npz,14,15
+Telaprevir,CCCC(NC(=O)C1C2CCCC2CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,structure_1496.png,coordinates_1496.npz,49,53
+Telavancin,CCCCCCCCCCNCCNC1(C)CC(OC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(CC(C)C)NC)C(O)c5ccc(c(Cl)c5)O4)c4ccc(O)c(c4)-c4c(cc(O)c(CNCP(=O)(O)O)c4O)C(C(=O)O)NC3=O)OC(CO)C(O)C2O)OC(C)C1O,structure_1497.png,coordinates_1497.npz,121,130
+Telithromycin,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C,structure_1498.png,coordinates_1498.npz,58,62
+Telmisartan,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1,structure_1499.png,coordinates_1499.npz,39,44
+Temazepam,CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21,structure_1500.png,coordinates_1500.npz,21,23
+Temoporfin,Oc1cccc(-c2c3nc(c(-c4cccc(O)c4)c4ccc([nH]4)c(-c4cccc(O)c4)c4nc(c(-c5cccc(O)c5)c5ccc2[nH]5)CC4)C=C3)c1,structure_1501.png,coordinates_1501.npz,52,60
+Temozolomide,Cn1nnc2c(C(N)=O)ncn2c1=O,structure_1502.png,coordinates_1502.npz,14,15
+Temsirolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OC(=O)C(C)(CO)CO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,structure_1503.png,coordinates_1503.npz,73,76
+Teniposide,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(c6cccs6)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,structure_1504.png,coordinates_1504.npz,46,53
+Tenofovir disoproxil,CC(C)OC(=O)OCOP(=O)(COC(C)Cn1cnc2c(N)ncnc21)OCOC(=O)OC(C)C,structure_1505.png,coordinates_1505.npz,35,36
+Tenoxicam,CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O,structure_1506.png,coordinates_1506.npz,22,24
+Terazosin,COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC,structure_1507.png,coordinates_1507.npz,28,31
+Terbinafine,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12,structure_1508.png,coordinates_1508.npz,22,23
+Terbutaline,CC(C)(C)NCC(O)c1cc(O)cc(O)c1,structure_1509.png,coordinates_1509.npz,16,16
+Terconazole,CC(C)N1CCN(c2ccc(OCC3COC(Cn4cncn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,structure_1510.png,coordinates_1510.npz,36,40
+Teriflunomide,CC(O)=C(C#N)C(=O)Nc1ccc(C(F)(F)F)cc1,structure_1511.png,coordinates_1511.npz,19,19
+Terlipressin,NCCCCC(NC(=O)C1CCCN1C(=O)C1CSSCC(NC(=O)CNC(=O)CNC(=O)CN)C(=O)NC(Cc2ccc(O)cc2)C(=O)NC(Cc2ccccc2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,structure_1512.png,coordinates_1512.npz,85,88
+Tesamorelin,CCC=CCC(=O)NC(Cc1ccc(O)cc1)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NC(C(=O)NC(CC(N)=O)C(=O)NC(CO)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)NC(CCSC)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(N)=O)C(C)CC)C(C)C)C(C)O)C(C)CC,structure_1513.png,coordinates_1513.npz,361,363
+Testolactone,CC12CCC3C(CCC4=CC(=O)C=CC43C)C1CCC(=O)O2,structure_1514.png,coordinates_1514.npz,22,25
+Testosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,structure_1515.png,coordinates_1515.npz,21,24
+Testosterone propionate,CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,structure_1516.png,coordinates_1516.npz,25,28
+Tetrabenazine,COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,structure_1517.png,coordinates_1517.npz,23,25
+Tetracaine,CCCCNc1ccc(C(=O)OCCN(C)C)cc1,structure_1518.png,coordinates_1518.npz,19,19
+Tetracosactide,CSCCC(NC(=O)C(CO)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(N)CO)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]cn1)C(=O)NC(Cc1ccccc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NCC(=O)NC(CCCCN)C(=O)N1CCCC1C(=O)NC(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(C(=O)NC(CCCCN)C(=O)NC(C(=O)NC(Cc1ccc(O)cc1)C(=O)N1CCCC1C(=O)O)C(C)C)C(C)C)C(C)C,structure_1519.png,coordinates_1519.npz,208,216
+Tetracycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12,structure_1520.png,coordinates_1520.npz,32,35
+Tetryzoline,c1ccc2c(c1)CCCC2C1=NCCN1,structure_1521.png,coordinates_1521.npz,15,17
+Thalidomide,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,structure_1522.png,coordinates_1522.npz,19,21
+Theobromine,Cn1cnc2c1c(=O)[nH]c(=O)n2C,structure_1523.png,coordinates_1523.npz,13,14
+Theophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,structure_1524.png,coordinates_1524.npz,13,14
+Thiabendazole,c1ccc2[nH]c(-c3cscn3)nc2c1,structure_1525.png,coordinates_1525.npz,14,16
+Thiamine,Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1,structure_1526.png,coordinates_1526.npz,18,19
+Thiamylal,C=CCC1(C(C)CCC)C(=O)NC(=S)NC1=O,structure_1527.png,coordinates_1527.npz,17,17
+Thiopental,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,structure_1528.png,coordinates_1528.npz,16,16
+Thioproperazine,CN1CCN(CCCN2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,structure_1529.png,coordinates_1529.npz,30,33
+Thioridazine,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2,structure_1530.png,coordinates_1530.npz,25,28
+Thiosulfuric acid,O=S(O)(O)=S,structure_1531.png,coordinates_1531.npz,5,4
+Thiotepa,S=P(N1CC1)(N1CC1)N1CC1,structure_1532.png,coordinates_1532.npz,11,13
+Thiothixene,CN1CCN(CCC=C2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,structure_1533.png,coordinates_1533.npz,30,33
+Thonzylamine,COc1ccc(CN(CCN(C)C)c2ncccn2)cc1,structure_1534.png,coordinates_1534.npz,21,22
+Thymol,Cc1ccc(C(C)C)c(O)c1,structure_1535.png,coordinates_1535.npz,11,11
+Tiagabine,Cc1ccsc1C(=CCCN1CCCC(C(=O)O)C1)c1sccc1C,structure_1536.png,coordinates_1536.npz,25,27
+Tianeptine,CN1c2ccccc2C(NCCCCCCC(=O)O)c2ccc(Cl)cc2S1(=O)=O,structure_1537.png,coordinates_1537.npz,29,31
+Tiapride,CCN(CC)CCNC(=O)c1cc(S(C)(=O)=O)ccc1OC,structure_1538.png,coordinates_1538.npz,22,22
+Tiaprofenic acid,CC(C(=O)O)c1ccc(C(=O)c2ccccc2)s1,structure_1539.png,coordinates_1539.npz,18,19
+Tibolone,C#CC1(O)CCC2C3C(C)CC4=C(CCC(=O)C4)C3CCC21C,structure_1540.png,coordinates_1540.npz,23,26
+Ticagrelor,CCCSc1nc(NC2CC2c2ccc(F)c(F)c2)c2nnn(C3CC(OCCO)C(O)C3O)c2n1,structure_1541.png,coordinates_1541.npz,36,40
+Ticarcillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccsc3)C(=O)N2C1C(=O)O,structure_1542.png,coordinates_1542.npz,25,27
+Ticlopidine,Clc1ccccc1CN1CCc2sccc2C1,structure_1543.png,coordinates_1543.npz,17,19
+Tigecycline,CN(C)c1cc(NC(=O)CNC(C)(C)C)c(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O,structure_1544.png,coordinates_1544.npz,42,45
+Tiludronic acid,O=P(O)(O)C(Sc1ccc(Cl)cc1)P(=O)(O)O,structure_1545.png,coordinates_1545.npz,17,17
+Timolol,CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1,structure_1546.png,coordinates_1546.npz,21,22
+Tinidazole,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,structure_1547.png,coordinates_1547.npz,16,16
+Tioconazole,Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1,structure_1548.png,coordinates_1548.npz,23,25
+Tioguanine,Nc1nc(=S)c2[nH]cnc2[nH]1,structure_1549.png,coordinates_1549.npz,11,12
+Tiotropium,C[N+]1(C)C2CC(OC(=O)C(O)(c3cccs3)c3cccs3)CC1C1OC12,structure_1550.png,coordinates_1550.npz,26,30
+Tipiracil,N=C1CCCN1Cc1[nH]c(=O)[nH]c(=O)c1Cl,structure_1551.png,coordinates_1551.npz,16,17
+Tipranavir,CCCC1(CCc2ccccc2)CC(O)=C(C(CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,structure_1552.png,coordinates_1552.npz,42,45
+Tirofiban,CCCCS(=O)(=O)NC(Cc1ccc(OCCCCC2CCNCC2)cc1)C(=O)O,structure_1553.png,coordinates_1553.npz,30,31
+Titanium dioxide,[O]=[Ti]=[O],structure_1554.png,coordinates_1554.npz,3,2
+Tixocortol,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CS,structure_1555.png,coordinates_1555.npz,26,29
+Tizanidine,Clc1ccc2nsnc2c1NC1=NCCN1,structure_1556.png,coordinates_1556.npz,16,18
+Tobramycin,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(N)CC1O,structure_1557.png,coordinates_1557.npz,32,34
+Tofacitinib,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,structure_1558.png,coordinates_1558.npz,23,25
+Tofisopam,CCC1C(C)=NN=C(c2ccc(OC)c(OC)c2)c2cc(OC)c(OC)cc21,structure_1559.png,coordinates_1559.npz,28,30
+Tolazamide,Cc1ccc(S(=O)(=O)NC(=O)NN2CCCCCC2)cc1,structure_1560.png,coordinates_1560.npz,21,22
+Tolazoline,c1ccc(CC2=NCCN2)cc1,structure_1561.png,coordinates_1561.npz,12,13
+Tolbutamide,CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1,structure_1562.png,coordinates_1562.npz,18,18
+Tolcapone,Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,structure_1563.png,coordinates_1563.npz,20,21
+Tolfenamic acid,Cc1c(Cl)cccc1Nc1ccccc1C(=O)O,structure_1564.png,coordinates_1564.npz,18,19
+Tolmetin,Cc1ccc(C(=O)c2ccc(CC(=O)O)n2C)cc1,structure_1565.png,coordinates_1565.npz,19,20
+Tolnaftate,Cc1cccc(N(C)C(=S)Oc2ccc3ccccc3c2)c1,structure_1566.png,coordinates_1566.npz,22,24
+Toloxatone,Cc1cccc(N2CC(CO)OC2=O)c1,structure_1567.png,coordinates_1567.npz,15,16
+Tolperisone,Cc1ccc(C(=O)C(C)CN2CCCCC2)cc1,structure_1568.png,coordinates_1568.npz,18,19
+Tolterodine,Cc1ccc(O)c(C(CCN(C(C)C)C(C)C)c2ccccc2)c1,structure_1569.png,coordinates_1569.npz,24,25
+Tolvaptan,Cc1ccccc1C(=O)Nc1ccc(C(=O)N2CCCC(O)c3cc(Cl)ccc32)c(C)c1,structure_1570.png,coordinates_1570.npz,32,35
+Topiramate,CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1,structure_1571.png,coordinates_1571.npz,22,24
+Topiroxostat,N#Cc1cc(-c2n[nH]c(-c3ccncc3)n2)ccn1,structure_1572.png,coordinates_1572.npz,19,21
+Topotecan,CCC1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1,structure_1573.png,coordinates_1573.npz,31,35
+Torasemide,Cc1cccc(Nc2ccncc2S(=O)(=O)NC(=O)NC(C)C)c1,structure_1574.png,coordinates_1574.npz,24,25
+Toremifene,CN(C)CCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1,structure_1575.png,coordinates_1575.npz,29,31
+Trabectedin,COc1cc2c(cc1O)CCNC21CSC2c3c(OC(C)=O)c(C)c4c(c3C(COC1=O)N1C(O)C3Cc5cc(C)c(OC)c(O)c5C(C21)N3C)OCO4,structure_1576.png,coordinates_1576.npz,54,62
+Tramadol,COc1cccc(C2(O)CCCCC2CN(C)C)c1,structure_1577.png,coordinates_1577.npz,19,20
+Trametinib,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1,structure_1578.png,coordinates_1578.npz,37,41
+Trandolapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(C(=O)O)CC2CCCCC21,structure_1579.png,coordinates_1579.npz,31,33
+Tranexamic acid,NCC1CCC(C(=O)O)CC1,structure_1580.png,coordinates_1580.npz,11,11
+Tranilast,COc1ccc(C=CC(=O)Nc2ccccc2C(=O)O)cc1OC,structure_1581.png,coordinates_1581.npz,24,25
+Tranylcypromine,NC1CC1c1ccccc1,structure_1582.png,coordinates_1582.npz,10,11
+Trapidil,CCN(CC)c1cc(C)nc2ncnn12,structure_1583.png,coordinates_1583.npz,15,16
+Travoprost,CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)COc1cccc(C(F)(F)F)c1,structure_1584.png,coordinates_1584.npz,35,36
+Trazodone,O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,structure_1585.png,coordinates_1585.npz,26,29
+Treprostinil,CCCCCC(O)CCC1C(O)CC2Cc3c(cccc3OCC(=O)O)CC21,structure_1586.png,coordinates_1586.npz,28,30
+Tretinoin,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,structure_1587.png,coordinates_1587.npz,22,22
+Triamcinolone,CC12C=CC(=O)C=C1CCC1C3CC(O)C(O)(C(=O)CO)C3(C)CC(O)C12F,structure_1588.png,coordinates_1588.npz,28,31
+Triamterene,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,structure_1589.png,coordinates_1589.npz,19,21
+Triazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,structure_1590.png,coordinates_1590.npz,23,26
+Trichlormethiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,structure_1591.png,coordinates_1591.npz,20,21
+Trichloroethylene,ClC=C(Cl)Cl,structure_1592.png,coordinates_1592.npz,5,4
+Triethylenetetramine,NCCNCCNCCN,structure_1593.png,coordinates_1593.npz,10,9
+Trifluoperazine,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,structure_1594.png,coordinates_1594.npz,28,31
+Triflupromazine,CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21,structure_1595.png,coordinates_1595.npz,24,26
+Trifluridine,O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1C(F)(F)F,structure_1596.png,coordinates_1596.npz,20,21
+Triflusal,CC(=O)Oc1cc(C(F)(F)F)ccc1C(=O)O,structure_1597.png,coordinates_1597.npz,17,17
+Trihexyphenidyl,OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1,structure_1598.png,coordinates_1598.npz,22,24
+Trilostane,CC12CCC3C(CCC45OC4C(O)=C(C#N)CC35C)C1CCC2O,structure_1599.png,coordinates_1599.npz,24,28
+Trimetazidine,COc1ccc(CN2CCNCC2)c(OC)c1OC,structure_1600.png,coordinates_1600.npz,19,20
+Trimethadione,CN1C(=O)OC(C)(C)C1=O,structure_1601.png,coordinates_1601.npz,10,10
+Trimethaphan,O=C1N(Cc2ccccc2)C2C[S+]3CCCC3C2N1Cc1ccccc1,structure_1602.png,coordinates_1602.npz,26,30
+Trimethobenzamide,COc1cc(C(=O)NCc2ccc(OCCN(C)C)cc2)cc(OC)c1OC,structure_1603.png,coordinates_1603.npz,28,29
+Trimethoprim,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,structure_1604.png,coordinates_1604.npz,21,22
+Trimetrexate,COc1cc(NCc2ccc3nc(N)nc(N)c3c2C)cc(OC)c1OC,structure_1605.png,coordinates_1605.npz,27,29
+Trimipramine,CC(CN(C)C)CN1c2ccccc2CCc2ccccc21,structure_1606.png,coordinates_1606.npz,22,24
+Trioxsalen,Cc1cc2cc3c(C)cc(=O)oc3c(C)c2o1,structure_1607.png,coordinates_1607.npz,17,19
+Tripelennamine,CN(C)CCN(Cc1ccccc1)c1ccccn1,structure_1608.png,coordinates_1608.npz,19,20
+Triprolidine,Cc1ccc(C(=CCN2CCCC2)c2ccccn2)cc1,structure_1609.png,coordinates_1609.npz,21,23
+Triptorelin,CC(C)CC(NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(N)=O,structure_1610.png,coordinates_1610.npz,95,102
+Trolamine,OCCN(CCO)CCO,structure_1611.png,coordinates_1611.npz,10,9
+Trolamine salicylate,O=C(O)c1ccccc1O.OCCN(CCO)CCO,structure_1612.png,coordinates_1612.npz,20,19
+Troleandomycin,COC1CC(OC2C(C)C(=O)OC(C)C(C)C(OC(C)=O)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3OC(C)=O)C2C)OC(C)C1OC(C)=O,structure_1613.png,coordinates_1613.npz,57,60
+Tromethamine,NC(CO)(CO)CO,structure_1614.png,coordinates_1614.npz,8,7
+Tropicamide,CCN(Cc1ccncc1)C(=O)C(CO)c1ccccc1,structure_1615.png,coordinates_1615.npz,21,22
+Tropisetron,CN1C2CCC1CC(OC(=O)c1c[nH]c3ccccc13)C2,structure_1616.png,coordinates_1616.npz,21,24
+Trospium,O=C(OC1CC2CCC(C1)[N+]21CCCC1)C(O)(c1ccccc1)c1ccccc1,structure_1617.png,coordinates_1617.npz,29,33
+Trovafloxacin,NC1C2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)CC12,structure_1618.png,coordinates_1618.npz,30,34
+Tryptophan,NC(Cc1c[nH]c2ccccc12)C(=O)O,structure_1619.png,coordinates_1619.npz,15,16
+Tubocurarine,COc1cc2c3cc1Oc1cc(ccc1O)CC1c4c(cc(OC)c(O)c4Oc4ccc(cc4)CC3N(C)CC2)CC[N+]1(C)C,structure_1620.png,coordinates_1620.npz,45,51
+Ubidecarenone,COC1=C(OC)C(=O)C(CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)=C(C)C1=O,structure_1621.png,coordinates_1621.npz,63,63
+Udenafil,CCCOc1ccc(S(=O)(=O)NCCC2CCCN2C)cc1-c1nc2c(CCC)nn(C)c2c(=O)[nH]1,structure_1622.png,coordinates_1622.npz,36,39
+Ulipristal,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C,structure_1623.png,coordinates_1623.npz,32,36
+Ulobetasol,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CCl,structure_1624.png,coordinates_1624.npz,29,32
+Umeclidinium,OC(c1ccccc1)(c1ccccc1)C12CC[N+](CCOCc3ccccc3)(CC1)CC2,structure_1625.png,coordinates_1625.npz,32,36
+Unoprostone,CCCCCCCC(=O)CCC1C(O)CC(O)C1CC=CCCCC(=O)O,structure_1626.png,coordinates_1626.npz,27,27
+Uracil mustard,O=c1[nH]cc(N(CCCl)CCCl)c(=O)[nH]1,structure_1627.png,coordinates_1627.npz,15,15
+Ursodeoxycholic acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,structure_1628.png,coordinates_1628.npz,28,31
+Valaciclovir,CC(C)C(N)C(=O)OCCOCn1cnc2c(=O)[nH]c(N)nc21,structure_1629.png,coordinates_1629.npz,23,24
+Valbenazine,COc1cc2c(cc1OC)C1CC(OC(=O)C(N)C(C)C)C(CC(C)C)CN1CC2,structure_1630.png,coordinates_1630.npz,30,32
+Valganciclovir,CC(C)C(N)C(=O)OCC(CO)OCn1cnc2c(=O)[nH]c(N)nc21,structure_1631.png,coordinates_1631.npz,25,26
+Valproic acid,CCCC(CCC)C(=O)O,structure_1632.png,coordinates_1632.npz,10,9
+Valrubicin,CCCCC(=O)OCC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(NC(=O)C(F)(F)F)C(O)C(C)O2)C1)C(=O)c1c(OC)cccc1C3=O,structure_1633.png,coordinates_1633.npz,51,55
+Valsartan,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)C(C(=O)O)C(C)C,structure_1634.png,coordinates_1634.npz,32,34
+Vancomycin,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,structure_1635.png,coordinates_1635.npz,101,110
+Vandetanib,COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1,structure_1636.png,coordinates_1636.npz,30,33
+Vapreotide,CC(C)C1NC(=O)C(CCCCN)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(NC(=O)C(N)Cc2ccccc2)CSSCC(C(=O)NC(Cc2c[nH]c3ccccc23)C(N)=O)NC1=O,structure_1637.png,coordinates_1637.npz,80,86
+Vardenafil,CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12,structure_1638.png,coordinates_1638.npz,34,37
+Varenicline,c1cnc2cc3c(cc2n1)C1CNCC3C1,structure_1639.png,coordinates_1639.npz,16,19
+Vecuronium,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1N1CCCCC1,structure_1640.png,coordinates_1640.npz,40,45
+Velpatasvir,COCC1CC(c2ncc(-c3ccc4c(c3)COc3cc5c(ccc6[nH]c(C7CCC(C)N7C(=O)C(NC(=O)OC)C(C)C)nc65)cc3-4)[nH]2)N(C(=O)C(NC(=O)OC)c2ccccc2)C1,structure_1641.png,coordinates_1641.npz,65,73
+Vemurafenib,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,structure_1642.png,coordinates_1642.npz,33,36
+Venetoclax,CC1(C)CCC(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(NCC5CCOCC5)c([N+](=O)[O-])c4)c(Oc4cnc5[nH]ccc5c4)c3)CC2)=C(c2ccc(Cl)cc2)C1,structure_1643.png,coordinates_1643.npz,61,68
+Venlafaxine,COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,structure_1644.png,coordinates_1644.npz,20,21
+Verapamil,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,structure_1645.png,coordinates_1645.npz,33,34
+Vernakalant,COc1ccc(CCOC2CCCCC2N2CCC(O)C2)cc1OC,structure_1646.png,coordinates_1646.npz,25,27
+Vigabatrin,C=CC(N)CCC(=O)O,structure_1647.png,coordinates_1647.npz,9,8
+Vilanterol,OCc1cc(C(O)CNCCCCCCOCCOCc2c(Cl)cccc2Cl)ccc1O,structure_1648.png,coordinates_1648.npz,32,33
+Vilazodone,N#Cc1ccc2[nH]cc(CCCCN3CCN(c4ccc5oc(C(N)=O)cc5c4)CC3)c2c1,structure_1649.png,coordinates_1649.npz,33,37
+Vildagliptin,N#CC1CCCN1C(=O)CNC12CC3CC(CC(O)(C3)C1)C2,structure_1650.png,coordinates_1650.npz,22,25
+Viloxazine,CCOc1ccccc1OCC1CNCCO1,structure_1651.png,coordinates_1651.npz,17,18
+Vinblastine,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C)C3C(O)(C(=O)OC)C(OC(C)=O)C5(CC)C=CCN6CCC43C65)C2)C1,structure_1652.png,coordinates_1652.npz,59,67
+Vincristine,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C=O)C3C(O)(C(=O)OC)C(OC(C)=O)C5(CC)C=CCN6CCC43C65)C2)C1,structure_1653.png,coordinates_1653.npz,60,68
+Vindesine,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C)C3C(O)(C(N)=O)C(O)C5(CC)C=CCN6CCC43C65)C2)C1,structure_1654.png,coordinates_1654.npz,55,63
+Vinflunine,CCC12C=CCN3CCC4(c5cc(C6(C(=O)OC)CC7CC(C(C)(F)F)CN(Cc8c6[nH]c6ccccc86)C7)c(OC)cc5N(C)C4C(O)(C(=O)OC)C1OC(C)=O)C32,structure_1655.png,coordinates_1655.npz,59,67
+Vinorelbine,CCC1=CC2CN(C1)Cc1c([nH]c3ccccc13)C(C(=O)OC)(c1cc3c(cc1OC)N(C)C1C(O)(C(=O)OC)C(OC(C)=O)C4(CC)C=CCN5CCC31C54)C2,structure_1656.png,coordinates_1656.npz,57,65
+Viomycin,NCCCC(N)CC(=O)NC1CNC(=O)C(C2CC(O)NC(N)=N2)NC(=O)C(=CNC(N)=O)NC(=O)C(CO)NC(=O)C(CO)NC1=O,structure_1657.png,coordinates_1657.npz,48,49
+Vismodegib,CS(=O)(=O)c1ccc(C(=O)Nc2ccc(Cl)c(-c3ccccn3)c2)c(Cl)c1,structure_1658.png,coordinates_1658.npz,27,29
+Vitamin A,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO,structure_1659.png,coordinates_1659.npz,21,21
+Vitamin E,Cc1c(C)c2c(c(C)c1O)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2.O=C([O-])CCC(=O)[O-].[Ca+2],structure_1660.png,coordinates_1660.npz,40,39
+Voglibose,OCC(CO)NC1CC(O)(CO)C(O)C(O)C1O,structure_1661.png,coordinates_1661.npz,18,18
+Vorapaxar,CCOC(=O)NC1CCC2C(C1)CC1C(=O)OC(C)C1C2C=Cc1ccc(-c2cccc(F)c2)cn1,structure_1662.png,coordinates_1662.npz,36,40
+Voriconazole,CC(c1ncncc1F)C(O)(Cn1cncn1)c1ccc(F)cc1F,structure_1663.png,coordinates_1663.npz,25,27
+Vorinostat,O=C(CCCCCCC(=O)Nc1ccccc1)NO,structure_1664.png,coordinates_1664.npz,19,19
+Vortioxetine,Cc1ccc(Sc2ccccc2N2CCNCC2)c(C)c1,structure_1665.png,coordinates_1665.npz,21,23
+Voxilaprevir,CCC1C2CN(C(=O)C(C(C)(C)C)NC(=O)OC3CC3CCCCC(F)(F)c3nc4ccc(OC)cc4nc3O2)C1C(=O)NC1(C(=O)NS(=O)(=O)C2(C)CC2)CC1C(F)F,structure_1666.png,coordinates_1666.npz,60,66
+Warfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,structure_1667.png,coordinates_1667.npz,23,25
+Ximelagatran,CCOC(=O)CNC(C(=O)N1CCC1C(=O)NCc1ccc(C(N)=NO)cc1)C1CCCCC1,structure_1668.png,coordinates_1668.npz,34,36
+Xylometazoline,Cc1cc(C(C)(C)C)cc(C)c1CC1=NCCN1,structure_1669.png,coordinates_1669.npz,18,19
+Yohimbine,COC(=O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC21,structure_1670.png,coordinates_1670.npz,26,30
+Zafirlukast,COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,structure_1671.png,coordinates_1671.npz,41,45
+Zalcitabine,Nc1ccn(C2CCC(CO)O2)c(=O)n1,structure_1672.png,coordinates_1672.npz,15,16
+Zaleplon,CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1,structure_1673.png,coordinates_1673.npz,23,25
+Zaltoprofen,CC(C(=O)O)c1ccc2c(c1)CC(=O)c1ccccc1S2,structure_1674.png,coordinates_1674.npz,21,23
+Zidovudine,Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O,structure_1675.png,coordinates_1675.npz,19,20
+Zileuton,CC(c1cc2ccccc2s1)N(O)C(N)=O,structure_1676.png,coordinates_1676.npz,16,17
+Zinc oxide,[O-2].[Zn+2],structure_1677.png,coordinates_1677.npz,2,0
+Zinc sulfate,O=S(=O)([O-])[O-].[Zn+2],structure_1678.png,coordinates_1678.npz,6,4
+Ziprasidone,O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1,structure_1679.png,coordinates_1679.npz,28,32
+Zoledronic acid,O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O,structure_1680.png,coordinates_1680.npz,16,16
+Zolmitriptan,CN(C)CCc1c[nH]c2ccc(CC3COC(=O)N3)cc12,structure_1681.png,coordinates_1681.npz,21,23
+Zolpidem,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1,structure_1682.png,coordinates_1682.npz,23,25
+Zonisamide,NS(=O)(=O)Cc1noc2ccccc12,structure_1683.png,coordinates_1683.npz,14,15
+Zopiclone,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,structure_1684.png,coordinates_1684.npz,27,30
+Zotepine,CN(C)CCOC1=Cc2ccccc2Sc2ccc(Cl)cc21,structure_1685.png,coordinates_1685.npz,22,24
+Zucapsaicin,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,structure_1686.png,coordinates_1686.npz,22,22
+Zuclopenthixol,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,structure_1687.png,coordinates_1687.npz,27,30
