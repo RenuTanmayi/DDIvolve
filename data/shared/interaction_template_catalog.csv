@@ -1,0 +1,87 @@
+template,record_count,interaction_family,direction,affected_drug
+the risk or severity of adverse effects can be increased when drug1 is combined with drug2.,60722,Adverse Effect Risk,Increase,Drug pair
+the metabolism of drug2 can be decreased when combined with drug1.,34313,Drug Metabolism,Decrease,Drug 2
+the serum concentration of drug2 can be increased when it is combined with drug1.,23756,Serum Concentration,Increase,Drug 2
+the serum concentration of drug2 can be decreased when it is combined with drug1.,9415,Serum Concentration,Decrease,Drug 2
+drug1 may increase the hypotensive activities of drug2.,8397,Pharmacological Activity,Increase,Drug 2
+the therapeutic efficacy of drug2 can be decreased when used in combination with drug1.,7780,Therapeutic Efficacy,Decrease,Drug 2
+drug1 may increase the qtc-prolonging activities of drug2.,6140,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the central nervous system depressant (cns depressant) activities of drug2.,5413,Pharmacological Activity,Increase,Drug 2
+the metabolism of drug2 can be increased when combined with drug1.,5000,Drug Metabolism,Increase,Drug 2
+drug1 may increase the anticoagulant activities of drug2.,3155,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease the antihypertensive activities of drug2.,3089,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the hypoglycemic activities of drug2.,2109,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease the excretion rate of drug2 which could result in a higher serum level.,1824,Drug Excretion,Decrease,Drug 2
+drug1 may increase the bradycardic activities of drug2.,1277,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hypokalemic activities of drug2.,1204,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease the cardiotoxic activities of drug2.,1043,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the sedative activities of drug2.,1011,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the neuroexcitatory activities of drug2.,936,Pharmacological Activity,Increase,Drug 2
+drug1 can cause a decrease in the absorption of drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.,893,Serum Concentration,Decrease,Drug 2
+drug1 may increase the serotonergic activities of drug2.,803,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the atrioventricular blocking (av block) activities of drug2.,716,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hypertensive activities of drug2.,673,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the nephrotoxic activities of drug2.,662,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the antihypertensive activities of drug2.,629,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the orthostatic hypotensive activities of drug2.,616,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease the sedative activities of drug2.,558,Pharmacological Activity,Decrease,Drug 2
+the serum concentration of the active metabolites of drug2 can be increased when drug2 is used in combination with drug1.,537,Serum Concentration,Increase,Drug 2
+the bioavailability of drug2 can be decreased when combined with drug1.,518,Bioavailability,Decrease,Drug 2
+drug1 may decrease the stimulatory activities of drug2.,498,Pharmacological Activity,Decrease,Drug 2
+the risk or severity of qtc prolongation can be increased when drug1 is combined with drug2.,442,Adverse Effect Risk,Increase,Drug pair
+drug1 may increase the fluid retaining activities of drug2.,422,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the neuromuscular blocking activities of drug2.,409,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the tachycardic activities of drug2.,372,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease the bronchodilatory activities of drug2.,361,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the arrhythmogenic activities of drug2.,350,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the antiplatelet activities of drug2.,336,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease the diuretic activities of drug2.,324,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the anticholinergic activities of drug2.,323,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the immunosuppressive activities of drug2.,312,Pharmacological Activity,Increase,Drug 2
+the serum concentration of the active metabolites of drug2 can be reduced when drug2 is used in combination with drug1 resulting in a loss in efficacy.,311,Serum Concentration,Decrease,Drug 2
+drug1 may decrease the vasoconstricting activities of drug2.,309,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the analgesic activities of drug2.,280,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the respiratory depressant activities of drug2.,280,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hyperkalemic activities of drug2.,278,Pharmacological Activity,Increase,Drug 2
+the therapeutic efficacy of drug2 can be increased when used in combination with drug1.,244,Therapeutic Efficacy,Increase,Drug 2
+drug1 may decrease the anticoagulant activities of drug2.,238,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the cardiotoxic activities of drug2.,202,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hypocalcemic activities of drug2.,180,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the constipating activities of drug2.,148,Pharmacological Activity,Increase,Drug 2
+the risk or severity of bleeding can be increased when drug1 is combined with drug2.,128,Adverse Effect Risk,Increase,Drug pair
+drug1 may increase the hyponatremic activities of drug2.,118,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the vasoconstricting activities of drug2.,109,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the thrombogenic activities of drug2.,108,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the adverse neuromuscular activities of drug2.,94,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the antipsychotic activities of drug2.,94,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hypercalcemic activities of drug2.,83,Pharmacological Activity,Increase,Drug 2
+drug1 can cause an increase in the absorption of drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.,82,Serum Concentration,Increase,Drug 2
+drug1 may decrease the neuromuscular blocking activities of drug2.,79,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the neurotoxic activities of drug2.,69,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the myopathic rhabdomyolysis activities of drug2.,69,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the vasopressor activities of drug2.,65,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hepatotoxic activities of drug2.,64,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the stimulatory activities of drug2.,56,Pharmacological Activity,Increase,Drug 2
+the absorption of drug2 can be decreased when combined with drug1.,45,Drug Absorption,Decrease,Drug 2
+drug1 may increase the ulcerogenic activities of drug2.,43,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the myelosuppressive activities of drug2.,34,Pharmacological Activity,Increase,Drug 2
+drug1 may decrease effectiveness of drug2 as a diagnostic agent.,33,Pharmacological Activity,Decrease,Drug 2
+drug1 may increase the vasodilatory activities of drug2.,33,Pharmacological Activity,Increase,Drug 2
+the risk or severity of hypotension can be increased when drug1 is combined with drug2.,32,Adverse Effect Risk,Increase,Drug pair
+drug1 may increase the excretion rate of drug2 which could result in a lower serum level and potentially a reduction in efficacy.,32,Drug Excretion,Increase,Drug 2
+drug1 may increase the hyperglycemic activities of drug2.,28,Pharmacological Activity,Increase,Drug 2
+the risk of a hypersensitivity reaction to drug2 is increased when it is combined with drug1.,27,Adverse Effect Risk,Increase,Drug pair
+drug1 may increase the central nervous system depressant (cns depressant) and hypertensive activities of drug2.,27,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the bronchoconstrictory activities of drug2.,26,Pharmacological Activity,Increase,Drug 2
+the risk or severity of heart failure can be increased when drug2 is combined with drug1.,26,Adverse Effect Risk,Increase,Drug pair
+drug1 may increase the ototoxic activities of drug2.,21,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the hypotensive and central nervous system depressant (cns depressant) activities of drug2.,14,Pharmacological Activity,Increase,Drug 2
+the risk or severity of hypertension can be increased when drug2 is combined with drug1.,14,Adverse Effect Risk,Increase,Drug pair
+drug1 may increase the central neurotoxic activities of drug2.,13,Pharmacological Activity,Increase,Drug 2
+drug1 may increase the photosensitizing activities of drug2.,11,Pharmacological Activity,Increase,Drug 2
+the bioavailability of drug2 can be increased when combined with drug1.,11,Bioavailability,Increase,Drug 2
+drug1 may increase the dermatologic adverse activities of drug2.,11,Pharmacological Activity,Increase,Drug 2
+the protein binding of drug2 can be decreased when combined with drug1.,11,Protein Binding,Decrease,Drug 2
+drug1 may decrease the analgesic activities of drug2.,10,Pharmacological Activity,Decrease,Drug 2
+drug1 may decrease the antiplatelet activities of drug2.,7,Pharmacological Activity,Decrease,Drug 2
+the risk or severity of hyperkalemia can be increased when drug1 is combined with drug2.,6,Adverse Effect Risk,Increase,Drug pair
