@@ -539,75 +539,343 @@ st.markdown("")
 # Main application navigation
 # ============================================================
 
-tab_overview, tab_checker, tab_molecular, tab_data, tab_explanation, tab_reevaluation, tab_research = st.tabs([
+tab_overview, tab_checker, tab_molecular, tab_data, tab_analytics, tab_reports, tab_explanation, tab_reevaluation, tab_research, tab_patient = st.tabs([
     "Overview",
     "Interaction checker",
     "Molecular explorer",
     "Data explorer",
+    "Research Analytics",
+    "Reports",
     "AI Explanation",
     "Re-evaluation",
     "Intervention research",
+    "Patient Medication History",
 ])
-
 
 # ============================================================
 # Overview
 # ============================================================
 
 with tab_overview:
-    left, right = st.columns([1.25, 0.75], gap="large")
 
-    with left:
-        st.markdown('<div class="section-eyebrow">Platform overview</div>', unsafe_allow_html=True)
-        st.subheader("From evidence to research insight")
-        st.markdown(
-            """
-            DDIvolve is being developed as a modular research framework.
-            The current interface can inspect the supplied interaction records
-            and molecular metadata; model-based predictions will be added after
-            the training labels and evaluation split are validated.
-            """
+    # ========================================================
+    # DDIvolve RESEARCH DASHBOARD
+    # ========================================================
+
+    st.markdown(
+        '<div class="section-eyebrow">DDIvolve intelligence dashboard</div>',
+        unsafe_allow_html=True
+    )
+
+    st.subheader("Research overview")
+    st.markdown(
+        "An integrated view of drug interaction evidence, molecular data "
+        "and AI-powered interaction-family analysis."
+    )
+
+    # --------------------------------------------------------
+    # 1. Calculate dataset statistics
+    # --------------------------------------------------------
+
+    total_interactions = len(interactions)
+    total_drug_records = len(drugs)
+
+    if not interactions.empty and {"Drug_A", "Drug_B"}.issubset(interactions.columns):
+
+        unique_drugs_in_interactions = set(
+            interactions["Drug_A"].dropna().astype(str)
+        ) | set(
+            interactions["Drug_B"].dropna().astype(str)
         )
 
-        with st.container(border=True):
-            st.markdown("**Current workflow**")
-            st.markdown(
-                "1. **Find evidence** — search the loaded dataset for a drug pair.\n"
-                "2. **Inspect chemistry** — review available SMILES and descriptors.\n"
-                "3. **Evaluate the model** — add validated predictions and performance metrics.\n"
-                "4. **Review mitigation ideas** — organize research questions for expert assessment."
+        unique_drug_count = len(unique_drugs_in_interactions)
+
+        unique_pairs = interactions[
+            ["Drug_A", "Drug_B"]
+        ].dropna().apply(
+            lambda row: tuple(sorted([
+                str(row["Drug_A"]).strip().lower(),
+                str(row["Drug_B"]).strip().lower()
+            ])),
+            axis=1
+        ).nunique()
+
+    else:
+        unique_drug_count = (
+            drugs["drug_name"].nunique()
+            if not drugs.empty and "drug_name" in drugs.columns
+            else 0
+        )
+        unique_pairs = 0
+
+    # Identify a suitable interaction-family / label column.
+    label_column = next(
+        (
+            col for col in [
+                "Mechanism_Family",
+                "mechanism_family",
+                "interaction_family",
+                "Interaction_Family",
+                "Evidence_Label"
+            ]
+            if col in interactions.columns
+        ),
+        None
+    )
+
+    # --------------------------------------------------------
+    # 2. Main platform metrics
+    # --------------------------------------------------------
+
+    st.markdown("### Dataset at a glance")
+
+    m1, m2, m3, m4 = st.columns(4)
+
+    m1.metric(
+        "Drug entities",
+        f"{unique_drug_count:,}"
+    )
+
+    m2.metric(
+        "Interaction records",
+        f"{total_interactions:,}"
+    )
+
+    m3.metric(
+        "Unique drug pairs",
+        f"{unique_pairs:,}"
+    )
+
+    m4.metric(
+        "Molecular records",
+        f"{total_drug_records:,}"
+    )
+
+    st.divider()
+
+    # --------------------------------------------------------
+    # 3. Model performance
+    # --------------------------------------------------------
+
+    st.markdown("### AI model performance")
+
+    model_col, model_info = st.columns([1, 2])
+
+    with model_col:
+
+        st.metric(
+            "XGBoost test accuracy",
+            "92.15%"
+        )
+
+        st.caption(
+            "Previously recorded held-out test accuracy."
+        )
+
+    with model_info:
+
+        st.markdown("**Interaction-family classification**")
+
+        st.write(
+            "DDIvolve uses a trained XGBoost model to predict "
+            "interaction families from molecular representations."
+        )
+
+        st.info(
+            "Model confidence represents prediction confidence, "
+            "not clinical severity or the probability of patient harm."
+        )
+
+    st.divider()
+
+    # --------------------------------------------------------
+    # 4. Interaction analytics
+    # --------------------------------------------------------
+
+    st.markdown("### Interaction analytics")
+
+    chart_left, chart_right = st.columns(2, gap="large")
+
+    with chart_left:
+
+        st.markdown("**Interaction label distribution**")
+
+        if label_column is not None:
+
+            label_counts = (
+                interactions[label_column]
+                .dropna()
+                .astype(str)
+                .value_counts()
+                .head(12)
             )
 
-    with right:
-        with st.container(border=True):
-            st.markdown("**Data readiness**")
-            if interactions.empty:
-                st.warning("Interaction data is not ready.")
-            else:
-                st.markdown('<span class="status-pill">Interaction file loaded</span>', unsafe_allow_html=True)
-                st.write(f"{len(interactions):,} interaction rows available.")
-            if drugs.empty:
-                st.info("Molecular records are not available yet.")
-            else:
-                st.markdown('<span class="status-pill">Molecular file loaded</span>', unsafe_allow_html=True)
-                st.write(f"{len(drugs):,} drug records available.")
-            st.caption("A loaded file does not guarantee complete clinical coverage or validated predictions.")
+            if not label_counts.empty:
 
-    st.markdown("### Quick access")
-    q1, q2, q3 = st.columns(3)
-    with q1:
-        with st.container(border=True):
-            st.markdown("**⇄ Interaction checker**")
-            st.caption("Search whether a pair appears in the supplied dataset.")
-    with q2:
-        with st.container(border=True):
-            st.markdown("**⚛ Molecular explorer**")
-            st.caption("Inspect SMILES and available chemical descriptors.")
-    with q3:
-        with st.container(border=True):
-            st.markdown("**▤ Data explorer**")
-            st.caption("Filter, inspect, and export research records.")
+                st.bar_chart(
+                    label_counts,
+                    horizontal=True,
+                    height=350
+                )
 
+            else:
+                st.info("No interaction labels are available.")
+
+        else:
+            st.info(
+                "A mechanism-family column is not available "
+                "in the currently loaded interaction file."
+            )
+
+    with chart_right:
+
+        st.markdown("**Research data readiness**")
+
+        readiness = pd.Series({
+            "Interaction records": total_interactions,
+            "Drug records": total_drug_records,
+            "Unique drug pairs": unique_pairs
+        })
+
+        st.bar_chart(
+            readiness,
+            horizontal=True,
+            height=350
+        )
+
+        st.caption(
+            "These are dataset counts, not measures of clinical coverage."
+        )
+
+    st.divider()
+
+    # --------------------------------------------------------
+    # 5. Molecular data coverage
+    # --------------------------------------------------------
+
+    st.markdown("### Molecular data coverage")
+
+    smiles_column = next(
+        (
+            col for col in [
+                "canonical_smiles",
+                "isomeric_smiles",
+                "smiles"
+            ]
+            if col in drugs.columns
+        ),
+        None
+    ) if not drugs.empty else None
+
+    if smiles_column is not None:
+
+        smiles_available = drugs[smiles_column].notna() & (
+            drugs[smiles_column].astype(str).str.strip() != ""
+        )
+
+        smiles_count = int(smiles_available.sum())
+
+        smiles_percentage = (
+            smiles_count / total_drug_records * 100
+            if total_drug_records else 0
+        )
+
+    else:
+        smiles_count = 0
+        smiles_percentage = 0
+
+    descriptor_columns = [
+        col for col in [
+            "molecular_weight",
+            "MolWt",
+            "MW",
+            "LogP",
+            "logp",
+            "TPSA",
+            "HBD",
+            "HBA",
+            "qed",
+            "QED",
+            "rotatable_bonds"
+        ]
+        if col in drugs.columns
+    ]
+
+    mol1, mol2, mol3 = st.columns(3)
+
+    mol1.metric(
+        "Records with SMILES",
+        f"{smiles_count:,}"
+    )
+
+    mol2.metric(
+        "SMILES availability",
+        f"{smiles_percentage:.1f}%"
+    )
+
+    mol3.metric(
+        "Descriptor columns",
+        len(descriptor_columns)
+    )
+
+    if descriptor_columns:
+
+        st.markdown("**Available molecular descriptors**")
+
+        st.write(
+            ", ".join(descriptor_columns)
+        )
+
+    else:
+
+        st.caption(
+            "Molecular descriptor columns are not available "
+            "in the currently loaded drug file."
+        )
+
+    st.divider()
+
+    # --------------------------------------------------------
+    # 6. Data readiness and platform workflow
+    # --------------------------------------------------------
+
+    st.markdown("### Platform modules")
+
+    c1, c2, c3, c4 = st.columns(4)
+
+    with c1:
+        with st.container(border=True):
+            st.markdown("**Interaction checker**")
+            st.caption(
+                "Research evidence and XGBoost predictions."
+            )
+
+    with c2:
+        with st.container(border=True):
+            st.markdown("**Molecular explorer**")
+            st.caption(
+                "SMILES, descriptors and molecular structures."
+            )
+
+    with c3:
+        with st.container(border=True):
+            st.markdown("**AI explanation**")
+            st.caption(
+                "Pair-specific model feature contributions."
+            )
+
+    with c4:
+        with st.container(border=True):
+            st.markdown("**Intervention research**")
+            st.caption(
+                "Clinical evidence review and research pathways."
+            )
+
+    st.caption(
+        "DDIvolve is a research prototype. Dataset coverage, "
+        "model predictions and clinical severity evidence are "
+        "separate components and should be interpreted independently."
+    )
 
 # ============================================================
 # Interaction checker
@@ -660,7 +928,7 @@ with tab_checker:
         run_check = st.button(
             "Analyze drug combination",
             type="primary",
-            use_container_width=True,
+            width="stretch",
         )
 
         if run_check:
@@ -689,7 +957,7 @@ with tab_checker:
                     st.dataframe(
                         matches[view_cols].reset_index(drop=True),
                         hide_index=True,
-                        use_container_width=True,
+                        width="stretch",
                     )
                 else:
                     st.warning(
@@ -746,7 +1014,7 @@ with tab_checker:
                             {"Probability": "{:.2f}%"}
                         ),
                         hide_index=True,
-                        use_container_width=True,
+                        width="stretch",
                     )
 
                     st.caption(
@@ -994,7 +1262,7 @@ with tab_molecular:
                 st.dataframe(
                     descriptor_df,
                     hide_index=True,
-                    use_container_width=True,
+                    width="stretch",
                 )
 
                 st.caption(
@@ -1024,7 +1292,7 @@ with tab_molecular:
                 st.image(
                     image,
                     caption=f"2D chemical structure of {selected}",
-                    use_container_width=True,
+                    width="stretch",
                 )
 
                 st.markdown("#### Structure information")
@@ -1304,7 +1572,7 @@ with tab_molecular:
                 st.dataframe(
                     pd.DataFrame(atom_rows),
                     hide_index=True,
-                    use_container_width=True,
+                    width="stretch",
                 )
 
                 bond_rows = [
@@ -1321,7 +1589,7 @@ with tab_molecular:
                 st.dataframe(
                     pd.DataFrame(bond_rows),
                     hide_index=True,
-                    use_container_width=True,
+                    width="stretch",
                 )
 
             # ------------------------------------------------
@@ -1469,7 +1737,7 @@ with tab_data:
             st.dataframe(
                 label_counts,
                 hide_index=True,
-                use_container_width=True,
+                width="stretch",
                 height=340,
             )
 
@@ -1574,7 +1842,7 @@ with tab_data:
             st.dataframe(
                 filtered.head(500),
                 hide_index=True,
-                use_container_width=True,
+                width="stretch",
                 height=420,
             )
 
@@ -1591,7 +1859,7 @@ with tab_data:
                 data=csv_bytes,
                 file_name="ddivolve_filtered_interactions.csv",
                 mime="text/csv",
-                use_container_width=True,
+                width="stretch",
             )
 
         st.divider()
@@ -1627,7 +1895,7 @@ with tab_data:
             st.dataframe(
                 schema,
                 hide_index=True,
-                use_container_width=True,
+                width="stretch",
             )
 
         st.caption(
@@ -1636,7 +1904,217 @@ with tab_data:
             "causality, or the safety of a drug combination."
         )
 
-        # ============================================================
+
+
+with tab_analytics:
+    st.markdown('<div class="section-eyebrow">Research intelligence</div>', unsafe_allow_html=True)
+    st.title("Research Analytics")
+    st.markdown(
+        "Explore validated drug–drug interaction patterns, affected targets, "
+        "interaction directions, and drug-pair evidence."
+    )
+
+    # Load validated research datasets
+    try:
+        labels_path = next(DATA_DIR.rglob("validated_interaction_labels.csv"))
+        pairs_path = next(DATA_DIR.rglob("validated_pair_summary.csv"))
+
+        @st.cache_data(show_spinner="Loading validated research data...")
+        def load_analytics_data(labels_file, pairs_file):
+            labels_df = pd.read_csv(labels_file)
+            pairs_df = pd.read_csv(pairs_file)
+            return labels_df, pairs_df
+
+        analytics_df, pair_summary_df = load_analytics_data(
+            str(labels_path), str(pairs_path)
+        )
+
+    except StopIteration:
+        st.error("Validated research analytics files could not be found.")
+        st.stop()
+    except Exception as e:
+        st.error(f"Unable to load research analytics: {e}")
+        st.stop()
+
+    # Normalize text fields
+    for col in ["interaction_family", "direction", "affected_drug"]:
+        analytics_df[col] = analytics_df[col].fillna("Unclassified").astype(str)
+
+    # Key metrics
+    total_records = len(analytics_df)
+    unique_pairs = analytics_df["canonical_pair_id"].nunique()
+    total_families = analytics_df["interaction_family"].nunique()
+    multi_family_pairs = (
+        (pair_summary_df["unique_families"] > 1).sum()
+        if "unique_families" in pair_summary_df.columns else 0
+    )
+
+    st.subheader("Research dataset overview")
+
+    c1, c2, c3, c4 = st.columns(4)
+    c1.metric("Validated interaction records", f"{total_records:,}")
+    c2.metric("Unique drug pairs", f"{unique_pairs:,}")
+    c3.metric("Interaction families", f"{total_families}")
+    c4.metric("Pairs with multiple families", f"{multi_family_pairs:,}")
+
+    st.divider()
+
+    # Interaction family distribution
+    st.subheader("Interaction family distribution")
+    st.caption("Number of validated records belonging to each interaction family.")
+
+    family_counts = (
+        analytics_df["interaction_family"]
+        .value_counts()
+        .rename_axis("Interaction family")
+        .reset_index(name="Records")
+    )
+
+    st.bar_chart(
+        family_counts.set_index("Interaction family"),
+        horizontal=True
+    )
+
+    st.dataframe(
+        family_counts,
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.divider()
+
+    # Direction and affected drug
+    st.subheader("Interaction characteristics")
+
+    col_left, col_right = st.columns(2)
+
+    with col_left:
+        st.markdown("**Interaction direction**")
+        direction_counts = analytics_df["direction"].value_counts()
+        st.bar_chart(direction_counts)
+
+        st.dataframe(
+            direction_counts.rename("Records").reset_index(),
+            use_container_width=True,
+            hide_index=True
+        )
+
+    with col_right:
+        st.markdown("**Affected target**")
+        affected_counts = analytics_df["affected_drug"].value_counts()
+        st.bar_chart(affected_counts)
+
+        st.dataframe(
+            affected_counts.rename("Records").reset_index(),
+            use_container_width=True,
+            hide_index=True
+        )
+
+    st.divider()
+
+    # Drug-pair evidence analysis
+    st.subheader("Drug-pair evidence analysis")
+
+    if "interaction_count" in pair_summary_df.columns:
+        interaction_counts = pd.to_numeric(
+            pair_summary_df["interaction_count"], errors="coerce"
+        ).dropna()
+
+        p1, p2, p3 = st.columns(3)
+        p1.metric("Average records per pair", f"{interaction_counts.mean():.2f}")
+        p2.metric("Median records per pair", f"{interaction_counts.median():.0f}")
+        p3.metric("Maximum records for a pair", f"{interaction_counts.max():.0f}")
+
+        st.markdown("**Distribution of interaction records per drug pair**")
+        count_distribution = (
+            interaction_counts.value_counts()
+            .sort_index()
+            .head(15)
+        )
+        st.bar_chart(count_distribution)
+
+    if "unique_families" in pair_summary_df.columns:
+        st.markdown("**Number of interaction families per drug pair**")
+
+        family_diversity = (
+            pair_summary_df["unique_families"]
+            .value_counts()
+            .sort_index()
+            .rename_axis("Number of families")
+            .reset_index(name="Number of pairs")
+        )
+
+        st.bar_chart(
+            family_diversity.set_index("Number of families")
+        )
+
+        st.dataframe(
+            family_diversity,
+            use_container_width=True,
+            hide_index=True
+        )
+
+    st.divider()
+
+    # Explore individual records
+    st.subheader("Validated interaction records")
+    st.caption("Filter the evidence dataset to inspect specific interaction families.")
+
+    available_families = sorted(
+        analytics_df["interaction_family"].unique().tolist()
+    )
+
+    selected_family = st.selectbox(
+        "Filter by interaction family",
+        ["All families"] + available_families,
+        key="analytics_family_filter"
+    )
+
+    filtered_df = analytics_df.copy()
+
+    if selected_family != "All families":
+        filtered_df = filtered_df[
+            filtered_df["interaction_family"] == selected_family
+        ]
+
+    display_columns = [
+        col for col in [
+            "Drug 1",
+            "Drug 2",
+            "Interaction Description",
+            "interaction_family",
+            "direction",
+            "affected_drug",
+            "canonical_pair_id"
+        ]
+        if col in filtered_df.columns
+    ]
+
+    st.caption(f"Showing {len(filtered_df):,} matching records")
+
+    st.dataframe(
+        filtered_df[display_columns].head(500),
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.download_button(
+        "Download filtered research records",
+        data=filtered_df[display_columns].to_csv(index=False).encode("utf-8"),
+        file_name="DDIvolve_research_analytics.csv",
+        mime="text/csv",
+        key="download_analytics"
+    )
+
+    st.info(
+        "Research interpretation only: interaction-family counts and dataset "
+        "patterns do not represent clinical severity, patient-specific risk, "
+        "or a treatment recommendation. Absence of a recorded interaction "
+        "does not establish that a drug combination is safe."
+    )
+
+
+       # ============================================================
 # AI EXPLANATION
 # ============================================================
 # ============================================================
@@ -1683,7 +2161,7 @@ with tab_explanation:
         if st.button(
             "Generate AI Explanation",
             type="primary",
-            use_container_width=True,
+            width="stretch",
         ):
             try:
                 record1 = get_drug_record(drug1)
@@ -1973,7 +2451,7 @@ with tab_reevaluation:
 
         st.dataframe(
             probability_df.round(2),
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -1996,7 +2474,7 @@ with tab_reevaluation:
             height=420
         )
 
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         st.markdown("### 03 · Source evidence comparison")
 
@@ -2025,7 +2503,7 @@ with tab_reevaluation:
 
         st.dataframe(
             evidence_df,
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -2266,6 +2744,269 @@ with tab_research:
             "Experimental and expert validation are required."
         )
 
+# ============================================================
+# PATIENT MEDICATION HISTORY
+# ============================================================
+
+with tab_patient:
+
+    st.markdown(
+        '<div class="section-eyebrow">Patient medication management</div>',
+        unsafe_allow_html=True
+    )
+
+    st.subheader("Patient Medication History")
+
+    st.markdown(
+        "Maintain a temporary medication record and review possible "
+        "interactions between medicines in the list."
+    )
+
+    st.info(
+        "Prototype mode: medication records are stored only in the "
+        "current Streamlit session. Do not enter real patient-identifying information."
+    )
+
+    # Initialize session storage
+    if "patient_medications" not in st.session_state:
+        st.session_state.patient_medications = []
+
+    drug_options = sorted(get_drug_names())
+
+    st.markdown("### Add medication")
+
+    if not drug_options:
+        st.warning("No drug records are currently available.")
+    else:
+        with st.form("add_patient_medication", clear_on_submit=True):
+
+            selected_drug = st.selectbox(
+                "Medicine",
+                drug_options
+            )
+
+            dosage = st.text_input(
+                "Dosage",
+                placeholder="e.g. 500 mg"
+            )
+
+            frequency = st.selectbox(
+                "Frequency",
+                [
+                    "Once daily",
+                    "Twice daily",
+                    "Three times daily",
+                    "Four times daily",
+                    "As needed",
+                    "Other / Not specified"
+                ]
+            )
+
+            route = st.selectbox(
+                "Administration route",
+                [
+                    "Oral",
+                    "Intravenous",
+                    "Intramuscular",
+                    "Topical",
+                    "Inhalation",
+                    "Other / Not specified"
+                ]
+            )
+
+            start_date = st.date_input(
+                "Medication start date"
+            )
+
+            submitted = st.form_submit_button(
+                "Add to medication history",
+                width="stretch"
+            )
+
+            if submitted:
+
+                existing = [
+                    item["medicine"]
+                    for item in st.session_state.patient_medications
+                ]
+
+                if selected_drug in existing:
+                    st.warning(
+                        "This medicine is already in the medication history."
+                    )
+                else:
+                    st.session_state.patient_medications.append({
+                        "medicine": selected_drug,
+                        "dosage": dosage.strip() or "Not specified",
+                        "frequency": frequency,
+                        "route": route,
+                        "start_date": str(start_date)
+                    })
+
+                    st.success(
+                        f"{selected_drug} added to medication history."
+                    )
+
+                    st.rerun()
+
+    st.divider()
+
+    # Display medication history
+    st.markdown("### Current medication list")
+
+    medications = st.session_state.patient_medications
+
+    if not medications:
+
+        st.info("No medicines have been added yet.")
+
+    else:
+
+        st.metric(
+            "Medicines recorded",
+            len(medications)
+        )
+
+        medication_df = pd.DataFrame(medications)
+
+        medication_df.columns = [
+            "Medicine",
+            "Dosage",
+            "Frequency",
+            "Route",
+            "Start date"
+        ]
+
+        st.dataframe(
+            medication_df,
+            width="stretch",
+            hide_index=True
+        )
+
+        st.markdown("### Remove medication")
+
+        remove_options = [
+            item["medicine"]
+            for item in medications
+        ]
+
+        medicine_to_remove = st.selectbox(
+            "Select a medicine to remove",
+            remove_options,
+            key="remove_patient_medicine"
+        )
+
+        if st.button(
+            "Remove selected medicine",
+            width="stretch"
+        ):
+
+            st.session_state.patient_medications = [
+                item
+                for item in st.session_state.patient_medications
+                if item["medicine"] != medicine_to_remove
+            ]
+
+            st.success(
+                f"{medicine_to_remove} removed."
+            )
+
+            st.rerun()
+
+        st.divider()
+
+        # Pairwise interaction review
+        st.markdown("### Medication interaction review")
+
+        st.caption(
+            "Reviews recorded medicine pairs against available research "
+            "evidence and the integrated interaction-family prediction model."
+        )
+
+        if len(medications) < 2:
+
+            st.info(
+                "Add at least two medicines to review possible interactions."
+            )
+
+        elif st.button(
+            "Analyse medication combinations",
+            width="stretch"
+        ):
+
+            from itertools import combinations
+
+            pairs = list(
+                combinations(
+                    [item["medicine"] for item in medications],
+                    2
+                )
+            )
+
+            st.markdown("#### Pairwise analysis")
+
+            for drug_a, drug_b in pairs:
+
+                with st.expander(
+                    f"{drug_a} + {drug_b}",
+                    expanded=True
+                ):
+
+                    # Research dataset evidence
+                    pair_records = find_pair_records(
+                        drug_a,
+                        drug_b
+                    )
+
+                    st.markdown("**Research dataset evidence**")
+
+                    if pair_records is not None and not pair_records.empty:
+
+                        st.warning(
+                            "A matching interaction record was found "
+                            "in the available research dataset."
+                        )
+
+                        st.dataframe(
+                            pair_records,
+                            width="stretch",
+                            hide_index=True
+                        )
+
+                    else:
+
+                        st.info(
+                            "No matching pair record was found in the "
+                            "loaded research dataset. This does not establish "
+                            "that the combination is safe."
+                        )
+
+                    # XGBoost prediction
+                    st.markdown("**XGBoost interaction-family prediction**")
+
+                    try:
+
+                        prediction = predict_ddi_family(
+                            drug_a,
+                            drug_b
+                        )
+
+                        st.write(prediction)
+
+                    except Exception as error:
+
+                        st.warning(
+                            f"Model prediction unavailable: {error}"
+                        )
+
+    st.divider()
+
+    st.caption(
+        "DDIvolve is a research prototype. This medication-history module "
+        "does not prescribe treatment, determine clinical safety, or recommend "
+        "starting, stopping, or changing medicines. Clinical decisions require "
+        "review by a qualified healthcare professional."
+    )
 
 # ============================================================
 # Footer
