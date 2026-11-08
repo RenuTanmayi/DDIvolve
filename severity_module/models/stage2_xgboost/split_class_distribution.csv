@@ -1,0 +1,28 @@
+split,class_id,interaction_family,records
+train,0,Adverse Effect Risk,43557
+train,1,Bioavailability,380
+train,2,Drug Absorption,31
+train,3,Drug Excretion,1336
+train,4,Drug Metabolism,28156
+train,5,Pharmacological Activity,32056
+train,6,Protein Binding,10
+train,7,Serum Concentration,24781
+train,8,Therapeutic Efficacy,5595
+validation,0,Adverse Effect Risk,8944
+validation,1,Bioavailability,79
+validation,2,Drug Absorption,7
+validation,3,Drug Excretion,256
+validation,4,Drug Metabolism,5478
+validation,5,Pharmacological Activity,6259
+validation,6,Protein Binding,1
+validation,7,Serum Concentration,5033
+validation,8,Therapeutic Efficacy,1117
+test,0,Adverse Effect Risk,8680
+test,1,Bioavailability,70
+test,2,Drug Absorption,7
+test,3,Drug Excretion,255
+test,4,Drug Metabolism,5565
+test,5,Pharmacological Activity,6499
+test,6,Protein Binding,0
+test,7,Serum Concentration,4895
+test,8,Therapeutic Efficacy,1191

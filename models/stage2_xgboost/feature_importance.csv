@@ -1,0 +1,41 @@
+{
+    "validation": {
+        "accuracy": 0.922168249061603,
+        "macro_precision_all_classes": 0.9551369486516406,
+        "macro_recall_all_classes": 0.9548214681961132,
+        "macro_f1_all_classes": 0.9548675992614213,
+        "weighted_f1": 0.9221714939154686,
+        "macro_f1_observed_classes_only": 0.9548675992614213
+    },
+    "test": {
+        "accuracy": 0.9214711729622267,
+        "macro_precision_all_classes": 0.844455217390127,
+        "macro_recall_all_classes": 0.8403034710318593,
+        "macro_f1_all_classes": 0.8422388304174633,
+        "weighted_f1": 0.9214698465563376,
+        "macro_f1_observed_classes_only": 0.9475186842196464
+    },
+    "training_time_seconds": 123.73600506782532,
+    "best_iteration_zero_based": 999,
+    "boosted_rounds": 1000,
+    "dataset_rows": 190238,
+    "training_rows": 135902,
+    "validation_rows": 27174,
+    "test_rows": 27162,
+    "number_of_classes": 9,
+    "number_of_features": 8256,
+    "test_class_support": {
+        "Adverse Effect Risk": 8680,
+        "Bioavailability": 70,
+        "Drug Absorption": 7,
+        "Drug Excretion": 255,
+        "Drug Metabolism": 5565,
+        "Pharmacological Activity": 6499,
+        "Protein Binding": 0,
+        "Serum Concentration": 4895,
+        "Therapeutic Efficacy": 1191
+    },
+    "test_classes_with_zero_support": [
+        "Protein Binding"
+    ]
+}

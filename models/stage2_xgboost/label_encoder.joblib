@@ -1,0 +1,12 @@
+{
+    "total_features": 8256,
+    "descriptor_features": 64,
+    "fingerprint_features": 8192,
+    "feature_order": "Descriptors followed by fingerprints",
+    "descriptor_feature_names": null,
+    "fingerprint_parameters": "Not specified in the supplied training notebook; recover from the original feature-generation pipeline.",
+    "input_dtype": "float32",
+    "descriptor_nan_inf_handling": "NaN and positive/negative infinity replaced with 0.0 before sparse concatenation",
+    "fingerprint_input_dtype": "uint8",
+    "matrix_format": "scipy.sparse.csr_matrix"
+}

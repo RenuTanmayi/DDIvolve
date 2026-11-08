@@ -1,0 +1,44 @@
+{
+    "project": "DDIvolve",
+    "model_type": "XGBoost Booster",
+    "model_file": "ddv_interaction_xgboost.json",
+    "encoder_file": "label_encoder.joblib",
+    "number_of_features": 8256,
+    "descriptor_features": 64,
+    "fingerprint_features": 8192,
+    "boosted_rounds": 1000,
+    "best_iteration_zero_based": 999,
+    "dataset_rows": 190238,
+    "training_rows": 135902,
+    "validation_rows": 27174,
+    "test_rows": 27162,
+    "number_of_classes": 9,
+    "classes": [
+        "Adverse Effect Risk",
+        "Bioavailability",
+        "Drug Absorption",
+        "Drug Excretion",
+        "Drug Metabolism",
+        "Pharmacological Activity",
+        "Protein Binding",
+        "Serum Concentration",
+        "Therapeutic Efficacy"
+    ],
+    "feature_order": [
+        "64 molecular descriptor features",
+        "8192 fingerprint features"
+    ],
+    "xgboost_version": "3.4.1",
+    "random_seed": 42,
+    "test_accuracy": 0.9214711729622267,
+    "test_macro_f1_all_classes": 0.8422388304174633,
+    "test_macro_f1_observed_classes_only": 0.9475186842196464,
+    "test_weighted_f1": 0.9214698465563376,
+    "training_device": "cuda",
+    "notes": [
+        "Label encoder was fitted on interaction_family labels in this notebook.",
+        "Feature matrix order is descriptors followed by fingerprints.",
+        "Descriptor names and Morgan fingerprint generation parameters were not specified in the supplied notebook.",
+        "Clinical severity is a separate module and is not predicted by this interaction-family model."
+    ]
+}

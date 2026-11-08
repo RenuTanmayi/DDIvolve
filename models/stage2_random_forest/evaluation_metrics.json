@@ -1,0 +1,10 @@
+,Adverse Effect Risk,Bioavailability,Drug Absorption,Drug Excretion,Drug Metabolism,Pharmacological Activity,Protein Binding,Serum Concentration,Therapeutic Efficacy
+Adverse Effect Risk,8199,0,0,1,141,259,0,72,8
+Bioavailability,0,69,0,0,0,1,0,0,0
+Drug Absorption,0,0,7,0,0,0,0,0,0
+Drug Excretion,1,0,0,250,1,0,0,3,0
+Drug Metabolism,115,0,0,0,5150,80,0,214,6
+Pharmacological Activity,299,1,0,0,159,5938,0,94,8
+Protein Binding,0,0,0,0,0,0,0,0,0
+Serum Concentration,107,0,0,4,368,101,0,4304,11
+Therapeutic Efficacy,31,0,0,0,10,15,0,23,1112

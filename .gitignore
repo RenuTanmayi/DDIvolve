@@ -14,3 +14,11 @@ venv/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Large training data and generated features
+DDIvolve_training_data.zip
+data/processed/stage1/
+data/processed/stage2/
+data/processed/consolidated_features/
+
+# Model artifacts will be handled separately

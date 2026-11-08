@@ -1,0 +1,19 @@
+{
+    "objective": "multi:softprob",
+    "num_class": 9,
+    "eval_metric": "mlogloss",
+    "tree_method": "hist",
+    "device": "cuda",
+    "max_depth": 8,
+    "learning_rate": 0.08,
+    "min_child_weight": 5,
+    "subsample": 0.85,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 5,
+    "reg_alpha": 0.1,
+    "max_bin": 256,
+    "seed": 42,
+    "nthread": -1,
+    "num_boost_round": 1000,
+    "early_stopping_rounds": 50
+}
